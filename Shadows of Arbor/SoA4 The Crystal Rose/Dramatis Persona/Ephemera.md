@@ -33,7 +33,7 @@ tags:
 
 ## Background
 
-- Originally she was summoned to provide power for the engine and while she did not like her role or indeed it's
+- Originally she was summoned to provide power for the engine and while she did not like her role or indeed it's restrictions her contract and summoning was supposed to be finite and eventually replaced. That all changed when Duchess took over the level and isolated from the other floors. Since then she has remained trapped in an endless loop of mental torture and isolation that would have sent weaker creatures mad far sooner.
 
 ---
 
@@ -54,11 +54,12 @@ tags:
 
 ### Introduction
 
--
+- *Another trick a new one but you are not real... like all the others a shade or maybe not... *
 
 ### What They Know
 
--
+- They know Duchess is out there but they simply call it "She" with great fear
+- They have never seen the creature only heard it swimming out in the darkness but know it's big.
 
 ### Quest Hooks
 
@@ -68,7 +69,7 @@ tags:
 
 ## Loot
 
--
+- She carries a heavenly artifact and her sword is nearby both can be claimed by players.
 
 ## Notes
 
