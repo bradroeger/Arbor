@@ -130,34 +130,26 @@ _Looking into the depths leaves you with the uncomfortable certainty that the aq
 ### Boiler Manipulation
 #### Increase Heat
 
-Makes surrounding areas safer from the Duchess.
-
-But creates more danger elsewhere.
+- Increase the heat in this room and adjoining and connected rooms and water.
+- Duchess Clock Lowers by 1 (She hates the heat)
+- Any attacks or abilities Duchess uses are made at disadvantage if she is in a room with high temperature.
+- Effect of Boiler increases by 1 level and persists across connected rooms.
 
 ---
 
 #### Reduce Heat
 
-Makes this room safer.
+- Makes this room safer.
+- Duchess Clock Raise by 1
+- Heat effects stop
 
-Allows the Duchess greater freedom.
 
 ---
 
 #### Redirect Heat
 
-Protect specific routes.
-
-Create temporary safe zones.
-
-Alter encounters later.
-- If the boiler is disabled:
-	- The timer no longer applies and they can move about freely.
-	- The seas begin to get colder but this will take time.
-	- The frozen area begins to get warmer again this will take several days to equalise fully.
-- Making changes to the boiler advances the clock
-- Freeing the Ephemera advances the clock
-
+- Protect specific routes.
+- Create temporary safe zones.
 ---
 
 ## 🎲 Checks
