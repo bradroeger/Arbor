@@ -61,11 +61,45 @@ trello_board_card_id: 647efe2bcc7a9b54da905256;6a272daf69039a25a745ac75
 
 ## 📖 Read-Aloud Text
 
-- *As the door slides slowly away you see into the room beyond and feel an intense amount of heat wash over you as warm water replaces cold. A gargantuan machine of moss covered brass, copper and steel dominates what once might have been a beautiful room. Pipes criss-cross above you, some seem to be causing the water to distort with heat others thrum with the movement of liquids. The whole room is uncomfortably warm and loud, the sound of the machine which still runs despite it’s underwater and abandoned nature is deafening. The light from the machine is intermittent as it pulses as if breathing and wheezing at every effort to stay alight.*
-- **Turning the corner or spotting the creature in the cage**
-- *Chains dangle taught from the ceiling wrapping their way around and terminating at a large wrought iron cage there is a faint glow that you can only faintly see through the steam surrounding it as it dangles off the edge.*
-- **Looking outward**
-- *Beyond the machine you see a vast ocean, dark and endless stretching out into infinity. Leaving you feeling cold and as if you are about to be swallowed. Much of the floor on one half of this place has been laid to ruin bits and pieces lie strewn about below on the sub floor.*
+*The instant the door opens, heat threatens to crush you.
+
+_The water here is strangely warm, almost uncomfortably so, carrying the taste of salt and metal. Ahead stands a colossal machine of brass, copper, and blackened steel. Pipes as thick as tree trunks twist through the chamber and disappear into walls, floors, and ceilings._
+
+_The machine should not still function._
+
+_Yet it does._
+
+_Every few moments the furnace pulses with a dull orange glow. The light brightens. Fades. Brightens again._
+
+_Like the heartbeat of some dying giant._
+
+_Steam hisses from cracked valves. Massive pistons groan beneath the weight of centuries. The entire room vibrates with the endless labour of machinery that refuses to stop._
+
+---
+
+#### Spotting the Cage
+
+_Beyond the machinery hangs a wrought-iron cage suspended over a ruined section of the facility._
+
+_Chains disappear upward into darkness._
+
+_Within the cage, hidden behind drifting clouds of steam, something glows faintly red._
+
+---
+
+#### Looking Outward
+
+_Past the edge of the ruined floor there is no wall._
+
+_No tunnel._
+
+_No chamber._
+
+_Only ocean._
+
+_An endless black expanse stretches away into darkness, broken only by bioluminescent plants in strange hues and the occasional silhouette of something moving far beyond sight._
+
+_Looking into the depths leaves you with the uncomfortable certainty that the aquarium is merely a small intrusion into something vastly larger._
 
 ---
 
