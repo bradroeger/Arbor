@@ -127,6 +127,30 @@ _Looking into the depths leaves you with the uncomfortable certainty that the aq
 
 ## 🔄 What Changes Here
 
+### Boiler Manipulation
+#### Increase Heat
+
+Makes surrounding areas safer from the Duchess.
+
+But creates more danger elsewhere.
+
+---
+
+#### Reduce Heat
+
+Makes this room safer.
+
+Allows the Duchess greater freedom.
+
+---
+
+#### Redirect Heat
+
+Protect specific routes.
+
+Create temporary safe zones.
+
+Alter encounters later.
 - If the boiler is disabled:
 	- The timer no longer applies and they can move about freely.
 	- The seas begin to get colder but this will take time.
@@ -159,7 +183,7 @@ _Looking into the depths leaves you with the uncomfortable certainty that the aq
 
 ## 🧩 Puzzle / Challenge
 
-- The heat from the boiler causes 1d6 fire damage every 5 real life minute the players spend in here.
+- The heat from the boiler is dangerous and can hurt or even debilitate the players given enough time.
 - They can disable this by succeeding at a **Tinker's Tool Check** **DC 20**
 
 ---
