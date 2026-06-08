@@ -85,7 +85,7 @@ index_tags: []
     - De-salinate the water from the plane and expel the salt feeding it to [[Ephemera]] the angel.
 - The [[Duchess]] does not kill [[Ephemera]] because it enjoys the torment the angel suffers in and it is slowly trying to break it's mind over the years it's been trapped.
 - The Angel hates the [[Duchess]] but is very broken from years of isolation and mental torture that Duchess inflicts on her.
-- The [[Ephemera]]'s sword was placed nearby unfortunately it collapsed into the rubble and will need to be dug out to retrieve it.
+- The [[Ephemera]]'s sword was placed nearby unfortunately it collapsed into the rubble and will need to be dug out to retrieve it. It is a 
 
 ---
 
@@ -134,7 +134,7 @@ index_tags: []
 
 ## 💎 Treasure
 
--
+- Angelic Treasure **TODO**
 
 ## 🎁 Hidden Loot
 
