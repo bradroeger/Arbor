@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d24444b7b5f452af",
+        "id": "c62261b3039108fe",
         "type": "tabs",
         "children": [
           {
-            "id": "232b7dbe3dad4184",
+            "id": "d5f04782a21ac9c5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 6 - The Engine Room.md",
-                "bFile": "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 6 - The Engine Room.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Room 6 - The Engine Room  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -198,7 +194,7 @@
       "cmdr:QuickAdd: New Location": false
     }
   },
-  "active": "232b7dbe3dad4184",
+  "active": "14962e9e25d8f2a7",
   "lastOpenFiles": [
     "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 6 - The Engine Room.md",
     "Room 5]], [[Room 8]], [[Room 9.md",
