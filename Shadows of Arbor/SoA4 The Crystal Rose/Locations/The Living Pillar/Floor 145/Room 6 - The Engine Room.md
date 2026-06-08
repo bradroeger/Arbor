@@ -59,7 +59,7 @@ index_tags: []
 
 ## 📖 Read-Aloud Text
 
-- *As the door slides away slowly you see into the room beyond. A gargantuan machine of moss covered brass, copper and steel dominates what once was a beautiful room. Pipes criss-cross above you, parts seem to be causing the water to distort with heat others thrum with the movement of liquids. The whole room is uncomfortably warm and loud, the sound of the machine which still runs despite it’s underwater and abandoned nature is deafening. All doors into this room of which there are three appear to be shut.*
+- *As the door slides slowly away you see into the room beyond and feel an intense amount of heat wash over you as warm water replaces cold. A gargantuan machine of moss covered brass, copper and steel dominates what once might have been a beautiful room. Pipes criss-cross above you, some seem to be causing the water to distort with heat others thrum with the movement of liquids. The whole room is uncomfortably warm and loud, the sound of the machine which still runs despite it’s underwater and abandoned nature is deafening. The light from the machine is intermittent as it pulses as if breathing and wheezing at every effort to stay alight.*
 - **Turning the corner or spotting the creature in the cage**
 - *Chains dangle taught from the ceiling wrapping their way around and terminating at a large cage with a huge magical sigil struck at the bottom you can only faintly see through the steam surrounding it as it dangles off the edge.*
 - **Looking outward**
@@ -114,7 +114,7 @@ index_tags: []
 - **Fortitude Saving Throw DC 20**:
 	- The heat in this area can become overwhelming after 30 minutes they make this roll if they fail they take a point of exhaustion.
 - **Nature DC 20**:
-	- It's unusual that despite the open nature of this area there are no fish at all present in here as if something is keeping them away.
+	- It's unusual that despite the open nature of this area there are no fish at all in here as if something is keeping them away.
 
 ---
 
