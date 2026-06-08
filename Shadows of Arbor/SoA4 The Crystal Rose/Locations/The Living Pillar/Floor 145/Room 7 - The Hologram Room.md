@@ -39,7 +39,15 @@ tags:
 ## 📖 Read-Aloud Text
 
 - *As you cross the threshold into the room, you behold a beautiful mosaic patterned floor and four dark stone plinths each of which has a plaque embedded into the ground nearby. Atop the plinths are rings of copper and gold set into the stone and in the middle a softly glowing magical seal set in silver. Each of the rings save one is broken or bent and a final one has been shattered and it's magical circle collapsed. One part of the outside wall has been smashed and broken with debris scattered across the room.*
-- **Examing the **
+
+#### Examining the Plinths
+
+- *In front of the plinth is a plaque each one has s description and a small button save for the completely destroyed one. The plaques read: *
+	- *The Artic Sea - A cold frontier where life finds a way.*
+	- *The Tropical Sea - A warm and wonderful swim with brightly coloured neighbours.*
+	- *The Lakes and Rivers - Nearby and yet still not well understood.*
+- *The final plinth is mostly destroyed and*
+
 
 ---
 
