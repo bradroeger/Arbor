@@ -118,6 +118,8 @@ trello_board_card_id: 647efe2bcc7a9b54da905256;6a272daf69039a25a745ac75
 	- The heat in this area can become overwhelming after 30 minutes they make this roll if they fail they take a point of exhaustion.
 - **Nature DC 20**:
 	- It's unusual that despite the open nature of this area there are no fish at all in here as if something is keeping them away.
+- **Athletic DC 25**:
+	- Underneath the rubble is [[Ephemera]]'s sword but it will take a mighty pull to dislodge it.
 
 ---
 
@@ -141,16 +143,12 @@ trello_board_card_id: 647efe2bcc7a9b54da905256;6a272daf69039a25a745ac75
 
 ## 🎁 Hidden Loot
 
--
-
----
-
-## 🕵️ Secrets
-
--
+- Underneath the rubble is Ephemera's Sword 
 
 ---
 
 ## 🧠 GM Running Tips
 
--
+- Remember that Duchess is watching and keep an eye on the clock.
+- She likes torturing Ephemera so at some point she may enter her mind to plant the seeds of doubt during a conversation with the NPCs
+- It's unlikely she will attack at this point at least directly.

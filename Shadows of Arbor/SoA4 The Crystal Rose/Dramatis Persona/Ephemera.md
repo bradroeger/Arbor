@@ -27,7 +27,7 @@ tags:
 
 ## Personality
 
-- 
+- Broken and unhinged she will mostly believe the players are merely illusions sent to torment her.
 
 ---
 
@@ -54,16 +54,12 @@ tags:
 
 ### Introduction
 
-- *Another trick a new one but you are not real... like all the others a shade or maybe not... *
+- *Another trick a new one but you are not real... like all the others a shade or maybe not... dare I let myself hope and then fall again for your amusement creature.*
 
 ### What They Know
 
 - They know Duchess is out there but they simply call it "She" with great fear
 - They have never seen the creature only heard it swimming out in the darkness but know it's big.
-
-### Quest Hooks
-
--
 
 ---
 
