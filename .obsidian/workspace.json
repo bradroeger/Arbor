@@ -11,10 +11,14 @@
             "id": "d5f04782a21ac9c5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Shadows of Arbor/SoA4 The Crystal Rose/Dramatis Persona/Ephemera.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ephemera"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Shadows of Arbor/SoA4 The Crystal Rose/Dramatis Persona/Ephemera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Ephemera"
             }
           },
           {
@@ -194,9 +199,10 @@
       "cmdr:QuickAdd: New Location": false
     }
   },
-  "active": "14962e9e25d8f2a7",
+  "active": "52015dab8a7ff1b4",
   "lastOpenFiles": [
     "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 6 - The Engine Room.md",
+    "Shadows of Arbor/SoA4 The Crystal Rose/Dramatis Persona/Ephemera.md",
     "Room 5]], [[Room 8]], [[Room 9.md",
     "Room 4]] [[Room 8]] [[Room 9.md",
     "Untitled.md",

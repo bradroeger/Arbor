@@ -125,7 +125,7 @@ index_tags: []
 
 ## 🎭 Characters Present
 
-- Ephemera
+- [[Ephemera]]
 
 ---
 
