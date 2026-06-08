@@ -38,7 +38,8 @@ tags:
 
 ## 📖 Read-Aloud Text
 
-- *As you cross the threshold into the room you behold a beautiful mosaic patterned floor and four*
+- *As you cross the threshold into the room, you behold a beautiful mosaic patterned floor and four dark stone plinths each of which has a plaque embedded into the ground nearby. Atop the plinths are rings of copper and gold set into the stone and in the middle a softly glowing magical seal set in silver. Each of the rings save one is broken or bent and a final one has been shattered and it's magical circle collapsed. One part of the outside wall has been smashed and broken with debris scattered across the room.*
+- **Examing the **
 
 ---
 
