@@ -30,13 +30,15 @@ tags:
 
 ## 🧭 Summary
 
--
+- This room has 2 functioning hologram/programmed illusions that served to educate people about the fish.
+- 1 spot contains a partially working illusion that is now a Memoria.
+- The area is open to the [[abyss sea]] on one side
 
 ---
 
 ## 📖 Read-Aloud Text
 
--
+- *As you cross the threshold into the room you behold a beautiful mosaic patterned floor and four*
 
 ---
 
