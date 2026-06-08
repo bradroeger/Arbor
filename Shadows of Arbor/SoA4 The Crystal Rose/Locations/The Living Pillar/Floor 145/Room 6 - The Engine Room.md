@@ -126,6 +126,8 @@ _Looking into the depths leaves you with the uncomfortable certainty that the aq
 ---
 
 ## 🔄 What Changes Here
+- Making changes to the boiler advances the clock
+- Freeing the Ephemera advances the clock
 
 ### Boiler Manipulation
 #### Increase Heat
@@ -134,7 +136,6 @@ _Looking into the depths leaves you with the uncomfortable certainty that the aq
 - Duchess Clock Lowers by 1 (She hates the heat)
 - Any attacks or abilities Duchess uses are made at disadvantage if she is in a room with high temperature.
 - Effect of Boiler increases by 1 level and persists across connected rooms.
-
 ---
 
 #### Reduce Heat
@@ -142,8 +143,6 @@ _Looking into the depths leaves you with the uncomfortable certainty that the aq
 - Makes this room safer.
 - Duchess Clock Raise by 1
 - Heat effects stop
-
-
 ---
 
 #### Redirect Heat
@@ -178,6 +177,25 @@ _Looking into the depths leaves you with the uncomfortable certainty that the aq
 - The heat from the boiler is dangerous and can hurt or even debilitate the players given enough time.
 - They can disable this by succeeding at a **Tinker's Tool Check** **DC 20**
 
+### Boiler Heat
+
+- Every time the players perform an action in the room add 1 to a 12 stage clock
+	- Investigating machinery
+	- Talking to Ephemera
+	- Searching rubble
+	- Altering controls
+	- Casting ritual spells
+
+Every time the clock increases perform the listed effect if they are at or above.
+
+At 3:
+- Constitution save **1d6**
+At 6:
+- Constitution save **2d6** 
+At 9:
+- Exhaustion
+At 12
+- Exhaustion 2
 ---
 
 ## 🎭 Characters Present

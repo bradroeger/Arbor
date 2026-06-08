@@ -41,11 +41,11 @@ tags:
 
 ### Short-Term
 
-- Escape from the cell
+- Escape
 
 ### Long-Term
 
-- Kill [[Duchess]] and return to the holy host
+- Kill [[Duchess]] and return to the holy host and recover what remain
 
 ---
 
