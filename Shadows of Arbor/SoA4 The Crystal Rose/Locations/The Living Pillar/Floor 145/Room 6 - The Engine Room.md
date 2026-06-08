@@ -46,7 +46,7 @@ index_tags: []
 ## 🧭 Summary
 
 - This is the engine room it had many functions most of which are surprisingly still working.
-- There are no fish at all present in this place the Duchess makes sure of it to isolate the prisoner more
+- There are no fish at all present in this place the Duchess makes sure of it to isolate the prisoner more.
 - The power source for all of this is a trapped angel, the creature has been imprisoned for a long time and it’s primary food source was the salt the machine made as a by product.
 - The angel is severely mentally damaged, Duchess has been feeding off of her misery and solitude for an age, torturing her to it's warped delight
 - Freeing the angel may lead to help for the players or hinderance
@@ -113,6 +113,8 @@ index_tags: []
 	- The DC needed to convince the Ephemera to help you fight the creature pursuing them.
 - **Fortitude Saving Throw DC 20**:
 	- The heat in this area can become overwhelming after 30 minutes they make this roll if they fail they take a point of exhaustion.
+- **Nature DC 20**:
+	- It's unusual that despite the open nature of this area there are no fish at all present in here as if something is keeping them away.
 
 ---
 
