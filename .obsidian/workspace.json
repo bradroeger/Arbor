@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "166bb7a6a3124f65",
+    "type": "split",
+    "children": [
+      {
+        "id": "51e1e7bdbf81dd2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d40a24ccf1c6ef6",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/callout-manager/styles.css",
+                "bFile": ".obsidian/plugins/callout-manager/styles.css",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: styles.css  (Working Tree)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "132581d82b26c8c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b608904f5bc8752c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52015dab8a7ff1b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5aa4e14b0b1b889c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7b927edaae8a7793",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "38717f070ed47c0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9ad2b121b08075e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5f266132b173a26",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b429d6ce86276fad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/NPC Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from NPC Template"
+            }
+          },
+          {
+            "id": "3ba362117887e5cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "316edf37eacda4d9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b6beafc8081da7cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/NPC Template.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of NPC Template"
+            }
+          },
+          {
+            "id": "14962e9e25d8f2a7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "cmdr:QuickAdd: New NPC": false,
+      "cmdr:QuickAdd: New Location": false
+    }
+  },
+  "active": "3d40a24ccf1c6ef6",
+  "lastOpenFiles": [
+    "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 6 - The Engine Room.md",
+    "Templates/Location Template.md",
+    "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145",
+    "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar",
+    "Templates/NPC Template.md",
+    "Untitled.md",
+    "Test.md",
+    "Shadows of Arbor/Dramatis Persona/Test NPC.md",
+    "Shadows of Arbor/SoA1 The Amber Lion/Feedback",
+    "Shadows of Arbor/SoA4 The Crystal Rose/Props",
+    "Shadows of Arbor/SoA4 The Crystal Rose/Maps",
+    "Shadows of Arbor/SoA4 The Crystal Rose/Magic Items",
+    "Shadows of Arbor/SoA4 The Crystal Rose/Images",
+    "Shadows of Arbor/SoA4 The Crystal Rose/Locations",
+    "Shadows of Arbor/SoA4 The Crystal Rose/Handouts",
+    "Shadows of Arbor/SoA4 The Crystal Rose/Dramatis Persona",
+    "Welcome.md"
+  ]
+}
