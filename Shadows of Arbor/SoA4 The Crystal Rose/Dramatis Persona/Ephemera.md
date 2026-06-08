@@ -34,6 +34,7 @@ tags:
 ## Background
 
 - Originally she was summoned to provide power for the engine and while she did not like her role or indeed it's restrictions her contract and summoning was supposed to be finite and eventually replaced. That all changed when Duchess took over the level and isolated from the other floors. Since then she has remained trapped in an endless loop of mental torture and isolation that would have sent weaker creatures mad far sooner.
+- If freed she will struggle to believe your intentions and while not hostile directly may stay in her cage simply to avoid pain she knows Duchess might inflict on her should she leave.
 
 ---
 
@@ -45,7 +46,7 @@ tags:
 
 ### Long-Term
 
-- Kill [[Duchess]] and return to the holy host and recover what remain
+- Kill [[Duchess]] and return to the holy host and recover what remains of her mind.
 
 ---
 
