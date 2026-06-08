@@ -39,6 +39,8 @@ treasure:
 tags:
   - room
 index_tags: []
+trello_plugin_note_id: MkjEJjrXh_uKHINrcnadX
+trello_board_card_id: 647efe2bcc7a9b54da905256;6a272daf69039a25a745ac75
 ---
 
 # 🗺️ Room 6 - The Engine Room
@@ -135,6 +137,7 @@ index_tags: []
 ## 💎 Treasure
 
 - Angelic Treasure **TODO**
+- [[Ephemera]]'s Sword **TODO**
 
 ## 🎁 Hidden Loot
 

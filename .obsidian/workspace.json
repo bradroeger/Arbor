@@ -174,9 +174,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "518fbd9ad5a55c29",
+            "type": "leaf",
+            "state": {
+              "type": "trello-plugin",
+              "state": {},
+              "icon": "trello-plugin-icon-trello",
+              "title": "Trello"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -199,7 +209,7 @@
       "cmdr:QuickAdd: New Location": false
     }
   },
-  "active": "d5f04782a21ac9c5",
+  "active": "52015dab8a7ff1b4",
   "lastOpenFiles": [
     "Shadows of Arbor/SoA4 The Crystal Rose/Dramatis Persona/Ephemera.md",
     "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 6 - The Engine Room.md",
