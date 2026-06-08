@@ -1,18 +1,30 @@
 ---
 type: room
-adventure:
-area:
-region:
+adventure: "[[The Crystal Rose]]"
+area: "[[Floor 145]]"
+region: "[[The Living Pillar]]"
 id:
-connections: []
+connections:
+  - "[[Room 5]]"
+  - "[[Room 8]]"
+  - "[[Room 9]]"
 encounter_type: exploration
 combat_expected: false
-entry_from:
-exit_to: []
+entry_from: "[[Room 5]]"
+exit_to:
+  - "[[Room 8]]"
+  - "[[Room 9]]"
 time_pressure: false
-skill_checks: []
-saving_throws: []
-hazards: []
+skill_checks:
+  - Perception
+  - Stealth
+  - Dispel
+  - Tinker's Tools
+  - Persuasion
+saving_throws:
+  - Constitution
+hazards:
+  - Boiler Heat
 secret_room: false
 hidden_features: []
 discovery_skills:
@@ -21,7 +33,9 @@ discovery_skills:
 faction_presence: []
 controlled_by:
 status: active
-treasure: []
+treasure:
+  - Angelic Blade
+  - Angelic Halo
 tags:
   - room
 index_tags: []
@@ -97,6 +111,8 @@ index_tags: []
 	- To understand the mechanisms of the machine how it works what it does and importantly how to change the flow and direction of water in the system. The Duchess does not like the heat from the Tropical area it’s why it’s been largely left alone by her. It’s possible the players could use this to stave her off if they understand this.
 - **Persuasion DC 25 (if they speak Infernal):**
 	- The DC needed to convince the Ephemera to help you fight the creature pursuing them.
+- **Fortitude Saving Throw DC 20**:
+	- The heat in this area can become overwhelming after 30 minutes they make this roll if they fail they take a point of exhaustion.
 
 ---
 

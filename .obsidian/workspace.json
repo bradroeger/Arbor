@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "51e1e7bdbf81dd2d",
+        "id": "d24444b7b5f452af",
         "type": "tabs",
         "children": [
           {
-            "id": "3d40a24ccf1c6ef6",
+            "id": "232b7dbe3dad4184",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/plugins/templater-obsidian/data.json",
-                "bFile": ".obsidian/plugins/templater-obsidian/data.json",
+                "aFile": "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 6 - The Engine Room.md",
+                "bFile": "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 6 - The Engine Room.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: data.json  (Working Tree)"
-            }
-          },
-          {
-            "id": "72cfcff7d278fc72",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
-            }
-          },
-          {
-            "id": "e186ed6fee31548a",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "title": "Diff: Room 6 - The Engine Room  (Working Tree)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,10 +198,12 @@
       "cmdr:QuickAdd: New Location": false
     }
   },
-  "active": "e186ed6fee31548a",
+  "active": "232b7dbe3dad4184",
   "lastOpenFiles": [
-    "Untitled.md",
     "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 6 - The Engine Room.md",
+    "Room 5]], [[Room 8]], [[Room 9.md",
+    "Room 4]] [[Room 8]] [[Room 9.md",
+    "Untitled.md",
     "Templates/Location Template.md",
     "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145",
     "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar",
