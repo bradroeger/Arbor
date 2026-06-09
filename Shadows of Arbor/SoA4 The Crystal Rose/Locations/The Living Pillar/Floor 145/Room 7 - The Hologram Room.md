@@ -60,7 +60,7 @@ tags:
 
 ### Lakes and Rivers
 
-- The Memoria was created when the 
+- The Memoria was created when the very first visitors looked out into the tropical fish exhibit and saw 
 ---
 
 ## 🔄 What Changes Here
