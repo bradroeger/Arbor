@@ -60,7 +60,7 @@ tags:
 
 ### Lakes and Rivers
 
-- The Memoria was created when the very first visitors looked out into the tropical fish exhibit and saw 
+- The Memoria was created when the very first visitors looked out into the tropical fish exhibit and saw the schools of fish dancing around. However the Memoria has now advanced considerably and simply wants to share the love of the aquarium with others. It is sentient and acts a bit like a sentient weapon capable of rational thought but does not posses locomotion. It's trigger condition to actually play it's Memoria is a child touching the glass to the tropical aquarium, and if it plays one more time the Memoria will fade.
 ---
 
 ## 🔄 What Changes Here
