@@ -57,6 +57,7 @@ tags:
 - The Tropical and Artic Sea function normally giving out information such as average temperature, ecology and different species present in each tank
 - The  Lakes and Rivers unit is a Memoria but can present the same information however can also speak back and answer questions including much of what the final plinth knows.
 - The L&R unit will function as normal until a question is asked that it might reasonably be able to answer at which point it will do so.
+- Remember to advance the clock for every interaction in here and when the illusions are speaking they advance an extra tick due to the loud noise.
 
 ### Lakes and Rivers
 
