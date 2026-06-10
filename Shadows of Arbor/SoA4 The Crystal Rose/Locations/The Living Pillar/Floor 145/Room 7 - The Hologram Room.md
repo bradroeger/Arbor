@@ -66,7 +66,7 @@ tags:
 *Despite the frigid temperatures of these artic waters sea life still finds a way to survive here. Far from our temperate city of Arbor these waters can reach far below freezing and it is only due to the movements of the waves that the entire body of water does not simply turn into a solid block of ice. Some of the denizens include the beautiful Rime worms you can see moving along the floor of the exhibit and if you squint your eyes you might just be able to see the glass fish with skin so clear you can see right through them.*
 
 ### Lakes and Rivers
-It may be hard to see from here but just on the other side of the Artic exhibit you'll find some of ou
+It may be hard to see from here but just on the other side of the Artic exhibit you'll find some of our more local denizens. Every creature you see in here makes it's home amongst the lakes and rivers of Arbor. Due to the proximity to the great tree these aquatic creatures may be of unusual size, colour or indeed even completly new species not seen anywhere else. So among the guppies and catfish you might also spot the
 
 ### Abyssal
 
