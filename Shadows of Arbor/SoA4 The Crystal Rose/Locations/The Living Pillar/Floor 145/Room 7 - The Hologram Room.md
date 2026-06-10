@@ -60,7 +60,7 @@ tags:
 - Remember to advance the clock for every interaction in here and when the illusions are speaking they advance an extra tick due to the loud noise.
 
 ### Tropical 
-*The tropical exhibit contains a wide variety of colourful specimens, but do not let their colours entice you into touching them several are incredibly venomous including the notorius *
+*The tropical exhibit contains a wide variety of colourful specimens, but do not let their colours entice you into touching them several are incredibly venomous including the Dire Lionfish  *
 
 ### Artic
 
