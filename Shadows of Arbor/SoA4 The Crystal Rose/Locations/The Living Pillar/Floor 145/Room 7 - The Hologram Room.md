@@ -1,8 +1,8 @@
 ---
 type: room
-adventure:
-area:
-region:
+adventure: "[[The Crystal Rose]]"
+area: "[[Floor 145]]"
+region: "[[The Living Pillar]]"
 id:
 connections: []
 encounter_type: exploration
@@ -66,6 +66,7 @@ tags:
 *Despite the frigid temperatures of these artic waters sea life still finds a way to survive here. Far from our temperate city of Arbor these waters can reach far below freezing and it is only due to the movements of the waves that the entire body of water does not simply turn into a solid block of ice. Some of the denizens include the beautiful Rime worms you can see moving along the floor of the exhibit and if you squint your eyes you might just be able to see the glass fish which are completely transparent.*
 
 ### Lakes and Rivers
+
 
 ### Abyssal
 
