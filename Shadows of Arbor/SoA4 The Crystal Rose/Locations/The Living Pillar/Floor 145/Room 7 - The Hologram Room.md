@@ -63,7 +63,7 @@ tags:
 *The tropical exhibit contains a wide variety of colourful specimens, but do not let their colours entice you into touching them several are incredibly venomous including the Dire Lionfish with it's venomous spines it can launch itself forward with incredible speed and impale itself on it's prey immobilizing it within mere moments. But the lionfish must coexist with the other creatures and what is predator becomes prey in the blink of an eye, and if you look carefully you'll see our fully autonomous sea serpent easily capable of snapping up the lionfish in one bite! If you have any question about specific fauna or flora please ask your guide.*
 
 ### Artic
-*Despite the frigid temperatures of these artic waters sea life still finds a way to survive here. Far from our temperate city of Arbor the temperature of these waters can reach far below freezing and it is only due to the movements of the waves that the *
+*Despite the frigid temperatures of these artic waters sea life still finds a way to survive here. Far from our temperate city of Arbor these waters can reach far below freezing and it is only due to the movements of the waves that the entire body of water does not simply turn into a solid block of ice. Some of the denizens include the *
 
 ### Lakes and Rivers
 
