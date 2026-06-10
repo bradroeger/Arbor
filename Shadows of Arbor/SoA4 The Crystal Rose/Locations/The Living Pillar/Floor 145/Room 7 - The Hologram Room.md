@@ -60,13 +60,14 @@ tags:
 - Remember to advance the clock for every interaction in here and when the illusions are speaking they advance an extra tick due to the loud noise.
 
 ### Tropical 
+
 *The tropical exhibit contains a wide variety of colourful specimens, but do not let their colours entice you into touching them several are incredibly venomous including the Dire Lionfish with it's venomous spines it can launch itself forward with incredible speed and impale itself on it's prey immobilizing it within mere moments. But the lionfish must coexist with the other creatures and what is predator becomes prey in the blink of an eye, and if you look carefully you'll see our fully autonomous sea serpent easily capable of snapping up the lionfish in one bite! If you have any question about specific fauna or flora please ask your guide.*
 
 ### Artic
 *Despite the frigid temperatures of these artic waters sea life still finds a way to survive here. Far from our temperate city of Arbor these waters can reach far below freezing and it is only due to the movements of the waves that the entire body of water does not simply turn into a solid block of ice. Some of the denizens include the beautiful Rime worms you can see moving along the floor of the exhibit and if you squint your eyes you might just be able to see the glass fish with skin so clear you can see right through them.*
 
 ### Lakes and Rivers
-It may be hard to see from here but just on the other side of the Artic exhibit you'll find some of our more local denizens. Every creature you see in here makes it's home amongst the lakes and rivers of Arbor. Due to the proximity to the great tree these aquatic creatures may be of unusual size, colour or indeed even completly new species not seen anywhere else. So among the guppies and catfish you might also spot the
+*It may be hard to see from here but just on the other side of the Artic exhibit you'll find some of our more local denizens. Every creature you see in here makes it's home amongst the lakes and rivers of Arbor. Due to the proximity to the great tree these aquatic creatures may be of unusual size, colour or indeed even completely new species not seen anywhere else. So among the guppies and catfish you might also spot a small group of sea bees or if you are really lucky the bliss fish.* 
 
 ### Abyssal
 
