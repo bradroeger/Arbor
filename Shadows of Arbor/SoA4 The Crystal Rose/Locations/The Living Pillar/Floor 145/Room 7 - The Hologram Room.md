@@ -60,7 +60,7 @@ tags:
 - Remember to advance the clock for every interaction in here and when the illusions are speaking they advance an extra tick due to the loud noise.
 
 ### Tropical 
-*The tropical exhibit contains a wide variety of colourful specimens, but do not let their colours entice you into touching them several are incredibly venomous including the Dire Lionfish  *
+*The tropical exhibit contains a wide variety of colourful specimens, but do not let their colours entice you into touching them several are incredibly venomous including the Dire Lionfish with it's venomous spines it can launch itself forward with incredible speed and impale itself on it's prey immobilizing it within mere moments. But the lionfish must coexist with the other creatures and what is predator becomes prey in the blink of an eye. If you have any question about specific fauna or flora please ask your our guide. *
 
 ### Artic
 
