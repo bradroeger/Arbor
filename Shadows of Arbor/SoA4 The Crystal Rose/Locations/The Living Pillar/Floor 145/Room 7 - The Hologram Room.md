@@ -90,26 +90,26 @@ trello_board_card_id: 647efe2bcc7a9b54da905256;6a027cc45f17e0714b7d56e6
 * Ice Float
 
 ### Lakes and Rivers
-* *As you reach forward to press the button you see the plinth light up and standing on the platform is a young man dressed as a fisherman, including a long pole, bucket and tackle box. Upon his head he wears a mariners hat and long mutton chops and a corn cob pipe. He clears his throat takes his pipe out and smacks it to clear the tobacco, pulls a light and takes a long puff before speaking. "Now then then are you ready?" **He pauses to wait for the party** "Right then it may be hard to see from here but just on the other side of the Arctic exhibit you'll find some of our more local denizens. Every creature you see in here makes it's home amongst the lakes and rivers of Arbor. Due to the proximity to the great tree these aquatic creatures may be of unusual size, colour or indeed even completely new species not seen anywhere else. So among the guppies and catfish you might also spot a small group of sea bees or if you are really lucky the bliss fish."*
+* *As you reach forward to press the button you see the plinth light up and standing on the platform is a young man dressed as a fisherman, including a long pole, bucket and tackle box. Upon his head he wears a mariners hat and long mutton chops and a corn cob pipe. He clears his throat takes his pipe out and smacks it to clear the tobacco, pulls a light and takes a long puff before speaking. "Now then are you ready?" **He pauses to wait for the party** "Right then it may be hard to see from here but just on the other side of the Arctic exhibit you'll find some of our more local denizens. Every creature you see in here makes its home amongst the lakes and rivers of Arbor. Due to the proximity to the great tree these aquatic creatures may be of unusual size, colour or indeed even completely new species not seen anywhere else. So among the guppies and catfish you might also spot a small group of sea bees or if you are really lucky the bliss fish."*
 
 * Gold-tipped Ostrocod
 * Sea Bees
-* Bliss Fish - An embodiment of luck, seeing one is said to grant good luck before a voyage and if you manage to gain it's favour good luck and it will follow you. 
+* Bliss Fish - An embodiment of luck, seeing one is said to grant good luck before a voyage. If you somehow earn its favour, the creature is said to follow you for a time, bringing good fortune wherever it swims.
 * Nettle Drakes
-* Giant golden lotus - The center of this large golden leaf plant is said to contain a pearly of pure gold, practically though it's leaves can be used as a flavour additive.
+* Giant golden lotus - The center of this large golden leaf plant is said to contain a pearl of pure gold, In practice, however, its leaves can be used as a flavour additive.
 * Spined aloe - Medicinal herb used in many healing potions in Arbor, however it's spines are razor sharp so need to be handled with care.
 
 
 ### Abyssal
-* In the case of the abyssal the Lakes and Rivers memoria can answer questions about it but only has a partial memory of it's speech. What they do rememeber is this:
-	* The recording over there spoke about the Abyssal sea like some great unknown like a last frontier for the sapient races to explore and possibly conquer. 
+* In the case of the abyssal the Lakes and Rivers memoria can answer questions about it but only has a partial memory of it's speech. What it does remember is this:
+	* The recording spoke of the Abyssal Sea as the last great frontier for the sapient races to explore and perhaps one day conquer.
 	* They said something about monsters large enough to swallow ships and creatures that never saw the light of day with weird features.
 	* They sounded afraid...
 
 
 ### Lakes and Rivers - Memoria
 
-- The Memoria was created when the very first visitors looked out into the tropical fish exhibit and saw the schools of fish dancing around. However the Memoria has now advanced considerably and simply wants to share the love of the aquarium with others. It is sentient and acts a bit like a sentient weapon capable of rational thought but does not posses locomotion. It's trigger condition to actually play it's Memoria is a child touching the glass to the tropical aquarium, and if it plays one more time the Memoria will fade.
+- The Memoria was created when the very first visitors looked out into the tropical fish exhibit and saw the schools of fish dancing around. However the Memoria has now advanced considerably and simply wants to share the love of the aquarium with others. It is sentient and acts a bit like a sentient weapon capable of rational thought but does not possess locomotion. It's trigger condition to actually play its Memoria is a child touching the glass to the tropical aquarium, and if it plays one more time the Memoria will fade.
 
 #### What the Memoria knows
 * It has an awareness of the Duchess but it leaves it alone probably because it can't really think or has a mind.
@@ -120,6 +120,7 @@ trello_board_card_id: 647efe2bcc7a9b54da905256;6a027cc45f17e0714b7d56e6
 * Alden knows there is something buried under the rubble where the Abyssal illusion was he thinks it was left here by the builders.
 * Alden as a illusion built on a Memoria cannot move from his spot even if he wanted to he needs others to help him.
 * "I remember the first day. A little girl put her hands on the glass. She laughed. I suppose that's when I started..."
+* Alden knows the duchess's patterns of movement across the aquarium and has noticed when others have come that it stalked them a particular way but that certain materials blocked her sight, notably the ice from the igloo seems to render you invisible. (he doesn't know this but the igloo is composed of lead with ice frozen over it.)
 
 
 ## 🎲 Checks
@@ -148,3 +149,4 @@ trello_board_card_id: 647efe2bcc7a9b54da905256;6a027cc45f17e0714b7d56e6
 
 - Keep an eye on the time and make sure to advance the Duchess Clock when appropriate to do so.
 - Try to keep the fact that Alden is a Memoria a secret as long as you can but he's not smart so can make a mistake. 
+- This section is open to the abyssal sea so having s
