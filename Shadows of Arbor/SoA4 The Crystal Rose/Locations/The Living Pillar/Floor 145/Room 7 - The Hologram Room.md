@@ -81,19 +81,21 @@ tags:
 * Ice Float
 
 ### Lakes and Rivers
-* *As you reach forward to press the button you see the plinth light up and standing on the platform is a young man dressed as a fishermen, including a long pole, bucket and tackle box. Upon his  It may be hard to see from here but just on the other side of the Artic exhibit you'll find some of our more local denizens. Every creature you see in here makes it's home amongst the lakes and rivers of Arbor. Due to the proximity to the great tree these aquatic creatures may be of unusual size, colour or indeed even completely new species not seen anywhere else. So among the guppies and catfish you might also spot a small group of sea bees or if you are really lucky the bliss fish.*
+* *As you reach forward to press the button you see the plinth light up and standing on the platform is a young man dressed as a fishermen, including a long pole, bucket and tackle box. Upon his head he wears a mariners hat and long mutton chops and a corn cob pipe. He clears his throat takes his pipe out and smacks it to clear the tobacco, pulls a light and takes a long puff before speaking "It may be hard to see from here but just on the other side of the Artic exhibit you'll find some of our more local denizens. Every creature you see in here makes it's home amongst the lakes and rivers of Arbor. Due to the proximity to the great tree these aquatic creatures may be of unusual size, colour or indeed even completely new species not seen anywhere else. So among the guppies and catfish you might also spot a small group of sea bees or if you are really lucky the bliss fish."*
 
 * Gold-tipped Ostrocod
 * Sea Bees
 * Bliss Fish
 * Nettle Drakes
-* Giant golden lotus
-* Spined sea aloe
+* Giant golden lotus - The center of this large golden leaf plant is said to contain a pearly of pure 
+* Spined aloe - Medicinal herb used in many healing potions in Arbor, however it's spines are razor sharp so need to be handled with care.
 
 
 ### Abyssal
 * In the case of the abyssal the Lakes and Rivers memoria can answer questions about it but only has a partial memory of it's speech. What they do rememeber is this:
-   
+	* The recording over there spoke about the Abyssal sea like some great unknown like a last frontier for the sapient races to explore and possibly conquer. 
+	* They said something about monsters large enough to swallow ships and creatures that never saw the light of day with weird features.
+	* They sounded afraid...
 
 
 ### Lakes and Rivers - Memoria
