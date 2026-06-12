@@ -85,9 +85,9 @@ tags:
 
 * Gold-tipped Ostrocod
 * Sea Bees
-* Bliss Fish
+* Bliss Fish - An embodiment of luck, seeing one is said to grant good luck before a voyage and if you manage to gain it's favour good luck and it will follow you. 
 * Nettle Drakes
-* Giant golden lotus - The center of this large golden leaf plant is said to contain a pearly of pure 
+* Giant golden lotus - The center of this large golden leaf plant is said to contain a pearly of pure gold, practically though it's leaves can be used as a flavour additive.
 * Spined aloe - Medicinal herb used in many healing potions in Arbor, however it's spines are razor sharp so need to be handled with care.
 
 
@@ -101,13 +101,18 @@ tags:
 ### Lakes and Rivers - Memoria
 
 - The Memoria was created when the very first visitors looked out into the tropical fish exhibit and saw the schools of fish dancing around. However the Memoria has now advanced considerably and simply wants to share the love of the aquarium with others. It is sentient and acts a bit like a sentient weapon capable of rational thought but does not posses locomotion. It's trigger condition to actually play it's Memoria is a child touching the glass to the tropical aquarium, and if it plays one more time the Memoria will fade.
+
+#### What the Memoria knows
+* It has an awareness of the Duchess but it leaves it alone probably because it can't really think or has a mind.
+* It would love to leave this place but knows it's bound to the disc and magic so it's effectievly trapped.
+* If it can't leave it would rather not exist the witch to the north hates him and his only real companion is the nymph who is now trapped in the igloo.
+* He's in love with her but she cannot get to him and he cannot get to her.
+* 
 ---
 
 ## 🔄 What Changes Here
 
-- If players do X, then Y changes  
-- If time passes, something escalates  
-- If combat starts, environmental effects trigger
+- Everytime the players talk to one of the
 
 ---
 
