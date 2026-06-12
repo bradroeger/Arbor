@@ -60,7 +60,7 @@ tags:
 - Remember to advance the clock for every interaction in here and when the illusions are speaking they advance an extra tick due to the loud noise.
 
 ### Tropical 
-* *The tropical exhibit contains a wide variety of colourful specimens, but do not let their colours entice you into touching them several are incredibly venomous including the Dire Lionfish with it's venomous spines it can launch itself forward with incredible speed and impale itself on it's prey immobilizing it within mere moments. But the lionfish must coexist with the other creatures and what is predator becomes prey in the blink of an eye, and if you look carefully you'll see our fully autonomous sea serpent easily capable of snapping up the lionfish in one bite! If you have any question about specific fauna or flora please ask your guide.*
+* *When you press the button on the pedestal a short moment later a young woman wearing a large straw hat, beautiful summery linen dress and hair the colour of the rainbow appears and begins to speak: "The tropical exhibit contains a wide variety of colourful specimens, but do not let their colours entice you into touching them several are incredibly venomous including the Dire Lionfish with it's venomous spines it can launch itself forward with incredible speed and impale itself on it's prey immobilizing it within mere moments. But the lionfish must coexist with the other creatures and what is predator becomes prey in the blink of an eye, and if you look carefully you'll see our fully autonomous sea serpent easily capable of snapping up the lionfish in one bite! If you have any question about specific fauna or flora please ask your guide."*
 
 * Overflower: 
 * Eel Hound:
@@ -92,7 +92,8 @@ tags:
 
 
 ### Abyssal
-* In the case of the abyssal the Lakes and River 
+* In the case of the abyssal the Lakes and Rivers memoria can answer questions about it but only has a partial memory of it's speech. What they do rememeber is this:
+   
 
 
 ### Lakes and Rivers - Memoria
