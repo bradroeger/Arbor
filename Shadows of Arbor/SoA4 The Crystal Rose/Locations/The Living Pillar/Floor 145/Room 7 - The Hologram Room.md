@@ -108,7 +108,7 @@ tags:
 * If it can't leave it would rather not exist the witch to the north hates him and his only real companion is the nymph who is now trapped in the igloo.
 * He's in love with her but she cannot get to him and he cannot get to her.
 * He was given the name of [[Alden]] by the Nymph.
-* Alden knows there is a fish scale buried under the rubble where the Abyssal illusion was.
+* Alden knows there is something buried under the rubble where the Abyssal illusion was he thinks it was left here by the builders.
 ---
 
 
@@ -129,7 +129,7 @@ tags:
 
 ## 💎 Treasure
 
--
+- Hidden underneath the rubble is a 
 
 ## 🎁 Hidden Loot
 
