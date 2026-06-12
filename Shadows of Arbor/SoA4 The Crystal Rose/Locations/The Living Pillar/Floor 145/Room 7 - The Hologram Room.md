@@ -38,7 +38,7 @@ tags:
 
 ## 📖 Read-Aloud Text
 
-- *As you cross the threshold into the room, you behold a beautiful mosaic patterned floor and four dark stone plinths each of which has a plaque embedded into the ground nearby. Atop the plinths are rings of copper and gold set into the stone and in the middle a softly glowing and humming magical seal set in silver. Each of the rings save one is broken or bent and a final one has been shattered and it's magical circle collapsed. One part of the outside wall has been smashed and broken with debris scattered across the room.*
+- *As you float across the threshold, you behold a beautiful mosaic patterned floor and four dark stone plinths upon each a plaque has been embedded into the ground serving as a marker. Atop the plinths are rings of copper and gold set into the stone and in the middle of the rings a softly glowing and humming series of lines, circles and arcane sigils are crafted in silver. Each of the rings save one is broken or bent and a final one has been shattered and in the center where would be the sigils is nothing but large piles of rubble. One part of the outside wall has been smashed and broken with debris scattered across the room leaving the entire area open to the sea beyond.*
 
 #### Examining the Plinths
 
