@@ -41,29 +41,35 @@ trello_board_card_id: 647efe2bcc7a9b54da905256;6a027cc45f17e0714b7d56e6
 
 ## 📖 Read-Aloud Text
 
-- *As you float across the threshold, you behold a beautiful mosaic patterned floor and four dark stone plinths upon each a plaque has been embedded into the ground serving as a marker. Atop the plinths are rings of copper and gold set into the stone and in the middle of the rings a softly glowing and humming series of lines, circles and arcane sigils are crafted in silver. Each of the rings save one is broken or bent and a final one has been shattered and in the center where would be the sigils is nothing but large piles of rubble. One part of the outside wall has been smashed and broken with debris scattered across the room leaving the entire area open to the sea beyond.*
+- _As you float across the threshold, you behold a beautiful mosaic-patterned floor and four dark stone plinths arranged around the chamber. Embedded into the floor before each plinth is a brass plaque serving as a marker._
 
+* _Atop each pedestal rests a ring of copper and gold set into the stone. Within the rings, softly glowing lines, circles, and arcane sigils crafted from silver hum gently beneath the water._
+
+* _Most of the rings are damaged. One is bent almost beyond recognition. Another has cracked clean through. The final plinth has been completely destroyed, its magical apparatus reduced to a mound of rubble and shattered stone._
+
+* _One section of the outer wall has been smashed open. Broken masonry and twisted metal litter the chamber, while beyond the breach stretches the dark expanse of the sea itself._
 #### Examining the Plinths
 
-- *In front of the plinth is a plaque each one has s description and a small button save for the completely destroyed one. The plaques read: *
-	- *The Artic Sea - A cold frontier where life finds a way.*
+- _Each plinth is accompanied by a small brass plaque and a single button. The exception is the destroyed pedestal, whose mechanism appears beyond repair.
+- The plaques read:
+	- *The Arctic Sea - A cold frontier where life finds a way.*
 	- *The Tropical Sea - A warm and wonderful swim with brightly coloured neighbours.*
 	- *The Lakes and Rivers - Nearby and yet still not well understood.*
 - *The final plinth is mostly destroyed and it's plaque only partially readable*
-	- *Th# Ab####l Se# - Fath##s of darkne## witho## end what dw#el##s her# could sw####ow the devil.*
+	- *Th# Aby#### Se# — Fath##s of darkne## witho## end. What dw#el##s her# could sw####ow the devil hims###.*
 
 ---
 
 ## 📓 GM Notes
 
 - The plinths can be activated to learn more about each sea, it's exhibits and inhabitants.
-- The Tropical and Artic Sea function normally giving out information such as average temperature, ecology and different species present in each tank
+- The Tropical and Arctic Sea function normally giving out information such as average temperature, ecology and different species present in each tank
 - The  Lakes and Rivers unit is a Memoria but can present the same information however can also speak back and answer questions including much of what the final plinth knows.
 - The L&R unit will function as normal until a question is asked that it might reasonably be able to answer at which point it will do so.
 - Remember to advance the clock for every interaction in here and when the illusions are speaking they advance an extra tick due to the loud noise.
 
 ### Tropical 
-* *When you press the button on the pedestal a short moment later a young woman wearing a large straw hat, beautiful summery linen dress and hair the colour of the rainbow appears and begins to speak: "The tropical exhibit contains a wide variety of colourful specimens, but do not let their colours entice you into touching them several are incredibly venomous including the Dire Lionfish with it's venomous spines it can launch itself forward with incredible speed and impale itself on it's prey immobilizing it within mere moments. But the lionfish must coexist with the other creatures and what is predator becomes prey in the blink of an eye, and if you look carefully you'll see our fully autonomous sea serpent easily capable of snapping up the lionfish in one bite! If you have any question about specific fauna or flora please ask your guide."*
+* *When you press the button on the pedestal a short moment later a young woman wearing a large straw hat, beautiful summery linen dress and hair the colour of the rainbow appears and begins to speak: "The Tropical Exhibit contains some of the most colourful species in the aquarium. Please remember that many are also highly dangerous. The Dire Lionfish, for example, possesses venomous spines capable of immobilising prey within moments. Yet even such predators must remain wary, for nature is a delicate balance. If you look carefully, you may spot one of our autonomous sea serpents, perfectly capable of making a meal of the lionfish itself. Should you have any questions regarding the flora or fauna of this exhibit, simply ask your guide.*
 
 * Overflower: 
 * Eel Hound:
@@ -73,8 +79,8 @@ trello_board_card_id: 647efe2bcc7a9b54da905256;6a027cc45f17e0714b7d56e6
 * Crystal Coral
 * Sea Grass
 
-### Artic
-* *As you press the button, you hear a strange clicking noise, and a moment later standing on the dais is a man dressed in a rather snug looking tan parka complete with a fur lining around the hood. "Despite the frigid temperatures of these artic waters sea life still finds a way to survive here. Far from our temperate city of Arbor these waters can reach far below freezing and it is only due to the movements of the waves that the entire body of water does not simply turn into a solid block of ice. Some of the denizens include the beautiful Rime worms you can see moving along the floor of the exhibit and if you squint your eyes you might just be able to see the glass fish with skin so clear you can see right through them."*
+### Arctic
+* *As you press the button, you hear a strange clicking noise, and a moment later standing on the dais is a man dressed in a rather snug looking tan parka complete with a fur lining around the hood. "Despite the frigid temperatures of these arctic waters sea life still finds a way to survive here. Far beyond the temperate climate of Arbor... these waters can reach far below freezing and it is only due to the movements of the waves that the entire body of water does not simply turn into a solid block of ice. Some of the denizens include the beautiful Rime worms you can see moving along the floor of the exhibit and if you squint your eyes you might just be able to see the glass fish with skin so clear you can see right through them."*
 
 * Cash Crab
 * Rime Worm
@@ -84,7 +90,7 @@ trello_board_card_id: 647efe2bcc7a9b54da905256;6a027cc45f17e0714b7d56e6
 * Ice Float
 
 ### Lakes and Rivers
-* *As you reach forward to press the button you see the plinth light up and standing on the platform is a young man dressed as a fishermen, including a long pole, bucket and tackle box. Upon his head he wears a mariners hat and long mutton chops and a corn cob pipe. He clears his throat takes his pipe out and smacks it to clear the tobacco, pulls a light and takes a long puff before speaking "It may be hard to see from here but just on the other side of the Artic exhibit you'll find some of our more local denizens. Every creature you see in here makes it's home amongst the lakes and rivers of Arbor. Due to the proximity to the great tree these aquatic creatures may be of unusual size, colour or indeed even completely new species not seen anywhere else. So among the guppies and catfish you might also spot a small group of sea bees or if you are really lucky the bliss fish."*
+* *As you reach forward to press the button you see the plinth light up and standing on the platform is a young man dressed as a fishermen, including a long pole, bucket and tackle box. Upon his head he wears a mariners hat and long mutton chops and a corn cob pipe. He clears his throat takes his pipe out and smacks it to clear the tobacco, pulls a light and takes a long puff before speaking "It may be hard to see from here but just on the other side of the Arctic exhibit you'll find some of our more local denizens. Every creature you see in here makes it's home amongst the lakes and rivers of Arbor. Due to the proximity to the great tree these aquatic creatures may be of unusual size, colour or indeed even completely new species not seen anywhere else. So among the guppies and catfish you might also spot a small group of sea bees or if you are really lucky the bliss fish."*
 
 * Gold-tipped Ostrocod
 * Sea Bees
