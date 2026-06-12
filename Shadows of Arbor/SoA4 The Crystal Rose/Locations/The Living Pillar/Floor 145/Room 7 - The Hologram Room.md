@@ -107,33 +107,19 @@ tags:
 * It would love to leave this place but knows it's bound to the disc and magic so it's effectievly trapped.
 * If it can't leave it would rather not exist the witch to the north hates him and his only real companion is the nymph who is now trapped in the igloo.
 * He's in love with her but she cannot get to him and he cannot get to her.
-* 
+* He was given the name of [[Alden]] by the Nypmh.
 ---
 
-## 🔄 What Changes Here
-
-- Everytime the players talk to one of the
-
----
 
 ## 🎲 Checks
 
-- **Check Name DC**
-
+- **Arcana DC 20**
+	- Examining the structures you realise this is a very complex casting of the Major Image spell along with several others to give it permancy.
+- **Perception DC 25**
+	- Looking over the platforms you realise that the Lakes and Rivers dais is actually broken and should not function.
+- **Persuasion DC 30**
+	- To convince the memoria to act as bait or to buy time for the players should they wish it -5 if they promise to help the Nymph.
 ---
-
-## 🧩 Puzzle / Challenge
-
--
-
----
-
-## ⚔️ Encounter Setup
-
--
-
----
-
 ## 🎭 Characters Present
 
 -
