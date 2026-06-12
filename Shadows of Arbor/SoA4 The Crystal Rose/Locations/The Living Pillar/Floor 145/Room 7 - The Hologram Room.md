@@ -17,6 +17,7 @@ secret_room: false
 hidden_features: []
 discovery_skills:
   - perception
+  - arcana
   - investigation
 faction_presence: []
 controlled_by:
@@ -24,6 +25,8 @@ status: active
 treasure: false
 tags:
   - room
+trello_plugin_note_id: FHOP1tll-9SYfZX6QP72a
+trello_board_card_id: 647efe2bcc7a9b54da905256;6a027cc45f17e0714b7d56e6
 ---
 
 # 🗺️ Room 7 - The Hologram Room
@@ -129,20 +132,11 @@ tags:
 
 ## 💎 Treasure
 
-- Hidden underneath the rubble is a 
-
-## 🎁 Hidden Loot
-
--
-
----
-
-## 🕵️ Secrets
-
--
+- Hidden underneath the rubble is a TODO
 
 ---
 
 ## 🧠 GM Running Tips
 
--
+- Keep an eye on the time and make sure to advance the Duchess Clock when appropriate to do so.
+- Try to keep the fact that Alden is a Memoria a secret as long as you can but he's not smart so can make a mistake. 
