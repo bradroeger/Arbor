@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Room 7 - The Hologram Room"
             }
+          },
+          {
+            "id": "9fbfd4fe742ef28c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shadows of Arbor/SoA4 The Crystal Rose/Dramatis Persona/Alden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alden"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,11 +224,14 @@
       "cmdr:QuickAdd: New Location": false
     }
   },
-  "active": "d5f04782a21ac9c5",
+  "active": "52015dab8a7ff1b4",
   "lastOpenFiles": [
+    "Alden.md",
+    "Shadows of Arbor/SoA4 The Crystal Rose/Dramatis Persona/Alden.md",
+    "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 7 - The Hologram Room.md",
+    "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Untitled.md",
     "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 6 - The Engine Room.md",
     "Templates/Location Template.md",
-    "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 7 - The Hologram Room.md",
     "Shadows of Arbor/SoA4 The Crystal Rose/Dramatis Persona/Ephemera.md",
     "Room 5]], [[Room 8]], [[Room 9.md",
     "Room 4]] [[Room 8]] [[Room 9.md",
