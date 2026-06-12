@@ -149,4 +149,4 @@ trello_board_card_id: 647efe2bcc7a9b54da905256;6a027cc45f17e0714b7d56e6
 
 - Keep an eye on the time and make sure to advance the Duchess Clock when appropriate to do so.
 - Try to keep the fact that Alden is a Memoria a secret as long as you can but he's not smart so can make a mistake. 
-- This section is open to the abyssal sea so having s
+- This section is open to the abyssal sea so having something move out in the darkness or to have random perception checks or dice rolls will keep the players on edge.
