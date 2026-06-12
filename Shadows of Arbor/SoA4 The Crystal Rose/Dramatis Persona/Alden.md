@@ -4,6 +4,8 @@ status: alive
 faction:
 location:
 tags:
+  - Memoria
+  - Ordo-3
 ---
 
 # Alden
@@ -12,7 +14,7 @@ tags:
 
 **Appearance**
 
--
+- 
 
 **Mannerisms**
 
