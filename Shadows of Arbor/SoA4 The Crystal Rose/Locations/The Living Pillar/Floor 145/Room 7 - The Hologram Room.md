@@ -50,7 +50,7 @@ trello_board_card_id: 647efe2bcc7a9b54da905256;6a027cc45f17e0714b7d56e6
 * _One section of the outer wall has been smashed open. Broken masonry and twisted metal litter the chamber, while beyond the breach stretches the dark expanse of the sea itself._
 #### Examining the Plinths
 
-- _Each plinth is accompanied by a small brass plaque and a single button. The exception is the destroyed pedestal, whose mechanism appears beyond repair.
+- *Each plinth is accompanied by a small brass plaque and a single button. The exception is the destroyed pedestal, whose mechanism appears beyond repair.*
 - The plaques read:
 	- *The Arctic Sea - A cold frontier where life finds a way.*
 	- *The Tropical Sea - A warm and wonderful swim with brightly coloured neighbours.*
@@ -65,11 +65,11 @@ trello_board_card_id: 647efe2bcc7a9b54da905256;6a027cc45f17e0714b7d56e6
 - The plinths can be activated to learn more about each sea, it's exhibits and inhabitants.
 - The Tropical and Arctic Sea function normally giving out information such as average temperature, ecology and different species present in each tank
 - The  Lakes and Rivers unit is a Memoria but can present the same information however can also speak back and answer questions including much of what the final plinth knows.
-- The L&R unit will function as normal until a question is asked that it might reasonably be able to answer at which point it will do so.
+- The L&R unit will function as normal until a question is asked that is outside of it's normal programming like anything about the duchess.
 - Remember to advance the clock for every interaction in here and when the illusions are speaking they advance an extra tick due to the loud noise.
 
 ### Tropical 
-* *When you press the button on the pedestal a short moment later a young woman wearing a large straw hat, beautiful summery linen dress and hair the colour of the rainbow appears and begins to speak: "The Tropical Exhibit contains some of the most colourful species in the aquarium. Please remember that many are also highly dangerous. The Dire Lionfish, for example, possesses venomous spines capable of immobilising prey within moments. Yet even such predators must remain wary, for nature is a delicate balance. If you look carefully, you may spot one of our autonomous sea serpents, perfectly capable of making a meal of the lionfish itself. Should you have any questions regarding the flora or fauna of this exhibit, simply ask your guide.*
+* *When you press the button on the pedestal a short moment later a young woman wearing a large straw hat, beautiful summery linen dress and hair the colour of the rainbow appears and begins to speak: "The Tropical Exhibit contains some of the most colourful species in the aquarium. Please remember that many are also highly dangerous. The Dire Lionfish, for example, possesses venomous spines capable of immobilising prey within moments. Yet even such predators must remain wary, for nature is a delicate balance. If you look carefully, you may spot one of our autonomous sea serpents, perfectly capable of making a meal of the lionfish itself. Should you have any questions regarding the flora or fauna of this exhibit, simply ask your guide."*
 
 * Overflower: 
 * Eel Hound:
@@ -90,7 +90,7 @@ trello_board_card_id: 647efe2bcc7a9b54da905256;6a027cc45f17e0714b7d56e6
 * Ice Float
 
 ### Lakes and Rivers
-* *As you reach forward to press the button you see the plinth light up and standing on the platform is a young man dressed as a fishermen, including a long pole, bucket and tackle box. Upon his head he wears a mariners hat and long mutton chops and a corn cob pipe. He clears his throat takes his pipe out and smacks it to clear the tobacco, pulls a light and takes a long puff before speaking. "Now then then the {insert party number here} of you It may be hard to see from here but just on the other side of the Arctic exhibit you'll find some of our more local denizens. Every creature you see in here makes it's home amongst the lakes and rivers of Arbor. Due to the proximity to the great tree these aquatic creatures may be of unusual size, colour or indeed even completely new species not seen anywhere else. So among the guppies and catfish you might also spot a small group of sea bees or if you are really lucky the bliss fish."*
+* *As you reach forward to press the button you see the plinth light up and standing on the platform is a young man dressed as a fisherman, including a long pole, bucket and tackle box. Upon his head he wears a mariners hat and long mutton chops and a corn cob pipe. He clears his throat takes his pipe out and smacks it to clear the tobacco, pulls a light and takes a long puff before speaking. "Now then then are you ready?" **He pauses to wait for the party** "Right then it may be hard to see from here but just on the other side of the Arctic exhibit you'll find some of our more local denizens. Every creature you see in here makes it's home amongst the lakes and rivers of Arbor. Due to the proximity to the great tree these aquatic creatures may be of unusual size, colour or indeed even completely new species not seen anywhere else. So among the guppies and catfish you might also spot a small group of sea bees or if you are really lucky the bliss fish."*
 
 * Gold-tipped Ostrocod
 * Sea Bees
