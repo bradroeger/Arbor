@@ -90,7 +90,7 @@ trello_board_card_id: 647efe2bcc7a9b54da905256;6a027cc45f17e0714b7d56e6
 * Ice Float
 
 ### Lakes and Rivers
-* *As you reach forward to press the button you see the plinth light up and standing on the platform is a young man dressed as a fishermen, including a long pole, bucket and tackle box. Upon his head he wears a mariners hat and long mutton chops and a corn cob pipe. He clears his throat takes his pipe out and smacks it to clear the tobacco, pulls a light and takes a long puff before speaking "It may be hard to see from here but just on the other side of the Arctic exhibit you'll find some of our more local denizens. Every creature you see in here makes it's home amongst the lakes and rivers of Arbor. Due to the proximity to the great tree these aquatic creatures may be of unusual size, colour or indeed even completely new species not seen anywhere else. So among the guppies and catfish you might also spot a small group of sea bees or if you are really lucky the bliss fish."*
+* *As you reach forward to press the button you see the plinth light up and standing on the platform is a young man dressed as a fishermen, including a long pole, bucket and tackle box. Upon his head he wears a mariners hat and long mutton chops and a corn cob pipe. He clears his throat takes his pipe out and smacks it to clear the tobacco, pulls a light and takes a long puff before speaking. "Now then then the {insert party number here} of you It may be hard to see from here but just on the other side of the Arctic exhibit you'll find some of our more local denizens. Every creature you see in here makes it's home amongst the lakes and rivers of Arbor. Due to the proximity to the great tree these aquatic creatures may be of unusual size, colour or indeed even completely new species not seen anywhere else. So among the guppies and catfish you might also spot a small group of sea bees or if you are really lucky the bliss fish."*
 
 * Gold-tipped Ostrocod
 * Sea Bees
@@ -118,7 +118,8 @@ trello_board_card_id: 647efe2bcc7a9b54da905256;6a027cc45f17e0714b7d56e6
 * He's in love with her but she cannot get to him and he cannot get to her.
 * He was given the name of [[Alden]] by the Nymph.
 * Alden knows there is something buried under the rubble where the Abyssal illusion was he thinks it was left here by the builders.
----
+* Alden as a illusion built on a Memoria cannot move from his spot even if he wanted to he needs others to help him.
+* "I remember the first day. A little girl put her hands on the glass. She laughed. I suppose that's when I started..."
 
 
 ## 🎲 Checks
@@ -138,7 +139,8 @@ trello_board_card_id: 647efe2bcc7a9b54da905256;6a027cc45f17e0714b7d56e6
 
 ## 💎 Treasure
 
-- Hidden underneath the rubble is a TODO
+- Hidden underneath the rubble is a builder's logbook (water proof of course). Buried in the wall.
+- Abyssal Lens. Allows the seeing of currents, and creatures through murky water no attunement. 
 
 ---
 
