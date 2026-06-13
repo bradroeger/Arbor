@@ -113,9 +113,9 @@ trello_board_card_id: 647efe2bcc7a9b54da905256;6a027cc45f17e0714b7d56e6
 #### What the Memoria knows
 * It has an awareness of the Duchess but it leaves it alone probably because it can't really think or has a mind.
 * It would love to leave this place but knows it's bound to the disc and magic so it's effectively trapped.
-* If it can't leave it would rather not exist the witch to the north hates him and his only real companion is the nymph who is now trapped in the igloo.
+* If it can't leave it would rather not exist the witch to the north hates him and his only real companion is the nymph [[Nyxie]] who is now trapped in the igloo.
 * He's in love with her but she cannot get to him and he cannot get to her.
-* He was given the name of [[Finn]] by the Nymph.
+* He was given the name of [[Finn]] by [[Nyxie]].
 * Alden knows there is something buried under the rubble where the Abyssal illusion was he thinks it was left here by the builders.
 * Alden as a illusion built on a Memoria cannot move from his spot even if he wanted to he needs others to help him.
 * "I remember the first day. A little girl put her hands on the glass. She laughed. I suppose that's when I started..."
@@ -129,7 +129,7 @@ trello_board_card_id: 647efe2bcc7a9b54da905256;6a027cc45f17e0714b7d56e6
 - **Perception DC 25**
 	- Looking over the platforms you realise that the Lakes and Rivers dais is actually broken and should not function.
 - **Persuasion DC 30**
-	- To convince the [[Finn]] to act as bait or to buy time for the players should they wish it -5 if they promise to help the Nymph.
+	- To convince the [[Finn]] to act as bait or to buy time for the players should they wish it -5 if they promise to help [[Nyxie]]
 ---
 ## 🎭 Characters Present
 
