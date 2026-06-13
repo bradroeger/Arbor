@@ -26,11 +26,13 @@ tags:
   - room
 ---
 
-# 🗺️ Untitled
+# 🗺️ Room 8 - The Source
 
 ## 🧭 Summary
 
--
+- A portal to the elemental plane of water.
+- Out of control and messy.
+- Huge machinery pumps water from there to here to maintain the water level.
 
 ---
 
