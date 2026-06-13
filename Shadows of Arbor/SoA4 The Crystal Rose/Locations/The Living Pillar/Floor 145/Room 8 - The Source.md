@@ -32,13 +32,14 @@ tags:
 
 - A portal to the elemental plane of water.
 - Out of control and messy.
-- Huge machinery pumps water from there to here to maintain the water level.
+- Huge machinery pumps water from the plane to here to maintain the water level across the aquarium.
+- The players will need to make their way across or find another way to get to the exit.
 
 ---
 
 ## 📖 Read-Aloud Text
 
--
+- 
 
 ---
 
