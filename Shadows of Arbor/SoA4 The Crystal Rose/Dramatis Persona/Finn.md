@@ -39,33 +39,11 @@ tags:
 
 ## Background
 
-- He is a memoria created from the 
+- He is a [[Memoria]] created from the first time a group of children were brought to the aquarium. 
+- He is in love with a Nymph named [[Nyxie]] who became trapped in the Arctic exhibit.
+- His item is a small bit of the platform where the illusion is set in.
 
 ---
-
-## Goals
-
-### Short-Term
-
--
-
-### Long-Term
-
--
-
----
-
-## Relationships
-
-| NPC | Relationship |
-|------|------|
-| | |
-
----
-
-## Secrets
-
--
 
 ---
 
