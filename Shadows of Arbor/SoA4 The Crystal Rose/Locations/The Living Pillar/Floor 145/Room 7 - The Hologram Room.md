@@ -28,7 +28,6 @@ tags:
 trello_plugin_note_id: FHOP1tll-9SYfZX6QP72a
 trello_board_card_id: 647efe2bcc7a9b54da905256;6a027cc45f17e0714b7d56e6
 ---
-
 # 🗺️ Room 7 - The Hologram Room
 
 ## 🧭 Summary

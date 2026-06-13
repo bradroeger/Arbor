@@ -22,6 +22,10 @@ tags:
 
 -
 
+**Quote**
+
+-
+
 ---
 
 ## Personality
