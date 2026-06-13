@@ -41,7 +41,8 @@ tags:
 
 ## 📖 Read-Aloud Text
 
-- *The door to this room slides out of the way and seems to be bending and bucking towards the outside of the room scrapping on the slide of the slot in the floor. As it finally clears you understand why as opening into the room is a gigantic whirlpool. You can feel the force of the current as it pushes against you with incredible force threatening to knock you backwards. Much of this room is destroyed there is little left of the floor but splinters but above you see huge pipes and contraptions drawing in huge amounts of water. siphoning it off to other places though even some of those have burst completely. Most of one wall has been completely destroyed and left open to the wider sea.*
+- *The door to this room slides out of the way and seems to be bending and bucking towards the inside of the room scrapping on the slide of the slot in the floor. As it finally clears you understand why as opening into the room is a gigantic whirlpool. You can feel the force of the current as it pulls you with incredible force threatening to pull you in.* 
+- *Much of this room is destroyed there is little left of the floor but splinters but above you see huge pipes and contraptions drawing in huge amounts of water. siphoning it off to other places though even some of those have burst completely. Most of one wall has been completely destroyed and left open to the wider sea beyond opening out to blackness*
 
 ---
 
@@ -55,7 +56,7 @@ tags:
 
 ## 📓 GM Notes
 
-- 
+- The moment the players open the door they need to start making checks to avoid being pulled into the vortex or more precicely yanked against the floor underneath the water where the gate to the other side is. 
 
 ---
 
