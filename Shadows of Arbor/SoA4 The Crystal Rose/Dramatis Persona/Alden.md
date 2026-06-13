@@ -14,19 +14,19 @@ tags:
 
 **Appearance**
 
-- a young man dressed as a fisherman, including a long pole, bucket and tackle box. Upon his head he wears a mariners hat. He has long blond mutton chops and a corn cob pipe. 
+- a young man dressed as a fisherman, including a long pole, bucket and tackle box. Upon his head he wears a mariners hat. He has blond mutton chops and a corn cob pipe. 
 
 **Mannerisms**
 
--
+- A helpful sort with a heart of gold. He loves to be of use and answering questions.
 
 **Voice**
 
--
+- Exactly what you would think a sailor would sound like
 
 **Quote**
 
--
+- 
 
 ---
 
