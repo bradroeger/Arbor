@@ -14,11 +14,11 @@ tags:
 
 **Appearance**
 
-- a young man dressed as a fisherman, including a long pole, bucket and tackle box. Upon his head he wears a mariners hat. He has blonde hair that come dow mutton chops and a corn cob pipe . 
+- a young man dressed as a fisherman, including a long pole, bucket and tackle box. Upon his head he wears a mariners hat atop his blonde hair that comes down into mutton chops. In the corner of his mouth is a corn cob pipe a small amount of smoke trailing out of it.
 
 **Mannerisms**
 
-- A helpful sort with a heart of gold. He loves to be of use and answering questions.
+- A helpful sort with a heart of gold. He loves to be of use and answering questions. Big HIMBO energy
 
 **Voice**
 
@@ -26,19 +26,20 @@ tags:
 
 **Quote**
 
-- 
+- "I do hope you'll stay awhile and listen I have much to teach ya about the aquarium and it's creatures and if you won't that's ok but do take care out there."
 
 ---
 
 ## Personality
 
--
+- Alden is a wonderful man with not a bad bone in his body. 
+- He just wants to help
 
 ---
 
 ## Background
 
--
+- He is a memoria created from the 
 
 ---
 
