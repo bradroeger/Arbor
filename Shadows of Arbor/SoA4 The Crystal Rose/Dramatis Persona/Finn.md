@@ -8,13 +8,13 @@ tags:
   - Ordo-3
 ---
 
-# Alden
+# Finn
 
 ## Description
 
 **Appearance**
 
-- a young man dressed as a fisherman, including a long pole, bucket and tackle box. Upon his head he wears a mariners hat. He has blond mutton chops and a corn cob pipe. 
+- a young man dressed as a fisherman, including a long pole, bucket and tackle box. Upon his head he wears a mariners hat. He has blonde hair that come dow mutton chops and a corn cob pipe . 
 
 **Mannerisms**
 
