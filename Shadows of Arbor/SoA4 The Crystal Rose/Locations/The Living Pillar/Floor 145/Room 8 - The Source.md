@@ -79,7 +79,7 @@ _Beyond it lies only darkness and the distant, endless sea._
 ## 📓 GM Notes
 
 - The moment the players open the door they need to start making checks to avoid being pulled into the vortex or more precisely yanked against the floor underneath the water where the gate to the plane of water is located. 
-- Originally the portal 
+- Originally the portal was designed to be bi directional once the water pressure had reached equilibrium with the other side but like many projects it was abandonded when it's creator died.
 - The players will need to decide if they want to double back or swim across the vortex pitting their strength against the machines and swirling vortex, which will not be easy.
 - The portal at the bottom of the chamber serves as a one way link to the elemental plane of water constantly expelling vast quantities of water.
 - There was at one time a shut off valve for this but it broke sometime ago and now continually spills water out into the area
@@ -147,3 +147,7 @@ _Beyond it lies only darkness and the distant, endless sea._
 ## 🧠 GM Running Tips
 
 - The Duchess is likely at this point ready to strike but the whirlpool is a massive hazard. Allow the players to use the hazard to their advantage even trying to trick or force the creature through and seal it after her.
+- This room should be one of the few places where the Duchess is genuinely cautious. 
+	- Not afraid though, carefully toe the line between the two the Duchess is vastly intelligent and has no fear of almost anything.
+	- The Whirlpool represents a threat to her in a way few other things do it is not a toy to be played with it is a force of nature she cannot control and while she is not afraid of it there are things on the other side that she is terrified of revisiting.
+	- At the moment she is a big fish in a very small pond on the other side of that portal she so small and she never wants to go back to that.
