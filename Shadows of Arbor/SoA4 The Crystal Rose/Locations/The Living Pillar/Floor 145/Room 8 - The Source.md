@@ -57,6 +57,13 @@ tags:
 ## 📓 GM Notes
 
 - The moment the players open the door they need to start making checks to avoid being pulled into the vortex or more precisely yanked against the floor underneath the water where the gate to the plane of water is located. 
+- The players will need to decide if they want to double back or swim across the vortex pitting their strength against the machines and swirling vortex, which will not be easy.
+- The portal at the bottom of the chamber serves as a one way link to the elemental plane of water constantly expelling vast quantities of water.
+- There was at one time a shut off valve for this but it broke sometime ago and now continually spills water out into the area
+- The floor itself has no upper limit any excess water being pumped out into hidden chambers and then into other areas of the overall tower, in matter of fact many of the higher floors rely on this inexhaustible source of water to function in one way or another.
+- It is possible to disable the portal and stop the water coming out but it would be dangerous.
+- Every Check done in this area requires an advancement of the Duchess Clock.
+- This is a skill challenge area where the players will need to get across and gain a certain amount of successess otherwise they wil b
 
 ---
 
