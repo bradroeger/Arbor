@@ -65,23 +65,6 @@ tags:
 - Every Check done in this area requires an advancement of the Duchess Clock.
 - This is a skill challenge area where the players will need to get across and gain a certain amount of successes otherwise they will take damage, become exhausted or potentially die.
 
-### Skill Challenge
-* Passing the vortex requires the players to gain a total of 5 successes in different skill checks or abilities in order to make it to the other side.
-* Each passing check moves them further along the track until they are at the opposite side
-* They may use the same skill multiple times however using the same skill multiple times makes the resulting DC go up by 5.
-* The **skill DC starts at** **20** for each success the DC goes up by **2**
-* so for example if the players use **Athletics** and then **Athletics** again to swim across that would be a DC of 20 then 27. 
-* Creative use of Feats, Spells, Items or Abilities should be awarded with lower DCs.
-* Consult the table below for what to do in the context of a failure.
-* Treat critical failures (10 or more below the DC or a natural 1) as two failures.
-* If they get to the point of being pulled into the vortex they will need to either escape **DC 30 Athletics Check** or have another party member disable the machine either permanently or temporarily.
-
-| Failure Amount | Consequence                        |
-| -------------- | ---------------------------------- |
-| 3              | 1 level of **Exhaustion**          |
-| 6              | 1 Character Pulled into the Vortex |
-
-
 ---
 
 ## 🔄 What Changes Here
@@ -96,51 +79,35 @@ tags:
 
 - **Perception**
 	- **DC 15** - This whirlpool is not natural but the source of it looks to be coming from near the bottom of the room.
-	- **DC 20** - You can just about make out a powerful magical sigil, inscribed with runes a
-	- **DC 25**
+	- **DC 20** - You can just about make out a powerful magical sigil, inscribed with runes that are moving around in a circle at the bottom of the whirlpool
+	- **DC 25** - The machine at the bottom appears to be a combination of Arcane and Steam Technology and it is what is creating the whirlpool
 - **Arcana**
-	- 
-- **Tinkers Tools**
-	- 
+	- **DC 20** - The sigil at the bottom appears to be a gate linking this world to one of infinite water
+	- **DC 25** - You think the sigil only allows transmision of things one direction at the moment, but you believe you may be able to allow things to go both ways if you could get down there.
 - **Machine**
-	- 
+	- **Toughness 20** - The DC required to either break or disable to machine permanently. Add 5 if the players want to disable it temporarily.
 
 ---
 
 ## 🧩 Puzzle / Challenge
 
--
+- Passing the vortex requires the players to gain a total of 5 successes in different skill checks or abilities in order to make it to the other side.
+* Each passing check moves them further along the track until they are at the opposite side
+* They may use the same skill multiple times however using the same skill multiple times makes the resulting DC go up by 5.
+* The **skill DC starts at** **20** for each success the DC goes up by **2**
+* so for example if the players use **Athletics** and then **Athletics** again to swim across that would be a DC of 20 then 27. 
+* Creative use of Feats, Spells, Items or Abilities should be awarded with lower DCs.
+* Consult the table below for what to do in the context of a failure.
+* Treat critical failures (10 or more below the DC or a natural 1) as two failures.
+* If they get to the point of being pulled into the vortex they will need to either escape **DC 30 Athletics Check** or have another party member disable the machine either permanently or temporarily.
 
----
-
-## ⚔️ Encounter Setup
-
--
-
----
-
-## 🎭 Characters Present
-
--
-
----
-
-## 💎 Treasure
-
--
-
-## 🎁 Hidden Loot
-
--
-
----
-
-## 🕵️ Secrets
-
--
+| Failure Amount | Consequence                        |
+| -------------- | ---------------------------------- |
+| 3              | 1 level of **Exhaustion**          |
+| 6              | 1 Character Pulled into the Vortex |
 
 ---
 
 ## 🧠 GM Running Tips
 
--
+- The Duchess is likely at this point ready to strike but the whirlpool is a massive hazard. Allow the players to use the hazard to their advantage even trying to trick or force the creature through and seal it after her.
