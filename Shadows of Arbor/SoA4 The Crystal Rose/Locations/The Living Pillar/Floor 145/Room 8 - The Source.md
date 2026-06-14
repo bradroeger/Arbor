@@ -79,6 +79,7 @@ _Beyond it lies only darkness and the distant, endless sea._
 ## 📓 GM Notes
 
 - The moment the players open the door they need to start making checks to avoid being pulled into the vortex or more precisely yanked against the floor underneath the water where the gate to the plane of water is located. 
+- Originally the portal 
 - The players will need to decide if they want to double back or swim across the vortex pitting their strength against the machines and swirling vortex, which will not be easy.
 - The portal at the bottom of the chamber serves as a one way link to the elemental plane of water constantly expelling vast quantities of water.
 - There was at one time a shut off valve for this but it broke sometime ago and now continually spills water out into the area
@@ -86,6 +87,11 @@ _Beyond it lies only darkness and the distant, endless sea._
 - It is possible to disable the portal and stop the water coming out but it would be dangerous.
 - Every Check done in this area requires an advancement of the Duchess Clock.
 - This is a skill challenge area where the players will need to get across and gain a certain amount of successes otherwise they will take damage, become exhausted or potentially die.
+- There are 4 main ways to deal with the room
+	- Cross using a combination of skills and abilities
+	- Shut down the portal al together disabling the whirlpool
+	- Break the machine which will also disable the whirlpool
+	- Change the portal to bi directional using it as a way of trapping the Duchess on the other side or stabilising the pressure by also disabling the machine.
 
 ---
 
@@ -117,17 +123,24 @@ _Beyond it lies only darkness and the distant, endless sea._
 - Passing the vortex requires the players to gain a total of 5 successes in different skill checks or abilities in order to make it to the other side.
 * Each passing check moves them further along the track until they are at the opposite side
 * They may use the same skill multiple times however using the same skill multiple times makes the resulting DC go up by 5.
-* The **skill DC starts at** **20** for each success the DC goes up by **2**
-* so for example if the players use **Athletics** and then **Athletics** again to swim across that would be a DC of 20 then 27. 
-* Creative use of Feats, Spells, Items or Abilities should be awarded with lower DCs.
+* The **skill DC starts at** **25**
+* Creative use of Feats, Spells, Items or Abilities should be awarded with lower DCs as below:
+
+| Action                    | Modifier |
+| ------------------------- | -------- |
+| Clever consumable         | -5       |
+| Excellent plan            | -2       |
+| Risky shortcut            | +2       |
+| Fighting current directly | +5       |
 * Consult the table below for what to do in the context of a failure.
 * Treat critical failures (10 or more below the DC or a natural 1) as two failures.
 * If they get to the point of being pulled into the vortex they will need to either escape **DC 30 Athletics Check** or have another party member disable the machine either permanently or temporarily.
 
 | Failure Amount | Consequence                        |
 | -------------- | ---------------------------------- |
+| 1              | Pulled 10 feet closer              |
 | 3              | 1 level of **Exhaustion**          |
-| 6              | 1 Character Pulled into the Vortex |
+| 5              | 1 Character Pulled into the Vortex |
 
 ---
 
