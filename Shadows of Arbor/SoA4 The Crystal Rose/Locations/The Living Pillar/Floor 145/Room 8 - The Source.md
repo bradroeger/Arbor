@@ -41,8 +41,8 @@ tags:
 
 ## 📖 Read-Aloud Text
 
-- *The door to this room slides out of the way and seems to be bending and bucking towards the inside of the room scrapping on the slide of the slot in the floor. As it finally clears you understand why as opening into the room is a gigantic whirlpool. You can feel the force of the current as it pulls you with incredible force threatening to pull you in.* 
-- *Much of this room is destroyed there is little left of the floor but splinters but above you see huge pipes and contraptions drawing in huge amounts of water. siphoning it off to other places though even some of those have burst completely. Most of one wall has been completely destroyed and left open to the wider sea beyond opening out to blackness*
+- *The door to this room slides out of the way and seems to be bending and bucking towards the inside scrapping on the slide of the slot in the floor screeching of metal against metal as it does so. As it slowly descends out of the way you understand why as opening into the room is a gigantic whirlpool. You can feel the force of the current as it pulls you with incredible force threatening to pull you in.* 
+- *Much of this room is destroyed, there is little left of the floor but splinters of what was a beautiful mosaic and wood panelled floor. Above you see huge pipes and machinery drawing in vast quantities of water, siphoning it off to other places in the facility and perhaps beyond. Some of these pipes have burst completely rending their contents back into the room though most of one wall has been completely destroyed and left open to the wider sea beyond opening to blackness.*
 
 ---
 
