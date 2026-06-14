@@ -75,9 +75,10 @@ tags:
 * Consult the table below for what to do in the context of a failure.
 * Treat critical failures (10 or more below the DC or a natural 1) as two failures.
 
-| Failure Amount | Consequence |
-| -------------- | ----------- |
-|                |             |
+| Failure Amount | Consequence               |
+| -------------- | ------------------------- |
+| 3              | 1 level of **Exhaustion** |
+| 6              | Pulled into the Vortex    |
 
 
 ---
