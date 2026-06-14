@@ -49,7 +49,7 @@ _The frame has warped inward so badly that the bulkhead scrapes against the floo
 
 _Beyond lies chaos._
 
-_The entire centre of the room has collapsed into a gigantic whirlpool. Water churns violently around a vast circular chasam in the floor, spinning with such force that you can feel the current tugging at you even from the doorway._
+_The entire centre of the room has collapsed into a gigantic whirlpool. Water churns violently around a vast circular chasm in the floor, spinning with such force that you can feel the current tugging at you even from the doorway._
 
 _Fragments of a once-beautiful mosaic floor drift past beneath the water. Splintered wood panelling and shattered masonry circle endlessly around the vortex before vanishing into its depths._
 
@@ -70,7 +70,7 @@ _Beyond it lies only darkness and the distant, endless sea._
 
 ## 🌫️ Atmosphere
 
-- Sounds: The whirl of the whirl pool and the sucking noise of the machines drawing water into it.
+- Sounds: The thunderous churn of the whirlpool and the sucking noise of the machines drawing water into it.
 - Smells: water and oil
 - Lighting: Chaotic
 
@@ -79,7 +79,7 @@ _Beyond it lies only darkness and the distant, endless sea._
 ## 📓 GM Notes
 
 - The moment the players open the door they need to start making checks to avoid being pulled into the vortex or more precisely yanked against the floor underneath the water where the gate to the plane of water is located. 
-- Originally the portal was designed to be bi directional once the water pressure had reached equilibrium with the other side but like many projects it was abandonded when it's creator died.
+- Originally the portal was designed to be bi directional once the water pressure had reached equilibrium with the other side but like many projects it was abandoned when it's creator died.
 - The players will need to decide if they want to double back or swim across the vortex pitting their strength against the machines and swirling vortex, which will not be easy.
 - The portal at the bottom of the chamber serves as a one way link to the elemental plane of water constantly expelling vast quantities of water.
 - There was at one time a shut off valve for this but it broke sometime ago and now continually spills water out into the area
@@ -89,7 +89,7 @@ _Beyond it lies only darkness and the distant, endless sea._
 - This is a skill challenge area where the players will need to get across and gain a certain amount of successes otherwise they will take damage, become exhausted or potentially die.
 - There are 4 main ways to deal with the room
 	- Cross using a combination of skills and abilities
-	- Shut down the portal al together disabling the whirlpool
+	- Shut down the portal altogether disabling the whirlpool
 	- Break the machine which will also disable the whirlpool
 	- Change the portal to bi directional using it as a way of trapping the Duchess on the other side or stabilising the pressure by also disabling the machine.
 
@@ -98,7 +98,7 @@ _Beyond it lies only darkness and the distant, endless sea._
 ## 🔄 What Changes Here
 
 - If players disable portal the water will slowly begin to recede the consequences of which are very far reaching and outside the scope of this adventure.
-- If the players disable to machine that pulls in water eventually the water will overwhelm the tower and flood all the levels and collapse the levels above triggering the fall of the tower 
+- If the players disable the machine that pulls in water eventually the water will overwhelm the tower and flood all the levels and collapse the levels above triggering the fall of the tower 
 - If combat starts, the entire area is difficult terrain and requires a **DC 15 Athletics Check** every round to avoid being pulled 10 feet close to the centre
 
 ---
@@ -112,7 +112,7 @@ _Beyond it lies only darkness and the distant, endless sea._
 	- **DC 25** - The machine at the bottom appears to be a combination of Arcane and Steam Technology and it is what is creating the whirlpool
 - **Arcana**
 	- **DC 20** - The sigil at the bottom appears to be a gate linking this world to one of infinite water
-	- **DC 25** - You think the sigil only allows transmision of things one direction at the moment, but you believe you may be able to allow things to go both ways if you could get down there.
+	- **DC 25** - You think the sigil only allows transmission of things one direction at the moment, but you believe you may be able to allow things to go both ways if you could get down there.
 - **Machine**
 	- **Toughness 20** - The DC required to either break or disable to machine permanently. Add 5 if the players want to disable it temporarily.
 
@@ -122,7 +122,7 @@ _Beyond it lies only darkness and the distant, endless sea._
 
 - Passing the vortex requires the players to gain a total of 5 successes in different skill checks or abilities in order to make it to the other side.
 * Each passing check moves them further along the track until they are at the opposite side
-* They may use the same skill multiple times however using the same skill multiple times makes the resulting DC go up by 5.
+* They may use the same skill multiple times however using the same skill multiple times makes the resulting DC go up by 2.
 * The **skill DC starts at** **25**
 * Creative use of Feats, Spells, Items or Abilities should be awarded with lower DCs as below:
 
@@ -140,7 +140,13 @@ _Beyond it lies only darkness and the distant, endless sea._
 | -------------- | ---------------------------------- |
 | 1              | Pulled 10 feet closer              |
 | 3              | 1 level of **Exhaustion**          |
+| 4              | Restrained by the Current          |
 | 5              | 1 Character Pulled into the Vortex |
+
+---
+
+## 💎 Treasure
+* Etched into the wall of the pipes near the bottom are a set of notes about pressure values slowly going up over years and the comparison to the other side watching it slowly equalise along with a note reading *We should reach equal pressure in 5 years I hope I live long enough to see that...*
 
 ---
 
