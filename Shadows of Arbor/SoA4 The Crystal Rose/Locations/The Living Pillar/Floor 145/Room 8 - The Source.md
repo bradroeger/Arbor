@@ -74,11 +74,13 @@ tags:
 * Creative use of Feats, Spells, Items or Abilities should be awarded with lower DCs.
 * Consult the table below for what to do in the context of a failure.
 * Treat critical failures (10 or more below the DC or a natural 1) as two failures.
+* If they get to the point of being pulled into the vortex they will need to either escape **DC 30 Athletics Check** or have another party member disable the machine either permanently or temporarily.
+* 
 
-| Failure Amount | Consequence               |
-| -------------- | ------------------------- |
-| 3              | 1 level of **Exhaustion** |
-| 6              | Pulled into the Vortex    |
+| Failure Amount | Consequence                        |
+| -------------- | ---------------------------------- |
+| 3              | 1 level of **Exhaustion**          |
+| 6              | 1 Character Pulled into the Vortex |
 
 
 ---
