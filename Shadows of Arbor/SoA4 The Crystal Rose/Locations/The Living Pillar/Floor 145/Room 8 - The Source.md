@@ -56,7 +56,7 @@ tags:
 
 ## 📓 GM Notes
 
-- The moment the players open the door they need to start making checks to avoid being pulled into the vortex or more precicely yanked against the floor underneath the water where the gate to the other side is. 
+- The moment the players open the door they need to start making checks to avoid being pulled into the vortex or more precisely yanked against the floor underneath the water where the gate to the plane of water is located. 
 
 ---
 
