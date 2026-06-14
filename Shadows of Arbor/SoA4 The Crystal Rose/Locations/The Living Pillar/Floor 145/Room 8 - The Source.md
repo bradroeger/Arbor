@@ -41,8 +41,30 @@ tags:
 
 ## 📖 Read-Aloud Text
 
-- *The door to this room slides out of the way and seems to be bending and bucking towards the inside scrapping on the slide of the slot in the floor screeching of metal against metal as it does so. As it slowly descends out of the way you understand why as opening into the room is a gigantic whirlpool. You can feel the force of the current as it pulls you with incredible force threatening to pull you in.* 
-- *Much of this room is destroyed, there is little left of the floor but splinters of what was a beautiful mosaic and wood panelled floor. Above you see huge pipes and machinery drawing in vast quantities of water, siphoning it off to other places in the facility and perhaps beyond. Some of these pipes have burst completely rending their contents back into the room though most of one wall has been completely destroyed and left open to the wider sea beyond opening to blackness.*
+### Entry
+
+_The door slides open with a shriek of tortured metal._
+
+_The frame has warped inward so badly that the bulkhead scrapes against the floor as it opens, showering the chamber with sparks._
+
+_Beyond lies chaos._
+
+_The entire centre of the room has collapsed into a gigantic whirlpool. Water churns violently around a vast circular chasam in the floor, spinning with such force that you can feel the current tugging at you even from the doorway._
+
+_Fragments of a once-beautiful mosaic floor drift past beneath the water. Splintered wood panelling and shattered masonry circle endlessly around the vortex before vanishing into its depths._
+
+
+### Looking Further
+
+_Towering overhead, enormous pipes and pumping engines continue their work despite the devastation around them._
+
+_Some still function, drawing impossible quantities of water upward and distributing it throughout the aquarium._
+
+_Others have burst apart completely, spilling torrents back into the chamber._
+
+_One entire wall has been torn away._
+
+_Beyond it lies only darkness and the distant, endless sea._
 
 ---
 
@@ -79,6 +101,7 @@ tags:
 
 - **Perception**
 	- **DC 15** - This whirlpool is not natural but the source of it looks to be coming from near the bottom of the room.
+		- *At the bottom of the vortex, visible only when the currents briefly part, is a circle of rotating runes surrounding a tear of brilliant blue light and through that tear you see an entirely other ocean without end, creatures, coral and dark shadows dance across this window into another world and in a moment the view is gone again swallowed by the ever churning whirlpool.*
 	- **DC 20** - You can just about make out a powerful magical sigil, inscribed with runes that are moving around in a circle at the bottom of the whirlpool
 	- **DC 25** - The machine at the bottom appears to be a combination of Arcane and Steam Technology and it is what is creating the whirlpool
 - **Arcana**
