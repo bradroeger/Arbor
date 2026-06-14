@@ -63,7 +63,11 @@ tags:
 - The floor itself has no upper limit any excess water being pumped out into hidden chambers and then into other areas of the overall tower, in matter of fact many of the higher floors rely on this inexhaustible source of water to function in one way or another.
 - It is possible to disable the portal and stop the water coming out but it would be dangerous.
 - Every Check done in this area requires an advancement of the Duchess Clock.
-- This is a skill challenge area where the players will need to get across and gain a certain amount of successess otherwise they wil b
+- This is a skill challenge area where the players will need to get across and gain a certain amount of successes otherwise they will take damage, become exhausted or potentially die.
+
+### Skill Challenge
+* Passing the vortex requires the players to gain a total of 5 successes in different skill checks or abilities in order to make it to the other side.
+* 
 
 ---
 
