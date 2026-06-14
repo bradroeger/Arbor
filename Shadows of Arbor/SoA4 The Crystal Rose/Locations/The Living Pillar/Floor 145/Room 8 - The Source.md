@@ -75,7 +75,6 @@ tags:
 * Consult the table below for what to do in the context of a failure.
 * Treat critical failures (10 or more below the DC or a natural 1) as two failures.
 * If they get to the point of being pulled into the vortex they will need to either escape **DC 30 Athletics Check** or have another party member disable the machine either permanently or temporarily.
-* 
 
 | Failure Amount | Consequence                        |
 | -------------- | ---------------------------------- |
@@ -87,15 +86,24 @@ tags:
 
 ## 🔄 What Changes Here
 
-- If players do X, then Y changes  
-- If time passes, something escalates  
-- If combat starts, environmental effects trigger
+- If players disable portal the water will slowly begin to recede the consequences of which are very far reaching and outside the scope of this adventure.
+- If the players disable to machine that pulls in water eventually the water will overwhelm the tower and flood all the levels and collapse the levels above triggering the fall of the tower 
+- If combat starts, the entire area is difficult terrain and requires a **DC 15 Athletics Check** every round to avoid being pulled 10 feet close to the centre
 
 ---
 
 ## 🎲 Checks
 
-- **Check Name DC**
+- **Perception**
+	- **DC 15** - This whirlpool is not natural but the source of it looks to be coming from near the bottom of the room.
+	- **DC 20** - You can just about make out a powerful magical sigil, inscribed with runes a
+	- **DC 25**
+- **Arcana**
+	- 
+- **Tinkers Tools**
+	- 
+- **Machine**
+	- 
 
 ---
 
