@@ -146,7 +146,8 @@ _Beyond it lies only darkness and the distant, endless sea._
 ---
 
 ## 💎 Treasure
-* Etched into the wall of the pipes near the bottom are a set of notes about pressure values slowly going up over years and the comparison to the other side watching it slowly equalise along with a note reading *We should reach equal pressure in 5 years I hope I live long enough to see that...*
+* Etched into the wall of the pipes near the bottom are a set of notes about pressure values slowly going up over years and the comparison to the other side watching it slowly equalise along with a note reading 
+	* *Pressure differential continues to decrease. Twenty-three years of operation and the values continue to converge. At the current rate equilibrium should occur within five years. I only hope I live long enough to see it.*
 
 ---
 
@@ -157,3 +158,5 @@ _Beyond it lies only darkness and the distant, endless sea._
 	- Not afraid though, carefully toe the line between the two the Duchess is vastly intelligent and has no fear of almost anything.
 	- The Whirlpool represents a threat to her in a way few other things do it is not a toy to be played with it is a force of nature she cannot control and while she is not afraid of it there are things on the other side that she is terrified of revisiting.
 	- At the moment she is a big fish in a very small pond on the other side of that portal she so small and she never wants to go back to that.
+	- The first time the duchess appears in this room read:
+	  *The large creature (Duchess) glances toward the vortex. For the first time since you met her, she looks genuinely uncomfortable.*
