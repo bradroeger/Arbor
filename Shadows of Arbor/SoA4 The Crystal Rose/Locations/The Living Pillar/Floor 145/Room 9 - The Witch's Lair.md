@@ -33,13 +33,15 @@ tags:
 - This room exists as a kind of break for the players
 - The Duchess clock still advances but she will not engage while in this space
 - The Witch of the Deep is aware of what is happening below but her plan is to use the portal to escape this world and into another.
-- The Witch will provide the players with healing and can restore up to 2 
+- The Witch will provide the players with healing and can restore up to 3 points of restoration, enough for spell slots or features.
+- The Witch also sells a number of healing potions up to greater.
+- She also will attempt to convince the players to simply leave with her that Arbor is doomed eventually anyways so why fight for such a corrupt place.
 
 ---
 
 ## 📖 Read-Aloud Text
 
--
+- *Unlike the other s*
 
 ---
 
