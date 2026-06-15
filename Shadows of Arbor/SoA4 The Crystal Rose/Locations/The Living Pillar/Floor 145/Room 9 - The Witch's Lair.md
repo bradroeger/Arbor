@@ -54,15 +54,16 @@ tags:
 #### After Entering
 
 * _A haunting voice echoes out from inside the conch "Oh do come in and stop loitering out there in the doorway you'll let the draft in or other things..."_
-* _Emerging from the conch comes a large woman dressed all in black with dark hair that seems to float as if she is underwater. Her skin is pale blue like a corpse left in the water. She is wearing a low cut black dress that seems to move and float much like her hair and obscures all of her lower body and just enough of her torso to remain modest. Her emerald green eyes are surrounded by dark eyeshadow and lips that are  _
+* _Emerging from the conch comes a large woman dressed all in black with dark hair that seems to float as if she is underwater. Her skin is pale blue like a corpse left in the water. She is wearing a low cut black dress that seems to move and float much like her hair and obscures all of her lower body and just enough of her torso to remain modest. Her emerald green eyes are surrounded by dark eyeshadow and lips that are a deep purple._
+* _"Welcome to my home dears I hope you have had a good journey now what can the Whispered one of the Deep do for the would be Heroes of Arbor?"_
 
 ---
 
 ## 🌫️ Atmosphere
 
-- Sounds:
-- Smells:
-- Lighting:
+- Sounds: The sea and dripping water.
+- Smells: Salty air and sea smells
+- Lighting: Odd colour
 
 ---
 
