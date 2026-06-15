@@ -41,7 +41,12 @@ tags:
 
 ## 📖 Read-Aloud Text
 
-- *Unlike the other s*
+- *Unlike the other spaces in the aquarium this feels different the moment you lay eyes upon the threshold, where others had large steel, copper and iron doors that slid down into the floor, this one has a simple red curtain that seems to flutter as if moved by the wind rather than the currents that seem to persist across the rest of the level.*
+
+#### Inside the Lair
+
+* *As you move the curtain aside and cast your glances inside you behold a truly strange place that while it does suit the underwater location also seems at odds with it. Instead of mosaic or parque floors it looks like a sea grotto. The ground is rocky and tiered across the space and you notice that despite any obvious reason this place is not filled*
+
 
 ---
 
