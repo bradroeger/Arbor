@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 8 - The Source.md",
+                "file": "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 9 - The Witch's Lair.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Room 8 - The Source"
+              "title": "Room 9 - The Witch's Lair"
             }
           }
         ],
@@ -224,11 +224,11 @@
       "cmdr:QuickAdd: New Location": false
     }
   },
-  "active": "52015dab8a7ff1b4",
+  "active": "9fbfd4fe742ef28c",
   "lastOpenFiles": [
-    "Room 9 - The Witch's Lair.md",
-    "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 7 - The Hologram Room.md",
     "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 8 - The Source.md",
+    "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 9 - The Witch's Lair.md",
+    "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 7 - The Hologram Room.md",
     "Shadows of Arbor/SoA4 The Crystal Rose/Dramatis Persona/Finn.md",
     "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 6 - The Engine Room.md",
     "Templates/NPC Template.md",

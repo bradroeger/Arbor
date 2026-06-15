@@ -1,8 +1,8 @@
 ---
 type: room
-adventure:
-area:
-region:
+adventure: "[[The Crystal Rose]]"
+area: "[[Floor 145]]"
+region: "[[The Living Pillar]]"
 id:
 connections: []
 encounter_type: exploration
@@ -30,7 +30,8 @@ tags:
 
 ## 🧭 Summary
 
--
+- This room exists as a kind of break for the players
+- The Duchess clock still advances but she will not engage while in this space
 
 ---
 
