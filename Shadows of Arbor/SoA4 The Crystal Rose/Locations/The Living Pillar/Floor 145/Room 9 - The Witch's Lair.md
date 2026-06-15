@@ -75,7 +75,8 @@ tags:
 
 ## 🔄 What Changes Here
 
-- Every time the players do something like 
+- Every time the players do something like buy something or brew something or make some kind of deal here advance the clock.
+- If the overall Duchess Clock maxes out here she will app
 
 ---
 
