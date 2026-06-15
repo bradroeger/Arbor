@@ -69,15 +69,13 @@ tags:
 
 ## 📓 GM Notes
 
--
+- 
 
 ---
 
 ## 🔄 What Changes Here
 
-- If players do X, then Y changes  
-- If time passes, something escalates  
-- If combat starts, environmental effects trigger
+- Every time the players do something like 
 
 ---
 
