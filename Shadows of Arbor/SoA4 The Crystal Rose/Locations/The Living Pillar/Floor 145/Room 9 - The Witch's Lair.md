@@ -33,7 +33,7 @@ tags:
 - This room exists as a kind of break for the players
 - The Duchess clock still advances but she will not engage while in this space
 - The Witch of the Deep is aware of what is happening below but her plan is to use the portal to escape this world and into another.
-- 
+- The Witch will provide the players with healing and can restore up to 2 
 
 ---
 
