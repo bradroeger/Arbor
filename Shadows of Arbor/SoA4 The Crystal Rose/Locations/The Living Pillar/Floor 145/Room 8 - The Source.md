@@ -1,8 +1,8 @@
 ---
 type: room
-adventure:
-area:
-region:
+adventure: "[[The Crystal Rose]]"
+area: "[[Floor 145]]"
+region: "[[The Living Pillar]]"
 id:
 connections: []
 encounter_type: exploration
@@ -10,9 +10,12 @@ combat_expected: false
 entry_from:
 exit_to: []
 time_pressure: false
-skill_checks: []
+skill_checks:
+  - Perception
+  - Tinker's Tools
 saving_throws: []
-hazards: []
+hazards:
+  - Whirlpool
 secret_room: false
 hidden_features: []
 discovery_skills:
