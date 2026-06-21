@@ -41,11 +41,11 @@ tags:
 
 ## 📖 Read-Aloud Text
 
-- *Unlike the other spaces in the aquarium this feels different the moment you lay eyes upon the threshold, where others had large steel, copper and iron doors that slid down into the floor, this one has a simple red curtain that seems to flutter as if moved by the wind rather than the currents that seem to persist across the rest of the level.*
+- *Unlike the other spaces in the aquarium this feels different the moment you lay eyes upon the threshold, where others had large steel, copper and iron doors that slid down into the floor, this one has a simple red curtain that seems to flutter as if moved by the wind rather than the currents of the waves.
 
 #### Inside the Lair
 
-* *As you move the curtain aside and cast your glances inside you behold a truly strange place that while it does suit the underwater location also seems at odds with it. Instead of mosaic or parque floors it looks like a sea grotto. The ground is rocky and tiered across the space and you notice that despite any obvious reason this place is not filled with water as the others are. You see a multitude of small tide pools filled with a plethora of colourful liquids that seem to shimmer and change and in the centre of the room a massive conch shell hangs from the ceiling.
+* *As you move the curtain aside and cast your glances inside you behold a truly strange place that while it does suit the underwater location also seems at odds with it. Instead of mosaic or parquet floors it looks like a sea grotto. The ground is rocky and tiered across the space and you notice that despite any obvious reason this place is not filled with water as the others are. You see a multitude of small tide pools filled with a plethora of colourful liquids that seem to shimmer and change and in the centre of the room a massive conch shell hangs from the ceiling.
 
 * *In addition you realise as you look around that there is what appears to be a small seating area made up of a collection of large clam shells with dark cushions on the inside. A table made of a large stone that seems to have been carved to be thus is in the middle and on top of it is a tray made of abalone shell in which are a number of small hors d'oeuvres next to which is a tea pot made out of a conch shell and a few cups.*
 
