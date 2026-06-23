@@ -45,11 +45,12 @@ tags:
 
 #### Inside the Lair
 
-* *As you move the curtain aside and cast your glances inside you behold a truly strange place that while it does suit the underwater location also seems at odds with it. Instead of mosaic or parquet floors it looks like a sea grotto. The ground is rocky and tiered across the space and you notice that despite any obvious reason this place is not filled with water as the others are. You see a multitude of small tide pools filled with a plethora of colourful liquids that seem to shimmer and change and in the centre of the room a massive conch shell hangs from the ceiling.
+* *As you move the curtain aside you reali and cast your glances inside you behold a truly strange place that while it does suit the underwater location also seems at odds with it. The ground is rocky and tiered across the space and you notice that despite any obvious reason this place is not filled with water as the others are. You see a multitude of small tide pools filled with a plethora of colourful liquids that seem to shimmer and change and in the centre of the room a massive conch shell hangs from the ceiling.
 
 * *In addition you realise as you look around that there is what appears to be a small seating area made up of a collection of large clam shells with dark cushions on the inside. A table made of a large stone that seems to have been carved and shaped out of the stone of the floor and on top of it is a tray made of abalone shell in which are a number of small hors d'oeuvres next to which is a tea pot and a few cups.*
 
 * *Along the back wall carved into the rock are a number of shelves filled with books, scrolls, bottles and other objects that are so myriad as to be difficult to identify everything contained within.*
+
 * *On one of the upper levels is a strange thing you can't quite see but you can feel. The emenation of emotional energy, the screaming of the damned and reflected on the ceiling in an eerie light are the faces of terrified people.*
 
 #### After Entering
@@ -75,7 +76,7 @@ tags:
 - She is planning to leave Arbor through the portal created by the fool (her words) who designed this place. 
 - She has a child with her one she may or may not have sired herself but one that she is fond enough of to try and spare her the horrors of this world.
 - She is not evil, she is not good, she is selfish and looks out for herself but is still bound by the code of the whispered ones.
-- She can offer the PCs a few different things if the players wish to partake in them each thing comes with a cost beyond the 3 points restored. The cost for each item is usually not money but things :
+- She can offer the PCs a few different things if the players wish to partake in them each thing comes with a cost beyond the 3 points restored. The cost for each item is usually not money but things she needs or wants. She is an ancient witch things like their voice, their first born, their love or others can be what she asks for:
 	- up to 3 points restored from as if by a long rest (see long rest mechanic for details).
 	- A glimpse into what awaits them on the floor below.
 	- Passage with her if they believe that they would simply like to leave.
@@ -84,7 +85,7 @@ tags:
 	- 5 Magical scrolls that the players can barter for with other magical items or 2x their cost in leaves.
 - Along with all of the above the characters may ask her questions about the Duchess, the Aquarium itself or the Door to descend, she knows the following:
 	- The Duchess is old maybe as old as Baba Yaga and at least as dangerous though not as dangerous as what's coming up the tower.
-	- The Duchess can't get them here... for now it's not sure about the Witch and has kept it's distance, but that doesn't mean the characters can stay forever or they would be safe forever.
+	- The Duchess can't get them here... for now. The whispered one knows the Duchess true name and has threatened it before with forcing it back through the portal with that knowledge The Duchess hates this it knows it's more powerful but with a single word the whispered one could bind her and throw her back into the deep where the things she really fears would hunt her for sport, which the witch knows. but that doesn't mean the characters can stay forever or they would be safe forever.
 	- The Duchess doesn't do well with temperature extremes it's why she avoids the center area and the Artic area, but just because she doesn't like it doesn't mean your safe the creature is old and dangerous, if you make it angry it will come in after you and a little heat isn't going to stop or even slow it down once that happens.
 	- The way down is blocked by a magical gate that has a key, the key is in Duchess belly, however it should be possibly to simply dispel the gate though you would end up flooding the downstairs area in the process so maybe figure out a way to turn off the water first.
 	- Short range teleportation magics should function normally here just don't try going through the floor and bypassing the aquarium the floor below has a powerful spell cast on it that blocks all teleportation magics.
