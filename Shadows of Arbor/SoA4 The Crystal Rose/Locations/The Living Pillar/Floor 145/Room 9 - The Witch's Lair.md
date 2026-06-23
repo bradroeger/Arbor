@@ -50,12 +50,12 @@ tags:
 * *In addition you realise as you look around that there is what appears to be a small seating area made up of a collection of large clam shells with dark cushions on the inside. A table made of a large stone that seems to have been carved and shaped out of the stone of the floor and on top of it is a tray made of abalone shell in which are a number of small hors d'oeuvres next to which is a tea pot and a few cups.*
 
 * *Along the back wall carved into the rock are a number of shelves filled with books, scrolls, bottles and other objects that are so myriad as to be difficult to identify everything contained within.*
-* *In *
+* *On one of the upper levels is a strange thing you can't quite see but you can feel. The emenation of emotional energy, the screaming of the damned and reflected on the ceiling in an eerie light are the faces of terrified people.*
 
 #### After Entering
 
 * _A haunting voice echoes out from inside the conch "Oh do come in and stop loitering out there in the doorway you'll let the draft in or other things..."_
-* _Emerging from the conch comes a large woman dressed all in black with dark hair that seems to float as if she is underwater. Her skin is pale blue like a corpse left in the water. She is wearing a low cut black dress that seems to move and float much like her hair and obscures all of her lower body and just enough of her torso to remain modest. Her emerald green eyes are surrounded by dark eyeshadow and lips that are a deep purple._
+* _Emerging from the conch comes a large woman dressed all in black with dark hair that seems to float as if she is underwater. Her skin is pale blue like a corpse left to drown in the sea. She is wearing a low cut black dress that seems to move and float much like her hair and obscures all of her lower body and just enough of her torso to remain modest. Her emerald green eyes are surrounded by dark eyeshadow and lips that are a deep purple._
 * _"Welcome to my home dears I hope you have had a good journey now what can the Whispered one of the Deep do for the would be Heroes of Arbor?"_
 
 ---
@@ -70,7 +70,10 @@ tags:
 
 ## 📓 GM Notes
 
-- 
+-  The Witch of the Deep and her lair are a place of respite for the players though a slightly dangerous one.
+- She is planning to leave Arbor through the portal created by the fool (her words) who designed this place. 
+- She has a child with her one she may or may not have sired herself but one that she is fond enough of to try and spare her the horrors of this world.
+- She can offer the PCs a f
 
 ---
 
