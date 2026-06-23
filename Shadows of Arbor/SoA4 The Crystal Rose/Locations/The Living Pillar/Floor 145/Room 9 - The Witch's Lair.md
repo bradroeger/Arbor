@@ -45,7 +45,7 @@ tags:
 
 #### Inside the Lair
 
-* *As you move the curtain aside you realise there is a distortion and rippling across your vision and as you cross the threshold you realise why as your lungs fill with air. The ground inside is rocky and black. You see a multitude of small tide pools filled with a plethora of colourful liquids that seem to shimmer and change. In the centre of the room a massive conch shell hangs from the ceiling with a series of stone steps leading up to an entrance.
+* *As you move the curtain aside you realise there is a distortion and rippling across your vision and as you cross the threshold you realise why as your lungs fill with air. Your ears pop. Water runs from your clothes and hair. For the first time since entering the aquarium you take a breath without magic. The ground inside is rocky and black like it has been at the bottom of the sea so long light has ceased to try and give it colour. You see a multitude of small tide pools filled with a plethora of colourful liquids that seem to shimmer and change. In the centre of the room a massive conch shell hangs from the ceiling with a series of stone steps leading up to an entrance.
 
 * *As you look further there is a small seating area made up of a collection of large clam shells with dark cushions on the inside. A table made of large carved stone and on top of it is a tray made of abalone in which are a number of small cookies next to which is a tea pot.*
 
@@ -84,15 +84,17 @@ tags:
 	- One of three magical items but not all three only 1, and the price is a characters voice, who she will give to Pennie who was born as a mute.
 	- 5 Magical scrolls that the players can barter for with other magical items or 2x their cost in leaves.
 - Along with all of the above the characters may ask her questions about the Duchess, the Aquarium itself or the Door to descend, she knows the following:
-	- The most important thing she wants the players to know is that she intends to leave in order to facilitate that she needs to use the players as a distraction because while the threat of it's true name will protect her there are other creatures the Duchess commands that may pose a threat. She will offer one of the items from above in order to make this happen, along with the information about the temperature problems 
+	- The most important thing she wants the players to know is that she intends to leave in order to facilitate that she needs to use the players as a distraction because while the threat of it's true name will protect her there are other creatures the Duchess commands that may pose a threat. She will offer one of the items from above in order to make this happen, along with the information about the temperature problems the Duchess has, wether they kill her or not is up to them but they probably need the key in it's belly.
 	- The Duchess is old maybe as old as Baba Yaga and at least as dangerous though not as dangerous as what's coming up the tower.
 	- The Duchess can't get them here... for now. The whispered one knows the Duchess true name and has threatened it before with forcing it back through the portal with that knowledge. The Duchess hates this it knows it's more powerful but with a single word the whispered one could bind her and throw her back into the deep where the things she really fears would hunt her for sport, which the witch knows. but that doesn't mean the characters can stay forever or they would be safe forever.
 	- The Duchess doesn't do well with temperature extremes it's why she avoids the centre area and the Artic area, but just because she doesn't like it doesn't mean your safe the creature is old and dangerous, if you make it angry it will come in after you and a little heat isn't going to stop or even slow it down once that happens.
 	- The way down is blocked by a magical gate that has a key, the key is in Duchess belly, however it should be possibly to simply dispel the gate though you would end up flooding the downstairs area in the process so maybe figure out a way to turn off the water first.
 	- Short range teleportation magics should function normally here just don't try going through the floor and bypassing the aquarium the floor below has a powerful spell cast on it that blocks all teleportation magics.
 	- The Aquarium was a love letter to marine life by the builder, and while she died in poverty she does appreciate the gift she gave her...
-- The looking glass
+- The looking glass (soul artifact)
 	- Use this to show the players scenes of what is happening in Arbor below, depending on their actions they might seen things like Doctors ushering people away from blighted areas, NPCs they saved fighting off Miyo's hordes or the City below in abject terror as it becomes consumed and joined with Miyo.
+	- The Souls of those who crossed the witch are embedded inside the construction of this artifact. It acts as a Mirror of Life Trapping with one crucial difference, it has no limit on how many people can be enslaved inside it. 
+	- The Witch uses the souls as a power source pulling their souls into herself when it is needed 
 - Pennie
 	- She will prefer to hide behind her "mother" but if the party decide to sit and have tea with the witch she will go off to fetch sugars and things. 
 	- If she gets bored she'll ask to read a book and one of them will float off the shelf as if moving along a wave and she will go sit on one of the chairs.
