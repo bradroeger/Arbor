@@ -81,11 +81,12 @@ tags:
 	- A glimpse into what awaits them on the floor below.
 	- Passage with her if they believe that they would simply like to leave.
 	- A few healing potions (charged at full price)
-	- One of three magical items but not all three only 1 and the price is a characters voice, who she will give to the child who was born mute.
+	- One of three magical items but not all three only 1, and the price is a characters voice, who she will give to Pennie who was born as a mute.
 	- 5 Magical scrolls that the players can barter for with other magical items or 2x their cost in leaves.
 - Along with all of the above the characters may ask her questions about the Duchess, the Aquarium itself or the Door to descend, she knows the following:
+	- The most important thing she wants the players to know is that she intends to leave in order to facilitate that she needs to use the players as a distraction because while the threat of it's true name will protect her there are other creatures the Duchess commands 
 	- The Duchess is old maybe as old as Baba Yaga and at least as dangerous though not as dangerous as what's coming up the tower.
-	- The Duchess can't get them here... for now. The whispered one knows the Duchess true name and has threatened it before with forcing it back through the portal with that knowledge The Duchess hates this it knows it's more powerful but with a single word the whispered one could bind her and throw her back into the deep where the things she really fears would hunt her for sport, which the witch knows. but that doesn't mean the characters can stay forever or they would be safe forever.
+	- The Duchess can't get them here... for now. The whispered one knows the Duchess true name and has threatened it before with forcing it back through the portal with that knowledge. The Duchess hates this it knows it's more powerful but with a single word the whispered one could bind her and throw her back into the deep where the things she really fears would hunt her for sport, which the witch knows. but that doesn't mean the characters can stay forever or they would be safe forever.
 	- The Duchess doesn't do well with temperature extremes it's why she avoids the centre area and the Artic area, but just because she doesn't like it doesn't mean your safe the creature is old and dangerous, if you make it angry it will come in after you and a little heat isn't going to stop or even slow it down once that happens.
 	- The way down is blocked by a magical gate that has a key, the key is in Duchess belly, however it should be possibly to simply dispel the gate though you would end up flooding the downstairs area in the process so maybe figure out a way to turn off the water first.
 	- Short range teleportation magics should function normally here just don't try going through the floor and bypassing the aquarium the floor below has a powerful spell cast on it that blocks all teleportation magics.
