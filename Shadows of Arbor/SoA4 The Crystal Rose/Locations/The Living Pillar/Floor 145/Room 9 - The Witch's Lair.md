@@ -83,8 +83,15 @@ tags:
 	- A few healing potions (charged at full price)
 	- One of three magical items but not all three only 1, and the price is a characters voice, who she will give to Pennie who was born as a mute.
 	- 5 Magical scrolls that the players can barter for with other magical items or 2x their cost in leaves.
-- Along with all of the above the characters may ask her questions about the Duchess, the Aquarium itself or the Door to descend, she knows the following:
-	- The most important thing she wants the players to know is that she intends to leave in order to facilitate that she needs to use the players as a distraction because while the threat of it's true name will protect her there are other creatures the Duchess commands that may pose a threat. She will offer one of the items from above in order to make this happen, along with the information about the temperature problems the Duchess has, wether they kill her or not is up to them but they probably need the key in it's belly.
+- Along with all of the above the characters may ask her questions about the Duchess, the Aquarium itself or the Door to descend, she knows will volunteer the following:
+	- The most important thing she wants the players to know is that she intends to leave 
+	- in order to facilitate that she needs to use the players as a distraction
+	- She will offer one of the items from above in order to make this happen, along with the information about the temperature problems the Duchess has
+	- Weather they kill her or not is up to them but they probably need the key in it's belly.
+	- They are safe here for now
+	- Would they like some tea?
+- Other things she knows but will not volunteer unless asked:
+	- The threat of it's true name will protect her there are other creatures the Duchess commands that may pose a danger to her and Pennie.
 	- The Duchess is old maybe as old as Baba Yaga and at least as dangerous though not as dangerous as what's coming up the tower.
 	- The Duchess can't get them here... for now. The whispered one knows the Duchess true name and has threatened it before with forcing it back through the portal with that knowledge. The Duchess hates this it knows it's more powerful but with a single word the whispered one could bind her and throw her back into the deep where the things she really fears would hunt her for sport, which the witch knows. but that doesn't mean the characters can stay forever or they would be safe forever.
 	- The Duchess doesn't do well with temperature extremes it's why she avoids the centre area and the Artic area, but just because she doesn't like it doesn't mean your safe the creature is old and dangerous, if you make it angry it will come in after you and a little heat isn't going to stop or even slow it down once that happens.
@@ -94,7 +101,7 @@ tags:
 - The looking glass (soul artifact)
 	- Use this to show the players scenes of what is happening in Arbor below, depending on their actions they might seen things like Doctors ushering people away from blighted areas, NPCs they saved fighting off Miyo's hordes or the City below in abject terror as it becomes consumed and joined with Miyo.
 	- The Souls of those who crossed the witch are embedded inside the construction of this artifact. It acts as a Mirror of Life Trapping with one crucial difference, it has no limit on how many people can be enslaved inside it. 
-	- The Witch uses the souls as a power source pulling their souls into herself when it is needed 
+	- The Witch uses the souls as a means to extend her life, every soul inside failed to honour a deal in one way or another and she will make a point to say as such. None are innocent and they all knew what they were getting into, she is no devil there is no fine print her deals are fair these souls just tried to cheat her and she will not abide that.
 - Pennie
 	- She will prefer to hide behind her "mother" but if the party decide to sit and have tea with the witch she will go off to fetch sugars and things. 
 	- If she gets bored she'll ask to read a book and one of them will float off the shelf as if moving along a wave and she will go sit on one of the chairs.
