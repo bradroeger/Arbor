@@ -45,13 +45,13 @@ tags:
 
 #### Inside the Lair
 
-* *As you move the curtain aside you reali and cast your glances inside you behold a truly strange place that while it does suit the underwater location also seems at odds with it. The ground is rocky and tiered across the space and you notice that despite any obvious reason this place is not filled with water as the others are. You see a multitude of small tide pools filled with a plethora of colourful liquids that seem to shimmer and change and in the centre of the room a massive conch shell hangs from the ceiling.
+* *As you move the curtain aside you realise there is a distortion and rippling across your vision and as you cross the threshold you realise why as your lungs fill with air. The ground inside is rocky and black. You see a multitude of small tide pools filled with a plethora of colourful liquids that seem to shimmer and change. In the centre of the room a massive conch shell hangs from the ceiling with a series of stone steps leading up to an entrance.
 
-* *In addition you realise as you look around that there is what appears to be a small seating area made up of a collection of large clam shells with dark cushions on the inside. A table made of a large stone that seems to have been carved and shaped out of the stone of the floor and on top of it is a tray made of abalone shell in which are a number of small hors d'oeuvres next to which is a tea pot and a few cups.*
+* *As you look further there is a small seating area made up of a collection of large clam shells with dark cushions on the inside. A table made of large carved stone and on top of it is a tray made of abalone in which are a number of small cookies next to which is a tea pot.*
 
 * *Along the back wall carved into the rock are a number of shelves filled with books, scrolls, bottles and other objects that are so myriad as to be difficult to identify everything contained within.*
 
-* *On one of the upper levels is a strange thing you can't quite see but you can feel. The emenation of emotional energy, the screaming of the damned and reflected on the ceiling in an eerie light are the faces of terrified people.*
+* *On one of the upper levels is a strange thing you can't quite see but you can feel. The emanation something terrible, the screaming of the damned and reflected on the ceiling in an eerie light are the faces of terrified people.*
 
 #### After Entering
 
