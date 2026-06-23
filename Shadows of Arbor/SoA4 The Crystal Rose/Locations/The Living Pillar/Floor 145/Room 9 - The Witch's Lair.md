@@ -74,7 +74,8 @@ tags:
 - The Witch of the Deep and her lair are a place of respite for the players though a slightly dangerous one.
 - She is planning to leave Arbor through the portal created by the fool (her words) who designed this place. 
 - She has a child with her one she may or may not have sired herself but one that she is fond enough of to try and spare her the horrors of this world.
-- She can offer the PCs a few different things if the players wish to partake in them:
+- She is not evil, she is not good, she is selfish and looks out for herself but is still bound by the code of the whispered ones.
+- She can offer the PCs a few different things if the players wish to partake in them each thing comes with a cost beyond the 3 points restored. The cost for each item is usually not money but things :
 	- up to 3 points restored from as if by a long rest (see long rest mechanic for details).
 	- A glimpse into what awaits them on the floor below.
 	- Passage with her if they believe that they would simply like to leave.
