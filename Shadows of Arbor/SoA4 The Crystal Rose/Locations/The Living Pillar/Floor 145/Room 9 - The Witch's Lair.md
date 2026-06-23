@@ -108,7 +108,8 @@ tags:
 
 ## 🎭 Characters Present
 
-- [[With of the Dee]]
+- [[Whispered one of the Deep]]
+- [[Pennie]]
 
 ---
 
