@@ -30,35 +30,49 @@ tags:
 
 ## 🧭 Summary
 
-- This room exists as a kind of break for the players
-- The Duchess clock still advances but she will not engage while in this space
-- The Witch of the Deep is aware of what is happening below but her plan is to use the portal to escape this world and into another.
-- The Witch will provide the players with healing and can restore up to 3 points of restoration, enough for spell slots or features.
-- The Witch also sells a number of healing potions up to greater.
-- She also will attempt to convince the players to simply leave with her that Arbor is doomed eventually anyways so why fight for such a corrupt place.
+- This room serves as a brief respite for the players.  
+- The Duchess Clock still advances, but the Duchess will not enter this space.  
+- The Witch of the Deep is aware of what is happening below, but her plan is to use the portal to escape this world for another.  
+- The Witch can restore up to 3 points of Restoration, enough to recover spell slots or class features.  
+- She also sells healing potions up to Greater Healing.  
+- She will attempt to convince the players to leave with her, arguing that Arbor is doomed eventually, so why fight for such a corrupt place?
 
 ---
 
 ## 📖 Read-Aloud Text
 
-- *Unlike the other spaces in the aquarium this feels different the moment you lay eyes upon the threshold, where others had large steel, copper and iron doors that slid down into the floor, this one has a simple red curtain that seems to flutter as if moved by the wind rather than the currents of the waves.
+- *Unlike the other spaces in the aquarium, this chamber feels different the moment you lay eyes upon the threshold. Where the others possessed great doors of steel, copper, and iron that slid into the floor, this one is concealed only by a simple red curtain that flutters gently, as though stirred by a breeze rather than the currents beyond.*
 
 #### Inside the Lair
 
-* *As you move the curtain aside you realise there is a distortion and rippling across your vision and as you cross the threshold you realise why as your lungs fill with air. Your ears pop. Water runs from your clothes and hair. For the first time since entering the aquarium you take a breath without magic. The ground inside is rocky and black like it has been at the bottom of the sea so long light has ceased to try and give it colour. You see a multitude of small tide pools filled with a plethora of colourful liquids that seem to shimmer and change. In the centre of the room a massive conch shell hangs from the ceiling with a series of stone steps leading up to an entrance.
+* *As you draw the curtain aside, you notice a strange distortion rippling across your vision. The moment you step through, you understand why.*  
+  
+* *Your lungs fill with air.*  
+  
+* *Your ears pop. Water runs from your clothes and hair. For the first time since entering the aquarium, you take a breath without magic.*  
+  
+* *The ground within is rocky and black, as though it has rested upon the ocean floor for so long that even light abandoned any attempt to colour it. Small tide pools dot the chamber, each filled with colourful liquids that shimmer, swirl, and change before your eyes. In the centre of the room hangs a massive conch shell suspended from the ceiling, reached by a winding staircase carved from stone.*
 
-* *As you look further there is a small seating area made up of a collection of large clam shells with dark cushions on the inside. A table made of large carved stone and on top of it is a tray made of abalone in which are a number of small cookies next to which is a tea pot.*
+### Seating Area
 
-* *Along the back wall carved into the rock are a number of shelves filled with books, scrolls, bottles and other objects that are so myriad as to be difficult to identify everything contained within.*
+* *Further within is a small seating area formed from enormous clam shells lined with dark cushions. Between them sits a table carved directly from the surrounding stone. Upon it rests an abalone tray laden with small biscuits, a teapot, and delicate cups.*
 
-* *On one of the upper levels is a strange thing rimmed in bone and shell that you can't quite see into but you can feel. The emanation something terrible, screams and as you cast your eyes upwards you see cast on the ceiling from the object below are faces of terrified tortured souls.*
+### Shelves
 
-#### After Entering
+* *The rear wall is lined with shelves carved into the stone itself. They are packed with books, scrolls, bottles, curiosities, and so many strange objects that it becomes difficult to identify everything at a glance.*
 
-* _A haunting voice echoes out from inside the conch "Oh do come in and stop loitering out there in the doorway you'll let the draft in or other things..."_
-* _Emerging from the conch comes a large woman dressed all in black with dark hair that seems to float as if she is underwater. Her skin is pale blue like a corpse left to drown in the sea. She is wearing a low cut black dress that seems to move and float much like her hair and obscures all of her lower body and just enough of her torso to remain modest. Her emerald green eyes are surrounded by dark eyeshadow and lips that are a deep purple._
-* _"Welcome to my home dears I hope you have had a good journey now what can the Whispered one of the Deep do for the would be Heroes of Arbor?"_
-* *Peeking out from behind her dress is a small child of no more than 5, her bright golden eyes and teal hair are the brightest colours in here. Who *
+### Soul Artifact
+
+* *Upon one of the upper terraces rests a strange object rimmed with bone and shell. It is difficult to focus upon directly, yet impossible to ignore. You can feel something emanating from it—something wrong. Faint screams echo through the chamber, and when you glance upward you realise the light cast by the artifact paints countless terrified faces across the ceiling.*
+
+### Witch Introduction
+
+
+* *"Oh, do come in and stop loitering in the doorway. You'll let the draft in... or other things."*
+* *A haunting voice echoes from within the conch shell.*
+* *Moments later, a tall woman emerges. She is dressed entirely in black, with dark hair that drifts as though suspended underwater. Her skin is pale blue, reminiscent of a corpse recovered from the sea. A flowing black dress obscures her lower body and just enough of her torso to remain modest. Emerald eyes framed by dark shadow meet yours, and deep purple lips curl into a knowing smile.*
+* *"Welcome to my home, dears. I hope you have had a pleasant journey. Now then, what can the Whispered One of the Deep do for the would-be heroes of Arbor?"*
+* *Peeking out from behind her dress is a small child no older than five. Bright golden eyes and teal hair provide the only vivid colours in the room. She studies you curiously before retreating slightly behind the Witch's skirts.*
 
 ---
 
