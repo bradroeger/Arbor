@@ -79,6 +79,7 @@ tags:
 	- Passage with her if they believe that they would simply like to leave.
 	- A few healing potions (charged at full price)
 	- One of three magical items but not all three only 1 and the price is a characters voice, who she will give to the child who was born mute.
+	- 5 Magical scrolls that the players can barter for with other magical items or 2x their cost in leaves.
 - Along with all of the above the characters may ask her questions about the Duchess, the Aquarium itself or the Door to descend, she knows the following:
 	- The Duchess is old maybe as old as Baba Yaga and at least as dangerous though not as dangerous as what's coming up the tower.
 	- The Duchess can't get them here... for now it's not sure about the Witch and has kept it's distance, but that doesn't mean the characters can stay forever or they would be safe forever.
@@ -86,6 +87,8 @@ tags:
 	- The way down is blocked by a magical gate that has a key, the key is in Duchess belly, however it should be possibly to simply dispel the gate though you would end up flooding the downstairs area in the process so maybe figure out a way to turn off the water first.
 	- Short range teleportation magics should function normally here just don't try going through the floor and bypassing the aquarium the floor below has a powerful spell cast on it that blocks all teleportation magics.
 	- The Aquarium was a love letter to marine life by the builder, and while she died in poverty she does appreciate the gift she gave her...
+- The looking glass
+	- Use this to show the players scenes of what is happening in Arbor below, depending on their actions they might seen things like Doctors ushering people away from blighted areas, NPCs they saved fighting off Miyo's hordes or the City below in abject terror as it becomes consumed and joined with Miyo.
 
 ---
 
@@ -98,25 +101,14 @@ tags:
 
 ## 🎲 Checks
 
-- **Check Name DC**
-
----
-
-## 🧩 Puzzle / Challenge
-
--
-
----
-
-## ⚔️ Encounter Setup
-
--
-
----
+- **Arcana DC 15**
+	- The Pool on the top step is a form of scrying lens allowing the user to see across great distances.
+- **History or Arcana 25**
+	- This is the Whispered One of the Deep an old one though not as old as Baba Yaga her domain is the oceans and seas and many thought her dead or lost given Arbor has neither of these things. Her alignment and mood were said to be as fickle as the waves so tread lightly and carefully.
 
 ## 🎭 Characters Present
 
--
+- [[With of the Dee]]
 
 ---
 
