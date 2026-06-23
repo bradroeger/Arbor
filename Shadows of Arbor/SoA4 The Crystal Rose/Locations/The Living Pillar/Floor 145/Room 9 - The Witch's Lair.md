@@ -82,7 +82,10 @@ tags:
 - Along with all of the above the characters may ask her questions about the Duchess, the Aquarium itself or the Door to descend, she knows the following:
 	- The Duchess is old maybe as old as Baba Yaga and at least as dangerous though not as dangerous as what's coming up the tower.
 	- The Duchess can't get them here... for now it's not sure about the Witch and has kept it's distance, but that doesn't mean the characters can stay forever or they would be safe forever.
-	- 
+	- The Duchess doesn't do well with temperature extremes it's why she avoids the center area and the Artic area, but just because she doesn't like it doesn't mean your safe the creature is old and dangerous, if you make it angry it will come in after you and a little heat isn't going to stop or even slow it down once that happens.
+	- The way down is blocked by a magical gate that has a key, the key is in Duchess belly, however it should be possibly to simply dispel the gate though you would end up flooding the downstairs area in the process so maybe figure out a way to turn off the water first.
+	- Short range teleportation magics should function normally here just don't try going through the floor and bypassing the aquarium the floor below has a powerful spell cast on it that blocks all teleportation magics.
+	- The Aquarium was a love letter to marine life by the builder, and while she died in poverty she does appreciate the gift she gave her...
 
 ---
 
