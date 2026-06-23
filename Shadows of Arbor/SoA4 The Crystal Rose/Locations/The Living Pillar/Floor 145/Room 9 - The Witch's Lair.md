@@ -51,7 +51,7 @@ tags:
 
 * *Along the back wall carved into the rock are a number of shelves filled with books, scrolls, bottles and other objects that are so myriad as to be difficult to identify everything contained within.*
 
-* *On one of the upper levels is a strange thing you can't quite see but you can feel. The emanation something terrible, the screaming of the damned and reflected on the ceiling in an eerie light are the faces of terrified people.*
+* *On one of the upper levels is a strange thing rimmed in bone and shell that you can't quite see into but you can feel. The emanation something terrible, screams and as you cast your eyes upwards you see cast on the ceiling from the object below are faces of terrified tortured souls.*
 
 #### After Entering
 
@@ -92,6 +92,9 @@ tags:
 	- The Aquarium was a love letter to marine life by the builder, and while she died in poverty she does appreciate the gift she gave her...
 - The looking glass
 	- Use this to show the players scenes of what is happening in Arbor below, depending on their actions they might seen things like Doctors ushering people away from blighted areas, NPCs they saved fighting off Miyo's hordes or the City below in abject terror as it becomes consumed and joined with Miyo.
+- Pennie
+	- She will prefer to hide behind her "mother" but if the party decide to sit and have tea with the witch she will go off to fetch sugars and things. 
+	- If she gets bored she'll ask to read a book and one of them will float off the shelf as if moving along a wave and she will go sit on one of the chairs.
 
 ---
 
