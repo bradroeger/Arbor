@@ -70,10 +70,19 @@ tags:
 
 ## 📓 GM Notes
 
--  The Witch of the Deep and her lair are a place of respite for the players though a slightly dangerous one.
+- The Witch of the Deep and her lair are a place of respite for the players though a slightly dangerous one.
 - She is planning to leave Arbor through the portal created by the fool (her words) who designed this place. 
 - She has a child with her one she may or may not have sired herself but one that she is fond enough of to try and spare her the horrors of this world.
-- She can offer the PCs a f
+- She can offer the PCs a few different things if the players wish to partake in them:
+	- up to 3 points restored from as if by a long rest (see long rest mechanic for details).
+	- A glimpse into what awaits them on the floor below.
+	- Passage with her if they believe that they would simply like to leave.
+	- A few healing potions (charged at full price)
+	- One of three magical items but not all three only 1 and the price is a characters voice, who she will give to the child who was born mute.
+- Along with all of the above the characters may ask her questions about the Duchess, the Aquarium itself or the Door to descend, she knows the following:
+	- The Duchess is old maybe as old as Baba Yaga and at least as dangerous though not as dangerous as what's coming up the tower.
+	- The Duchess can't get them here... for now it's not sure about the Witch and has kept it's distance, but that doesn't mean the characters can stay forever or they would be safe forever.
+	- 
 
 ---
 
