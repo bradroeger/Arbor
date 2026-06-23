@@ -86,39 +86,53 @@ tags:
 
 ## 📓 GM Notes
 
-- The Witch of the Deep and her lair are a place of respite for the players though a slightly dangerous one.
-- She is planning to leave Arbor through the portal created by the fool (her words) who designed this place. 
-- She has a child with her one she may or may not have sired herself but one that she is fond enough of to try and spare her the horrors of this world.
-- She is not evil, she is not good, she is selfish and looks out for herself but is still bound by the code of the whispered ones.
-- She can offer the PCs a few different things if the players wish to partake in them each thing comes with a cost beyond the 3 points restored. The cost for each item is usually not money but things she needs or wants. She is an ancient witch things like their voice, their first born, their love or others can be what she asks for:
-	- up to 3 points restored from as if by a long rest (see long rest mechanic for details).
-	- A glimpse into what awaits them on the floor below.
-	- Passage with her if they believe that they would simply like to leave.
-	- A few healing potions (charged at full price)
-	- One of three magical items but not all three only 1, and the price is a characters voice, who she will give to Pennie who was born as a mute.
-	- 5 Magical scrolls that the players can barter for with other magical items or 2x their cost in leaves.
-- Along with all of the above the characters may ask her questions about the Duchess, the Aquarium itself or the Door to descend, she knows will volunteer the following:
-	- The most important thing she wants the players to know is that she intends to leave 
-	- in order to facilitate that she needs to use the players as a distraction
-	- She will offer one of the items from above in order to make this happen, along with the information about the temperature problems the Duchess has
-	- Weather they kill her or not is up to them but they probably need the key in it's belly.
-	- They are safe here for now
-	- Would they like some tea?
-- Other things she knows but will not volunteer unless asked:
-	- The threat of it's true name will protect her there are other creatures the Duchess commands that may pose a danger to her and Pennie.
-	- The Duchess is old maybe as old as Baba Yaga and at least as dangerous though not as dangerous as what's coming up the tower.
-	- The Duchess can't get them here... for now. The whispered one knows the Duchess true name and has threatened it before with forcing it back through the portal with that knowledge. The Duchess hates this it knows it's more powerful but with a single word the whispered one could bind her and throw her back into the deep where the things she really fears would hunt her for sport, which the witch knows. but that doesn't mean the characters can stay forever or they would be safe forever.
-	- The Duchess doesn't do well with temperature extremes it's why she avoids the centre area and the Artic area, but just because she doesn't like it doesn't mean your safe the creature is old and dangerous, if you make it angry it will come in after you and a little heat isn't going to stop or even slow it down once that happens.
-	- The way down is blocked by a magical gate that has a key, the key is in Duchess belly, however it should be possibly to simply dispel the gate though you would end up flooding the downstairs area in the process so maybe figure out a way to turn off the water first.
-	- Short range teleportation magics should function normally here just don't try going through the floor and bypassing the aquarium the floor below has a powerful spell cast on it that blocks all teleportation magics.
-	- The Aquarium was a love letter to marine life by the builder, and while she died in poverty she does appreciate the gift she gave her...
-- The looking glass (soul artifact)
-	- Use this to show the players scenes of what is happening in Arbor below, depending on their actions they might seen things like Doctors ushering people away from blighted areas, NPCs they saved fighting off Miyo's hordes or the City below in abject terror as it becomes consumed and joined with Miyo.
-	- The Souls of those who crossed the witch are embedded inside the construction of this artifact. It acts as a Mirror of Life Trapping with one crucial difference, it has no limit on how many people can be enslaved inside it. 
-	- The Witch uses the souls as a means to extend her life, every soul inside failed to honour a deal in one way or another and she will make a point to say as such. None are innocent and they all knew what they were getting into, she is no devil there is no fine print her deals are fair these souls just tried to cheat her and she will not abide that.
-- Pennie
-	- She will prefer to hide behind her "mother" but if the party decide to sit and have tea with the witch she will go off to fetch sugars and things. 
-	- If she gets bored she'll ask to read a book and one of them will float off the shelf as if moving along a wave and she will go sit on one of the chairs.
+### Witch Description
+
+- She has a child with her. Whether Pennie is truly her daughter or not is unclear, but the Witch cares enough for her to try to spare her from the horrors of this world.- She is neither good nor evil. She is selfish and primarily concerned with her own interests, though she remains bound by the ancient codes of the Whispered Ones.
+
+### Services
+
+- She can offer the PCs several services. Each comes with a cost beyond the 3 points of Restoration she is willing to provide.
+- Payment is rarely monetary. Ancient witches have little use for material wealth. Instead, she may ask for a voice, a firstborn child, a cherished memory, a lost love, or something equally personal.
+
+### Magic Item Trade
+
+- One of three magical items (the players may choose only one). The price is a character's voice, which she intends to give to Pennie, who was born mute.
+
+### What She Volunteers
+
+- The most important thing she wishes the players to know is that she intends to leave.- To accomplish this, she needs the players to serve as a distraction.
+- In exchange, she is willing to offer one of the services listed above and explain the Duchess's aversion to extreme temperatures.
+- Whether the players kill the Duchess or not is of little concern to her, though she suspects they will need the key within its belly.
+- They are safe here, for now.
+- Would they like some tea?
+
+---
+
+## Other Things She Knows
+
+### True Name
+- The Duchess cannot enter this place... for now.
+- The Whispered One knows the Duchess's true name and has threatened before to use that knowledge to cast her back through the portal.
+- The Duchess hates this. She knows she is more powerful than the Witch, yet a true name carries power of its own. With a single word, the Witch could bind her and cast her back into the deep.
+- Worse still, the Duchess knows what waits there.- There are things in the depths that would hunt her for sport.
+- The Witch knows this, and the Duchess knows that she knows.
+- Even so, the players cannot remain here forever eventually Miyo will rise from below and consume this place Duchess and all.
+
+---
+
+### Temperature 
+- The Duchess dislikes extreme temperatures, which is why she generally avoids both the central tropical systems and the Arctic exhibit.
+- However, dislike should not be mistaken for weakness. The creature is ancient, intelligent, and dangerous. If sufficiently enraged, she will pursue her prey regardless of discomfort. A little heat or cold will not stop her once she has committed to the hunt.
+
+
+### Aquarium Builder
+
+- The aquarium was a love letter to marine life created by a woman who died in poverty.- Despite that, the Witch genuinely appreciates the gift she left behind.- "Foolish woman," she'll say with a smile. "Broke, stubborn, impossible... but she loved the sea enough to build it a home."
+
+## Looking Glass
+
+- Use this to show the players what is happening throughout Arbor.- Depending on their actions, they might see doctors evacuating civilians from blighted districts, allies they have saved fighting against Miyo's hordes, or entire districts consumed as the city is slowly joined to Miyo's domain.
 
 ---
 
@@ -138,7 +152,7 @@ tags:
 
 ## 🎭 Characters Present
 
-- [[Whispered one of the Deep]]
+- [[Whispered One of the Deep]]
 - [[Pennie]]
 
 ---
