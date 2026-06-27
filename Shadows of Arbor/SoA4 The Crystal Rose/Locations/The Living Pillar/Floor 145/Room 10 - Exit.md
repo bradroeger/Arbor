@@ -26,11 +26,17 @@ tags:
   - room
 ---
 
-# 🗺️ Untitled
+# 🗺️Room 10 - Exit
 
 ## 🧭 Summary
 
--
+- The final room in the level holds the exit
+- The way down is blocked by a magical barrier that is preventing both the water and people from traveling through
+- There are three main ways to get through:
+	- Have the key which allows you to walk through the gate normally
+	- Disable the gate allowing the water through.
+	- Spoof or fake the key somehow.
+- Once the players are through they move on to Floor 144 - The 
 
 ---
 
