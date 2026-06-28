@@ -64,6 +64,8 @@ tags:
 - The barrier can also be temporarily disabled which will only cause a modicum of flooding.
 - In addition it's possible to simply overwhelm the barrier forcing their way through but this will cause considerable damage to the players and require a **DC 25 Strength Check** causing **4d10+40 damage**.
 - In a similar way to the above it's possible to make a short teleport through by forcing yourself through one of the strain points this require both an arcana check and results in half the damage from above.
+- Remember spending time examining the barrier here takes time and the Duchess is still watching especially here, Increase all clocks by 2 for every action taken here.
+- On the other side of the barrier hidden 
 
 ---
 
@@ -84,43 +86,13 @@ tags:
 - **Arcana Check DC 25**:
 	- The barrier is composed of several interwoven magics that allow it to function along with the obvious wall of force components it's also had disintegrate spells woven into it to eliminate any living or non living matter that manages to bypass the effect making forcing your way through or teleporting very dangerous.
 - **Arcana Check DC 30**:
-	- 
-- **Arcana Check DC 30:**
+	- You think that the barrier is under considerable strain to the point that it would be possible to teleport through it though it will be risky and you'll likely still take damage from the disintegrate spell.
 - **Nature Check DC 20**:
 	- You realise that the barrier must be under considerable strain (hence the flickering) from the immense pressure of the water being placed on it. It might be possible to simply overwhelm the barrier and force your way through but it would be considerably dangerous
 - **Dispel Magic DC 18:
 	- Check required to permanently disable the barrier
-	- Additional a player may attempt to increase this DC by 10 to temporarily disable the barrier.
+	- Additional a player may attempt to increase this **DC by 5** to temporarily disable the barrier.
 
----
-
-## 🧩 Puzzle / Challenge
-
--
-
----
-
-## ⚔️ Encounter Setup
-
--
-
----
-
-## 🎭 Characters Present
-
--
-
----
-
-## 💎 Treasure
-
--
-
-## 🎁 Hidden Loot
-
--
-
----
 
 ## 🕵️ Secrets
 
