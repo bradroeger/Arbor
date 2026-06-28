@@ -42,8 +42,8 @@ tags:
 
 ## 📖 Read-Aloud Text
 
-- *The doors to this room slide out of the way slowly as if shaking off decades of neglect and age like an old man rising from his chair at the end of the day. As they open light floods from the room and you see a hexagonal inner chamber before you. The light you see is coming from around the corner.*
-- *As you move around the corner you see the source of the light, a shimmering glowing slightly translucent barrier. Beyond the barrier you can see two statues flanking a set of stairs leading down.* 
+- *The doors to this room slide out of the way slowly as if shaking off decades of neglect and age like an old man rising from his chair at the end of the day. As they open light floods from the room and you see a pentagonal inner chamber. The light you see is coming from around the corner pulsing at sporadic intervals.*
+- *As you move around the corner you see the source of the light, a shimmering glowing slightly translucent barrier. Beyond the barrier you can see two statues of lions flanking a set of stairs leading down.* 
 
 ---
 
@@ -57,7 +57,11 @@ tags:
 
 ## 📓 GM Notes
 
-- 
+- This is the way out but the barrier prevents any and all organic matter from passing through.
+- The barrier is specifically looking for water in it's determination so if they can bypass that then they can move through (no idea if this is possible but who knows)
+- In addition the barrier can be moved through if one has the key which the current location of which is inside the Duchess.
+- The barrier can be disabled though this comes with risks as it will also allow the water to fill the layer below.
+- The barrier can also be temporarily
 
 ---
 
