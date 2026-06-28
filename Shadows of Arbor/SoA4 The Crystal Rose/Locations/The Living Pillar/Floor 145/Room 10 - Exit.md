@@ -25,86 +25,115 @@ treasure: false
 tags:
   - room
 ---
-
-# 🗺️Room 10 - Exit
+# 🗺️ Room 10 – Exit
 
 ## 🧭 Summary
 
-- The final room in the level holds the exit
-- The way down is blocked by a magical barrier that is preventing both the water and people from traveling through
-- There are three main ways to get through:
-	- Have the key which allows you to walk through the gate normally
-	- Disable the gate allowing the water through.
-	- Spoof or fake the key somehow.
-- Once the players are through they move on to Floor 144 - The Tomb
-
+- The final chamber of the aquarium and the only route to the next floor.
+- A powerful magical barrier prevents both living creatures and the water above from passing through.
+- There are several ways to overcome it:
+    - Use the Duchess's key to pass through safely
+    - Disable the barrier entirely, flooding the floor below.
+    - Temporarily suppress the barrier.
+    - Fool or bypass the barrier through clever magic or engineering.
+- Beyond lies **Floor 144 – The Tomb.**
 ---
 
 ## 📖 Read-Aloud Text
 
-- *The doors to this room slide out of the way slowly as if shaking off decades of neglect and age like an old man rising from his chair at the end of the day. As they open light floods from the room and you see a pentagonal inner chamber. The light you see is coming from around the corner pulsing at sporadic intervals.*
-- *As you move around the corner you see the source of the light, a shimmering glowing slightly translucent barrier. Beyond the barrier you can see two statues of lions flanking a set of stairs leading down.* 
+### Entering
 
----
+_The great doors groan open with painful slowness, as though shaking off decades of neglect like an old man rising from his chair._
 
-## 🌫️ Atmosphere
+_Beyond lies a pentagonal chamber, strangely pristine compared to the ruin behind you._
 
-- Sounds: Humm from the power of the barrier
-- Smells: Acrid almost light ozone burning
-- Lighting: Strange pulsing of the barrier
+_A pale light pulses rhythmically somewhere beyond the nearest corner, bathing the stone walls in shifting blue and white._
+
+### The Barrier
+
+_As you round the corner, the source of the light comes into view._
+
+_A shimmering wall of translucent force stretches from floor to ceiling, its surface rippling like disturbed water. Every few moments it flickers violently before stabilising once more._
+
+_Beyond the barrier stand two immense stone lions flanking a broad staircase that descends into darkness._
+
+_For the first time since entering the aquarium, you notice something else._
+
+_The water ends here._
+
+_Beyond the barrier the air is perfectly still, the stone completely dry._
 
 ---
 
 ## 📓 GM Notes
 
-- This is the way out but the barrier prevents any and all organic matter from passing through.
-- The barrier is specifically looking for living creatures and water in it's determination so if they can bypass that then they can move through (no idea if this is possible but who knows)
-- In addition the barrier can be moved through if one has the key which the current location of which is inside the Duchess.
-- The barrier can be disabled though this comes with risks as it will also allow the water to fill the layer below.
-- The barrier can also be temporarily disabled which will only cause a modicum of flooding.
-- In addition it's possible to simply overwhelm the barrier forcing their way through but this will cause considerable damage to the players and require a **DC 25 Strength Check** causing **4d10+40 damage**.
-- In a similar way to the above it's possible to make a short teleport through by forcing yourself through one of the strain points this require both an arcana check and results in half the damage from above.
-- Remember spending time examining the barrier here takes time and the Duchess is still watching especially here, Increase all clocks by 2 for every action taken here.
-
-
----
-
-## 🔄 What Changes Here
-
-- If players do X, then Y changes  
-- If time passes, something escalates  
-- If combat starts, environmental effects trigger
+- The magical barrier prevents all living creatures from passing through while simultaneously holding back the immense weight of the aquarium above.
+- It continuously scans anything attempting to cross, specifically identifying living creatures and water.
+- Possessing the Duchess's key allows a creature to pass safely.
+- The barrier may be permanently disabled, though doing so floods the floor below.
+- It may also be temporarily suppressed, allowing only limited flooding.
+- Particularly determined creatures may simply force their way through, though doing so exposes them to the barrier's defensive enchantments.
+- Short-range teleportation is also possible by exploiting weak points in the lattice, though doing so still risks triggering the destructive spells woven into the barrier.
+- Every significant action taken here advances the Duchess Clock by **2**. This room should feel increasingly desperate as time runs out.
 
 ---
 
 ## 🎲 Checks
 
-- **Perception Check DC 15** : 
-	- *In addition while you didn't notice it at first the odd waving undulation of water you have grown accustomed to while being on this floor stops on the other side and it appears to be completely dry on the other side.*
-- **Perception Check DC 20**:
-	- Secret message on the underside of the statues plinth
-- **Arcana Check DC 20**:
-	- You understand the barrier and it's workings, it is preventing all living creatures from passing through in addition to blocking the monumental amount of water.
-- **Arcana Check DC 25**:
-	- The barrier is composed of several interwoven magics that allow it to function along with the obvious wall of force components it's also had disintegrate spells woven into it to eliminate any living or non living matter that manages to bypass the effect making forcing your way through or teleporting very dangerous.
-- **Arcana Check DC 30**:
-	- You think that the barrier is under considerable strain to the point that it would be possible to teleport through it though it will be risky and you'll likely still take damage from the disintegrate spell.
-- **Nature Check DC 20**:
-	- You realise that the barrier must be under considerable strain (hence the flickering) from the immense pressure of the water being placed on it. It might be possible to simply overwhelm the barrier and force your way through but it would be considerably dangerous
-- **Dispel Magic DC 18:
-	- Check required to permanently disable the barrier
-	- Additional a player may attempt to increase this **DC by 5** to temporarily disable the barrier.
+**Perception DC 15**
 
+- The water stops entirely at the barrier. Beyond it the chamber is completely dry.
 
-## 🕵️ Secrets
+**Perception DC 20**
 
-- On the other side of the barrier carved into the underside of plinth of the statue are the words: "It feels sacrilegious to build on top of that... I hope the Great Tree doesn't curse us."
+- There appears to be writing carved beneath one of the lion statues.
+
+**Arcana DC 20**
+
+- The barrier is designed to prevent living creatures from passing through while simultaneously containing the enormous pressure of the aquarium.
+
+**Arcana DC 25**
+
+- Multiple enchantments have been woven together. Beneath the obvious force barrier lies a lattice of Disintegrate magic designed to destroy anything attempting to bypass it illegally.
+
+**Arcana DC 30**
+
+- The enchantments are under considerable strain. With precise timing, teleportation magic could slip through gaps in the lattice, though doing so would still expose the traveller to the disintegration field.
+
+**Nature DC 20**
+
+- The barrier is flickering because of the immense pressure pushing against it. It may be possible to overwhelm it through brute force, though doing so would be extremely dangerous.
+
+**Dispel Magic DC 18**
+
+- Permanently disable the barrier.
+
+**Dispel Magic DC 23**
+
+- Temporarily suppress the barrier without causing catastrophic flooding.
+
+---
+
+## 🕵️ Secret
+
+Hidden beneath one of the lion statues is a weathered inscription.
+
+> _"It feels sacrilegious to build on top of that... I only hope the Great Tree forgives us."_
 
 ---
 
 ## 🧠 GM Running Tips
 
-- Remember the Duchess she doesn't want the players to leave she delights in torturing them.
-- She doesn't deal though but she can trick and there is a window out to the deep to the north.
-- She may become more desperate to keep them here so if you have been holding back on particular devious ideas bring them out now.
-- Anything and everything is on the table, former lovers, people they failed to save throw the emotional kitchen sink at them, because the duchess is cruel.
+- This should feel like the climax of the Duchess's hunt.
+- She knows that once the party passes through the barrier she loses them forever.
+- If she has been patient until now, abandon that restraint. She should become manipulative, cruel and desperate.
+- Use every trick she possesses:
+    - illusions,
+    - false voices,
+    - loved ones,
+    - bargains,
+    - lies,
+    - guilt,
+    - fear.
+- She is not trying to win a fight anymore.
+- She is trying to make the players hesitate.
