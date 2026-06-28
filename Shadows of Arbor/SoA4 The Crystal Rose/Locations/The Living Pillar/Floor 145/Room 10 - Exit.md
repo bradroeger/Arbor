@@ -58,10 +58,11 @@ tags:
 ## 📓 GM Notes
 
 - This is the way out but the barrier prevents any and all organic matter from passing through.
-- The barrier is specifically looking for water in it's determination so if they can bypass that then they can move through (no idea if this is possible but who knows)
+- The barrier is specifically looking for living creatures and water in it's determination so if they can bypass that then they can move through (no idea if this is possible but who knows)
 - In addition the barrier can be moved through if one has the key which the current location of which is inside the Duchess.
 - The barrier can be disabled though this comes with risks as it will also allow the water to fill the layer below.
-- The barrier can also be temporarily
+- The barrier can also be temporarily disabled which will only cause a modicum of flooding.
+- In addition it's possible to simply overwhelm the barrier forcing their way through but this will cause considerable damage to the players and require a **DC 25 Strength Check** causing **4d10+40 damage** 
 
 ---
 
@@ -78,7 +79,10 @@ tags:
 - **Perception Check DC 15** : 
 	- *In addition while you didn't notice it at first the odd waving undulation of water you have grown accustomed to while being on this floor stops on the other side and it appears to be completely dry on the other side.*
 - **Arcana Check DC 20**:
-	- 
+	- You understand the barrier and it's workings, it is preventing all living creatures from passing through in addition to blocking the monumental amount of water.
+- **Nature Check DC 20**:
+	- You realise that the barrier must be under considerable strain (hence the flickering) from the immense pressure of the water being placed on it. It might be possible to simply overwhelm the barrier and force your way through but it would be considderably dangerous
+- **Dispel Magic**
 
 ---
 
