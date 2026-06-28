@@ -72,8 +72,8 @@ _Beyond the barrier the air is perfectly still, the stone completely dry._
 - Possessing the Duchess's key allows a creature to pass safely.
 - The barrier may be permanently disabled, though doing so floods the floor below.
 - It may also be temporarily suppressed, allowing only limited flooding.
-- Particularly determined creatures may simply force their way through, though doing so exposes them to the barrier's defensive enchantments.
-- Short-range teleportation is also possible by exploiting weak points in the lattice, though doing so still risks triggering the destructive spells woven into the barrier.
+- Particularly determined creatures may simply force their way through, though doing so exposes them to the barrier's defensive enchantments. **DC 25 Strength Check** causing **4d10+40 damage**
+- Short-range teleportation is also possible by exploiting weak points in the lattice, though doing so still risks triggering the destructive spells woven into the barrier. **2d10+40 damage**
 - Every significant action taken here advances the Duchess Clock by **2**. This room should feel increasingly desperate as time runs out.
 
 ---
@@ -81,35 +81,27 @@ _Beyond the barrier the air is perfectly still, the stone completely dry._
 ## 🎲 Checks
 
 **Perception DC 15**
-
 - The water stops entirely at the barrier. Beyond it the chamber is completely dry.
 
 **Perception DC 20**
-
 - There appears to be writing carved beneath one of the lion statues.
 
 **Arcana DC 20**
-
 - The barrier is designed to prevent living creatures from passing through while simultaneously containing the enormous pressure of the aquarium.
 
 **Arcana DC 25**
-
 - Multiple enchantments have been woven together. Beneath the obvious force barrier lies a lattice of Disintegrate magic designed to destroy anything attempting to bypass it illegally.
 
 **Arcana DC 30**
-
 - The enchantments are under considerable strain. With precise timing, teleportation magic could slip through gaps in the lattice, though doing so would still expose the traveller to the disintegration field.
 
 **Nature DC 20**
-
 - The barrier is flickering because of the immense pressure pushing against it. It may be possible to overwhelm it through brute force, though doing so would be extremely dangerous.
 
 **Dispel Magic DC 18**
-
 - Permanently disable the barrier.
 
 **Dispel Magic DC 23**
-
 - Temporarily suppress the barrier without causing catastrophic flooding.
 
 ---
@@ -118,7 +110,7 @@ _Beyond the barrier the air is perfectly still, the stone completely dry._
 
 Hidden beneath one of the lion statues is a weathered inscription.
 
-> _"It feels sacrilegious to build on top of that... I only hope the Great Tree forgives us."_
+> _"It feels sacrilegious to build on top of that... She insisted she had permission, I only hope the Great Tree forgives us."_
 
 ---
 
@@ -137,3 +129,8 @@ Hidden beneath one of the lion statues is a weathered inscription.
     - fear.
 - She is not trying to win a fight anymore.
 - She is trying to make the players hesitate.
+
+When the party attempts to leave you can have her say:
+"You're really leaving?"
+"But we had so much fun..."
+"You'll die down there, they are coming I can feel them."
