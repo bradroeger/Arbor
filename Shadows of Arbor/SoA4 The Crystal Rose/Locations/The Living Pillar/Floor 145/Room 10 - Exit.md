@@ -65,7 +65,7 @@ tags:
 - In addition it's possible to simply overwhelm the barrier forcing their way through but this will cause considerable damage to the players and require a **DC 25 Strength Check** causing **4d10+40 damage**.
 - In a similar way to the above it's possible to make a short teleport through by forcing yourself through one of the strain points this require both an arcana check and results in half the damage from above.
 - Remember spending time examining the barrier here takes time and the Duchess is still watching especially here, Increase all clocks by 2 for every action taken here.
-- On the other side of the barrier hidden 
+
 
 ---
 
@@ -81,6 +81,8 @@ tags:
 
 - **Perception Check DC 15** : 
 	- *In addition while you didn't notice it at first the odd waving undulation of water you have grown accustomed to while being on this floor stops on the other side and it appears to be completely dry on the other side.*
+- **Perception Check DC 20**:
+	- Secret message on the underside of the statues plinth
 - **Arcana Check DC 20**:
 	- You understand the barrier and it's workings, it is preventing all living creatures from passing through in addition to blocking the monumental amount of water.
 - **Arcana Check DC 25**:
@@ -96,10 +98,13 @@ tags:
 
 ## 🕵️ Secrets
 
--
+- On the other side of the barrier carved into the underside of plinth of the statue are the words: "It feels sacrilegious to build on top of that... I hope the Great Tree doesn't curse us."
 
 ---
 
 ## 🧠 GM Running Tips
 
--
+- Remember the Duchess she doesn't want the players to leave she delights in torturing them.
+- She doesn't deal though but she can trick and there is a window out to the deep to the north.
+- She may become more desperate to keep them here so if you have been holding back on particular devious ideas bring them out now.
+- Anything and everything is on the table, former lovers, people they failed to save throw the emotional kitchen sink at them, because the duchess is cruel.
