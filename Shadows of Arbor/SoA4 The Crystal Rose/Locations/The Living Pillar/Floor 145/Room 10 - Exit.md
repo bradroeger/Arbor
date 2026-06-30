@@ -104,7 +104,7 @@ _Beyond the barrier the air is perfectly still, the stone completely dry._
 **Dispel Magic DC 23**
 - Temporarily suppress the barrier without causing catastrophic flooding.
 
----
+--- 
 
 ## 🕵️ Secret
 
