@@ -40,21 +40,23 @@ tags:
 
 ## 📖 Read-Aloud Text
 
-- *An exapansive sea scape spreads out before you filled with a miriad of tiny colourful fish that swim and twirl in schools. Among them you see small volcanoes spewing a *
+- *An expansive sea scape spreads out before you filled with a myriad of tiny colourful fish that swim and twirl in schools. Among them you see small volcanoes glowing red along the floor of this sandy beach like environment.*
+- *In the middle of the area is a large construction of a sea serpent and at one time may have been realistic enough to fool and frighten young visitors but these days the wear and tear of time have exposed it's constructed nature as large gashes cuts and tears pepper it's once pristine blue grey serpentine body.*
+- *Intermixed with the smaller fish are a number of other species including a large stripped fish covered in barbs and a number of long canid like eels that seem to give off small electrical sparks on occasion when they manage to get close to a fish or two.*
 
 ---
 
 ## 🌫️ Atmosphere
 
-- Sounds:
-- Smells:
-- Lighting:
+- Sounds: low thrumming from the volcanoes and the sound of electrical sparks
+- Smells: fishy with a bit of brimstone.
+- Lighting: soft glow of volcanos and the occasional spark from the eel hounds
 
 ---
 
 ## 📓 GM Notes
 
--
+- This is an area the duchess has actively avoided she hates the heat and h
 
 ---
 
