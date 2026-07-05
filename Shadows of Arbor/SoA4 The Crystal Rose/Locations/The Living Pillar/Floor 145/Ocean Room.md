@@ -26,7 +26,7 @@ tags:
   - room
 ---
 
-# 🗺️ Untitled
+# 🗺️ The Tropical Exhibit
 
 ## 🧭 Summary
 
@@ -50,28 +50,34 @@ tags:
 
 ## 🌫️ Atmosphere
 
-- Sounds: low thrumming from the volcanoes and the sound of electrical sparks
-- Smells: fishy with a bit of brimstone.
-- Lighting: soft glow of volcanos and the occasional spark from the eel hounds
+- **Sounds:** A constant volcanic rumble beneath the water, punctuated by the sharp crack of electrical discharges.
+- **Smells:** Brine mixed with faint sulphur.
+- **Lighting:** Warm crimson light from the volcanic vents, broken by flashes of blue-white lightning.
 
 ---
 
 ## 📓 GM Notes
 
-- This is an area the duchess has actively avoided she hates the heat and has seen no reason to hunt in this area.
-- The players could break in here but it more serves as an idea of how to handle the duchess.
-- As one of the few undisturbed regions of the area it has little influence from the Duchess.
-- The Serpentine construction is partially made of great tree wood and is a Memoria Ordo 3, meaning it is alive at least partially.
-- The Serpentine manifestation is a particularly complex one and simply watches the area, it is broken mostly but hates the duchess as it used to delight in scaring partioners who made their way here.
-- In particular it delighted in scaring parents as they tried to reprimand their children and then winking at children, it has a soft heart for such a great and terrible creature but cannot move very much lest it break itself.
-- It could be convinced to help the players in the form of attacking the duchess if they can lure her in here.
-- The Duchess is aware of the serpent but assumes it is some creature hiding in the mouth of the construction.
+- This is one of the few areas the Duchess actively avoids. She despises the constant heat and has never had reason to hunt here.
+- The enclosure serves primarily as environmental storytelling, showing the players one of the few places where the Duchess refuses to venture.
+- Because it has remained largely undisturbed, this ecosystem is remarkably healthy.
+- The sea serpent is partially constructed from Great Tree wood and has become a **Memoria Ordo III**, granting it limited sentience.
+- It is badly damaged and incapable of leaving its position, but it still watches over the enclosure.
+- Before the aquarium was abandoned, it delighted in frightening visitors—especially parents attempting to reassure their children—before secretly winking at those same children moments later.
+- Despite its fearsome appearance, it has a surprisingly gentle personality and harbours a deep hatred for the Duchess.
+- If convinced, it may aid the players by attacking the Duchess should they lure her into the enclosure.
+- The Duchess believes something dangerous lives inside the serpent's mouth and has never investigated further.
 
 ---
 
 ## 🎲 Checks
 
-- **Nature Check DC 20**
-	- The area and creatures inside are all from regions of tropical to sub tropical waters, meaning the temperature inside must be quite pleasant and you can feel as much if you bring your hands to the glass that separates you.
-- **Perception Check DC 25**
-	- The Serpentine creature in the middle is manifesting some odd behaviour in fact you come to realise that while the lower body is simply constructed of wood fabric and stuffing the head is something more entirely which is when you see it move.
+- **Nature DC 20**
+
+> _The species within this enclosure all originate from tropical or subtropical waters. Even through the thick glass, you can feel pleasant warmth radiating from within._
+
+---
+
+**Perception DC 25**
+
+> _Something about the great sea serpent feels... wrong. The body is clearly artificial, stitched together from timber, cloth and metal, but the head moves ever so slightly. You watch one great eye slowly blink before turning to look directly back at you._
