@@ -56,58 +56,17 @@ tags:
 
 ## 📓 GM Notes
 
-- This is an area the duchess has actively avoided she hates the heat and h
-
----
-
-## 🔄 What Changes Here
-
-- If players do X, then Y changes  
-- If time passes, something escalates  
-- If combat starts, environmental effects trigger
+- This is an area the duchess has actively avoided she hates the heat and has seen no reason to hunt in this area.
+- The players could break in here but it more serves as an idea of how to handle the duchess.
+- As one of the few undisturbed regions of the area it has little influence from the Duchess.
+- The Serpentine construction is partially made of great tree wood and is a memoria Ordo 3, meaning it is alive at least partially.
+- The Serpentine manifestation is a particularly complex one and simply watches the area, it is broken mostly but hates the duchess as it used to delight in scaring partioners who made their way here.
+- In particular it delighted in scaring parents and then winking at children, it has a soft heart for such a great and terrible creature but cannot move very much lest it break itself.
+- It could be convinced to help the players in the form of attacking the duchess if they can lure her in he
 
 ---
 
 ## 🎲 Checks
 
-- **Check Name DC**
-
----
-
-## 🧩 Puzzle / Challenge
-
--
-
----
-
-## ⚔️ Encounter Setup
-
--
-
----
-
-## 🎭 Characters Present
-
--
-
----
-
-## 💎 Treasure
-
--
-
-## 🎁 Hidden Loot
-
--
-
----
-
-## 🕵️ Secrets
-
--
-
----
-
-## 🧠 GM Running Tips
-
--
+- **Nature Check DC 20**
+	- The area and creatures inside are all from regions of tropical to sub tropical waters, meaning the temperature inside must be quite pleasant and you can feel as much if you bring your hands to the glass that separates you.
