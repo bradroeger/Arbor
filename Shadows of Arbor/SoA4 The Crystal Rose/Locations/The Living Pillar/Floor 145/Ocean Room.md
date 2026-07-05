@@ -30,13 +30,17 @@ tags:
 
 ## 🧭 Summary
 
--
+- A large oceanic enclosure.
+- Isolated from the other areas completely
+- In order to gain access players would need to break in.
+- There are several creatures of note but The Duchess does not and has not had a reason to invade this area more to the point the high heat keeps her away.
+- The most dangerous thing in this tank is the Dire lionfish which is mostly passive.
 
 ---
 
 ## 📖 Read-Aloud Text
 
--
+- *An exapansive sea scape spreads out before you filled with a miriad of tiny colourful fish that swim and twirl in schools. Among them you see small volcanoes spewing a *
 
 ---
 
