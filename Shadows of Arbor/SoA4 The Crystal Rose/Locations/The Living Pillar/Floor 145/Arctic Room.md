@@ -58,8 +58,10 @@ tags:
 ## 📓 GM Notes
 
 - Helping Nyxie is not needed at all but she does have the ability to give a small amount of healing.
-- In addition helping her helps Finn in the other room who will be grateful enough that he will show the players where the treasure in his room is hidden if they haven't found it themseleves.
-- The Igloo 
+- In addition helping her helps Finn in the other room who will be grateful enough that he will show the players where the treasure in his room is hidden if they haven't found it themselves.
+- The Igloo shields the players from the thoughts of the Duchess so they should feel it when they enter like a weight being lifted off their shoulders.
+- If they reunite the pair would like it if you took them with them. They cannot fight but don't know any other way down. They are hoping to find the sea together.
+- the body in the room is a technic
 
 ---
 
