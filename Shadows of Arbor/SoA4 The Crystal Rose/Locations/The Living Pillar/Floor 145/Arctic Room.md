@@ -26,7 +26,9 @@ tags:
   - room
 ---
 
-# 🗺️ # 📖 Read-Aloud Text
+# 🗺️ The Arctic Room
+
+# 📖 Read-Aloud Text
 
 ### Entering
 
@@ -48,7 +50,7 @@ tags:
 > 
 > _For what feels like the first time since entering the aquarium, your own mind is truly your own. The oppressive feeling of being watched, judged and hunted disappears as though someone has lifted a tremendous weight from your shoulders._
 > 
-> _The silence is almost unsettling._
+> _The silence is almost unsettling. Which is thankfully broken when at the back of the igloo an icy sculpture of a woman moves and regards you with eyes made of pure white crystal._
 
 ---
 
