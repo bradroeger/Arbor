@@ -40,9 +40,10 @@ tags:
 
 ## 📖 Read-Aloud Text
 
-- *You gaze out upon a icy blasted landscape, packed snow and ice cover this area and the water seems to have a sluggish almost thicker quality to it than the others and occassionaly you see small sections of it near the bottom crack and break as it forms into ice.*
-- *Near one corner of the enclosure is a large metal pipe with vents all around it and where it touches the sea floor a small twirling blue magical circle spins slowly around it all the while frost accumulating around it's base.*
-- *In other parts of the room you can seem large blue slug like creatures *
+- *You gaze out upon a icy blasted landscape, packed snow and ice cover this area and the water seems to have a sluggish almost thicker quality to it than the others and occasionally you see small sections of it near the bottom crack and break as it forms into ice.*
+- *Near one corner of the enclosure is a large metal pipe with vents all around it and where it touches the sea floor a small twirling blue magical circle spins slowly around it all the while frost accumulating around it's base. In a nearby corner as if to emphasise the cold nature of this place is a small igloo.*
+- *In other parts of the room you can see a large collection of beautiful clear ice crystals that slowly begin to move as small blue antenna sprout from one end and you behold a gigantic slug like creature.*
+- *One side of this enclosure has been exposed to the larger area outside the cold waters mixing with what lies beyond and the ruins of the walkway partially spilling into the icy environment. The wood *
 
 ---
 
