@@ -32,13 +32,15 @@ tags:
 
 - A peaceful room
 - There are a few minor breaks but not the huge destruction you see in the Arctic room.
-- There is a Kappa hiding in the underwater cave
+- There is a Kappa hiding in the underwater cave in an area that has not been flooded.
+- In addition there are several mostly benign creatures hiding among the reeds and such including sea bees and other things.
 
 ---
 
 ## 📖 Read-Aloud Text
 
--
+- *The waters of thsi small enclosure appear to be rather still, a soft rock and sand floor is broken up by several species of lake grass and several pipes seem to be fervently pumping additional water into the space.*
+- A large stone riser cuts the area in half snaking it's way through and you can see along the wall a small cave. next to the cave is a fallen 
 
 ---
 
