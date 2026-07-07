@@ -26,93 +26,87 @@ tags:
   - room
 ---
 
-# 🗺️ Untitled
+# 🗺️ # 📖 Read-Aloud Text
 
-## 🧭 Summary
+### Entering
 
-- An icy cold area filled with dangers and hazards 
-- Several hardy creatures live in this area including 2 Rime worms, 4 ice worms, 2 Cash Crabs, a Mortifera and [[Nyxie]].
-- Nyxie is hiding inside the igloo which through sheer luck is composed partially at least of lead sheets which is shielding her from [[The Duchess]].
-- The Dead body in the room is a trap lying in wait.
-- The body does have some treasure on it
+> _You gaze out across an icy, windswept landscape preserved beneath the sea. Packed snow and thick sheets of ice blanket the enclosure. The water itself seems sluggish, almost syrupy, and every so often you hear the sharp crack of new ice forming along the seabed._
+> 
+> _Near one wall stands a massive metal pipe surrounded by rings of venting machinery. Around its base, a slowly rotating circle of blue arcane sigils glows beneath the water while frost steadily creeps outward across the surrounding ice._
+> 
+> _Nearby sits a lonely igloo, its snow-dusted entrance turned away from the rest of the enclosure._
 
----
+### Looking Around
 
-## 📖 Read-Aloud Text
+>_Elsewhere, clusters of beautiful crystal formations rise from the frozen ground. As you watch, several of them begin to move. Delicate blue antennae unfold from one end, revealing that what you first mistook for ice formations are in fact enormous slug-like creatures slowly gliding across the frozen landscape._
+>
+>_One side of the enclosure has collapsed completely. The glass, walkway and supporting stonework have fallen inward, allowing the frozen exhibit to spill into the surrounding ocean. Every shattered beam and broken stone has become entombed beneath layers of frost._
 
-- *You gaze out upon a icy blasted landscape, packed snow and ice cover this area and the water seems to have a sluggish almost thicker quality to it than the others and occasionally you see small sections of it near the bottom crack and break as it forms into ice.*
-- *Near one corner of the enclosure is a large metal pipe with vents all around it and where it touches the sea floor a small twirling blue magical circle spins slowly around it all the while frost accumulating around it's base. In a nearby corner as if to emphasise the cold nature of this place is a small igloo.*
-- *In other parts of the room you can see a large collection of beautiful clear ice crystals that slowly begin to move as small blue antenna sprout from one end and you behold a gigantic slug like creature.*
-- *One side of this enclosure has been exposed to the larger area outside the cold waters mixing with what lies beyond and the ruins of the walkway partially spilling into the icy environment. The wood, stone and glass becoming covered in ice and frost.*
+### Entering the Igloo
 
----
-
-## 🌫️ Atmosphere
-
-- Sounds: The cracking of ice and shifting of slow water and worms.
-- Smells: slight smell of burning from the transfer of heat and cold along with an odd decay smell
-- Lighting: odd blue lighting seemingly coming from nowhere.
+> _The instant you step through the entrance, the constant pressure at the edge of your thoughts simply... vanishes._
+> 
+> _For what feels like the first time since entering the aquarium, your own mind is truly your own. The oppressive feeling of being watched, judged and hunted disappears as though someone has lifted a tremendous weight from your shoulders._
+> 
+> _The silence is almost unsettling._
 
 ---
 
-## 📓 GM Notes
+# 🌫️ Atmosphere
 
-- Helping Nyxie is not needed at all but she does have the ability to give a small amount of healing.
-- In addition helping her helps Finn in the other room who will be grateful enough that he will show the players where the treasure in his room is hidden if they haven't found it themselves.
-- The Igloo shields the players from the thoughts of the Duchess so they should feel it when they enter like a weight being lifted off their shoulders.
-- If they reunite the pair would like it if you took them with them. They cannot fight but don't know any other way down. They are hoping to find the sea together.
-- the body in the room is a technician one of the last who died while attempting to repair part of the heating system, he was left inside because it was too dangerous with the Rime worms in their breeding phase to do anything about at the time and then shortly thereafter the whole place was abandoned.
-- The Rime worms are aggressive but only if you approach their eggs which are marked on the map.
-- The body also contains a Mortifera a horrible thing that is an ambush predator occosianly something from the deep zone wanders in and it feasts. It leaves the Rime worms alone due to their cold nature.
-- The body has on it a maintenance key that will let the players out, a secondary way for the players to make their way free.
-- If the duchess attacks she will also attempt to eat the Mortifera knowing it has the key on it.
-- Every round spent in the cold after the first 5 minutes results in a **DC 15 Con saving throw** on a failure a creature takes 1d6 damage and 1 level of exhaustion. Every 5 minutes repeat the saving throw adding **1 to the DC**
+- **Sounds:** Ice cracking, the groan of shifting glaciers, and the slow scraping movement of enormous worms.
+- **Smells:** Bitter cold carries a faint scent of scorched metal from the heat exchange machinery, mingled with an unpleasant odour of decay.
+- **Lighting:** Pale blue light reflected through the ice, with a faint magical glow surrounding the cooling machinery.
 
 ---
 
+# 📓 GM Notes
 
-## 🎲 Checks
-
-- **Perception DC 15**
-	- *There appears to be a body in the room as well hidden under several layers of frost and ice*
-- **Perception DC 25**
-	- *You swear you can see the body twitch on occasion as if something is moving it...*
-- **Perception DC 30**
-	- 
-
----
-
-## 🧩 Puzzle / Challenge
-
--
+- Helping Nyxie is entirely optional, but she can provide a small amount of healing.
+- If the players reunite Nyxie with Finn, he gratefully reveals the hidden treasure in his room if they have not already discovered it.
+- The igloo is partially lined with lead sheets. This shields anyone inside from the Duchess's thoughts. Players should immediately notice the sensation of an immense mental weight lifting as they enter.
+- If reunited, Nyxie and Finn ask to accompany the party. They are incapable of fighting but desperately wish to reach the sea together.
+- The frozen body belongs to one of the aquarium's maintenance engineers. He died attempting to repair the heating system while the Rime Worms were in their breeding season. The area was considered too dangerous for recovery, and shortly afterwards the aquarium itself was abandoned.
+- The Rime Worms become aggressive only if the players approach their eggs (marked on the map).
+- Hidden within the corpse is a Mortifera, an ambush predator that has made the frozen technician its nest. Occasionally creatures wander in from the Deep Zone, providing it with food. It ignores the Rime Worms because they are too cold to interest it.
+- The corpse carries a maintenance key, providing the players with an alternative method of progressing through the aquarium.
+- If the Duchess attacks here, she immediately attempts to consume the Mortifera, knowing the maintenance key lies inside it.
+- After the first **5 minutes** spent in this enclosure, every creature must attempt a **DC 15 Constitution saving throw**. On a failure, they take **1d6 cold damage** and gain **1 level of Exhaustion**. Repeat the save every additional 5 minutes, increasing the DC by **1** each time.
 
 ---
 
-## ⚔️ Encounter Setup
+# 🎲 Checks
 
--
+**Perception DC 15**
 
----
-
-## 🎭 Characters Present
-
-- [[Nyxie]]
+> _Half-buried beneath layers of frost lies what appears to be a humanoid body, frozen where it fell._
 
 ---
 
-## 💎 Treasure
+**Perception DC 25**
 
-- 3 potions of cold resistance
-- 3 potions of water breathing
-- 3 potions of greater healing
-- a detailed schematic of the workings of the heating system.
-
-## 🎁 Hidden Loot
-
-- Hidden Maintenance Key
+> _For just a moment... you swear one of its arms twitched beneath the ice._
 
 ---
 
-## 🧠 GM Running Tips
+**Perception DC 30**
 
--
+> _Hanging from the body's belt is a strange brass cylinder engraved with maintenance markings. It resembles some sort of specialised key._
+
+---
+
+# 💎 Treasure
+
+
+- 3 Potions of Cold Resistance
+- 3 Potions of Water Breathing
+- 3 Potions of Greater Healing
+- Detailed schematics of the aquarium's heating system
+
+---
+
+# 🧠 GM Running Tips
+
+- Combat here should feel slow, exhausting and oppressive. The cold itself is as much an enemy as the creatures.
+- Emphasise the alien beauty of the enclosure. Everything here is quiet, graceful and deadly.
+- Resist the temptation to reveal the Mortifera too early. Let the players believe the frozen corpse is simply a tragic piece of scenery until it suddenly moves.
