@@ -40,7 +40,7 @@ tags:
 ## 📖 Read-Aloud Text
 
 - *The waters of thsi small enclosure appear to be rather still, a soft rock and sand floor is broken up by several species of lake grass and several pipes seem to be fervently pumping additional water into the space.*
-- A large stone riser cuts the area in half snaking it's way through and you can see along the wall a small cave. next to the cave is a fallen 
+- A large stone riser cuts the area in half snaking it's way through and you can see along the wall a small cave. next to the cave is a fallen and broken green marble pillar surrounded by softly moving grass
 
 ---
 
