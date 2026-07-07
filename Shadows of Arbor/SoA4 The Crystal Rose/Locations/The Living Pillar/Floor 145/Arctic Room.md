@@ -31,7 +31,9 @@ tags:
 ## 🧭 Summary
 
 - An icy cold area filled with dangers and hazards 
-- Several hardy creatures live in this area including 2 Rime worms, 4 ice worms, 2 Cash Crabs, a Mortifera and 
+- Several hardy creatures live in this area including 2 Rime worms, 4 ice worms, 2 Cash Crabs, a Mortifera and [[Nyxie]].
+- Nyxie is hiding inside the igloo which through sheer luck is composed partially at least of lead sheets which is shielding her from [[The Duchess]].
+- The Dead body in the room 
 
 ---
 
