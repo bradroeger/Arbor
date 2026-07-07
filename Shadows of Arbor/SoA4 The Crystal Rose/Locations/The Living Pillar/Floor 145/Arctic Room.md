@@ -66,20 +66,19 @@ tags:
 - The body also contains a Mortifera a horrible thing that is an ambush predator occosianly something from the deep zone wanders in and it feasts. It leaves the Rime worms alone due to their cold nature.
 - The body has on it a maintenance key that will let the players out, a secondary way for the players to make their way free.
 - If the duchess attacks she will also attempt to eat the Mortifera knowing it has the key on it.
+- Every round spent in the cold after the first 5 minutes results in a **DC 15 Con saving throw** on a failure a creature takes 1d6 damage and 1 level of exhaustion. Every 5 minutes repeat the saving throw adding **1 to the DC**
 
 ---
 
-## 🔄 What Changes Here
-
-- If players do X, then Y changes  
-- If time passes, something escalates  
-- If combat starts, environmental effects trigger
-
----
 
 ## 🎲 Checks
 
-- **Check Name DC**
+- **Perception DC 15**
+	- *There appears to be a body in the room as well hidden under several layers of frost and ice*
+- **Perception DC 25**
+	- *You swear you can see the body twitch on occasion as if something is moving it...*
+- **Perception DC 30**
+	- 
 
 ---
 
@@ -97,23 +96,20 @@ tags:
 
 ## 🎭 Characters Present
 
--
+- [[Nyxie]]
 
 ---
 
 ## 💎 Treasure
 
--
+- 3 potions of cold resistance
+- 3 potions of water breathing
+- 3 potions of greater healing
+- a detailed schematic of the workings of the heating system.
 
 ## 🎁 Hidden Loot
 
 - Hidden Maintenance Key
-
----
-
-## 🕵️ Secrets
-
--
 
 ---
 
