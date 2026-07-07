@@ -61,7 +61,11 @@ tags:
 - In addition helping her helps Finn in the other room who will be grateful enough that he will show the players where the treasure in his room is hidden if they haven't found it themselves.
 - The Igloo shields the players from the thoughts of the Duchess so they should feel it when they enter like a weight being lifted off their shoulders.
 - If they reunite the pair would like it if you took them with them. They cannot fight but don't know any other way down. They are hoping to find the sea together.
-- the body in the room is a technic
+- the body in the room is a technician one of the last who died while attempting to repair part of the heating system, he was left inside because it was too dangerous with the Rime worms in their breeding phase to do anything about at the time and then shortly thereafter the whole place was abandoned.
+- The Rime worms are aggressive but only if you approach their eggs which are marked on the map.
+- The body also contains a Mortifera a horrible thing that is an ambush predator occosianly something from the deep zone wanders in and it feasts. It leaves the Rime worms alone due to their cold nature.
+- The body has on it a maintenance key that will let the players out, a secondary way for the players to make their way free.
+- If the duchess attacks she will also attempt to eat the Mortifera knowing it has the key on it.
 
 ---
 
@@ -103,7 +107,7 @@ tags:
 
 ## 🎁 Hidden Loot
 
--
+- Hidden Maintenance Key
 
 ---
 
