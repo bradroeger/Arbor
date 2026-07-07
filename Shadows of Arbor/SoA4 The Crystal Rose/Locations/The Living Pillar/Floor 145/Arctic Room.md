@@ -1,8 +1,8 @@
 ---
 type: room
-adventure:
-area:
-region:
+adventure: "[[The Crystal Rose]]"
+area: "[[Floor 145]]"
+region: "[[The Living Pillar]]"
 id:
 connections: []
 encounter_type: exploration
@@ -30,7 +30,8 @@ tags:
 
 ## 🧭 Summary
 
--
+- An icy cold area filled with dangers and hazards 
+- Several hardy creatures live in this area including 2 Rime worms, 4 ice worms, 2 Cash Crabs, a Mortifera and 
 
 ---
 
