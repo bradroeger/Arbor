@@ -33,13 +33,16 @@ tags:
 - An icy cold area filled with dangers and hazards 
 - Several hardy creatures live in this area including 2 Rime worms, 4 ice worms, 2 Cash Crabs, a Mortifera and [[Nyxie]].
 - Nyxie is hiding inside the igloo which through sheer luck is composed partially at least of lead sheets which is shielding her from [[The Duchess]].
-- The Dead body in the room 
+- The Dead body in the room is a trap lying in wait.
+- The body does have some treasure on it
 
 ---
 
 ## 📖 Read-Aloud Text
 
--
+- *You gaze out upon a icy blasted landscape, packed snow and ice cover this area and the water seems to have a sluggish almost thicker quality to it than the others and occassionaly you see small sections of it near the bottom crack and break as it forms into ice.*
+- *Near one corner of the enclosure is a large metal pipe with vents all around it and where it touches the sea floor a small twirling blue magical circle spins slowly around it all the while frost accumulating around it's base.*
+- *In other parts of the room you can seem large blue slug like creatures *
 
 ---
 
