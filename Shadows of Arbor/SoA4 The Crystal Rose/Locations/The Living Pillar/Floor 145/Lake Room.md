@@ -31,8 +31,8 @@ tags:
 ## 🧭 Summary
 
 - A peaceful room
-- [[The Duchess]] has not entered as this is the only freshwater area.
-- the walls are still in place and thus breaking in would be problematic.
+- There are a few minor breaks but not the huge destruction you see in the Arctic room.
+- There is a Kappa hiding in the underwater cave
 
 ---
 
