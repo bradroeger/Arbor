@@ -56,7 +56,8 @@ tags:
 ## 📓 GM Notes
 
 - There is almost no danger in this room and even the Kappa doesn't present much of a threat.
-- The only thing of note is the 
+- The only thing of note is the Bliss Fish which if they can befriend will provide a small amount of buffs to one player.
+- Doing so is relatively easy and just requires any player to feed the creature
 
 ---
 
@@ -70,7 +71,12 @@ tags:
 
 ## 🎲 Checks
 
-- **Check Name DC**
+- **Nature DC 15**
+> 	_The fish inside this tank require fresh water to live. In addition the sea bees are quite territorial and will swarm if provoked._
+- **Perception DC 15**
+> 	- *Hiding amongst the reeds in the back corner is a bright golden fish the only one in the entire enclosure and it seems a little strange to you.*
+- **Perception DC 25**
+> 	- *Just for a moment you spot something dark green hiding inside the cave it has webbed hands and an odd bowl shaped head *
 
 ---
 
