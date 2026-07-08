@@ -37,67 +37,88 @@ tags:
 
 ---
 
-## 📖 Read-Aloud Text
+## 📖 # Read-Aloud Text
 
-- *The waters of this small enclosure appear to be rather still, a soft rock and sand floor is broken up by several species of lake grass and several pipes seem to be fervently pumping additional water into the space.*
-- *A large stone riser cuts the area in half snaking it's way through and you can see along the wall a small cave. next to the cave is a fallen and broken green marble pillar surrounded by softly moving grass.*
-- *As you continue to observe you spy several small glowing creatures moving through the grass and you swear you can hear the buzzing of a bee.*
+### Entering
 
----
+> _The waters of this enclosure are remarkably calm. A soft bed of sand and rounded stones stretches across the floor, broken only by patches of long lake grasses that sway gently in the slow-moving current. Several brass pipes continue to pump fresh water into the exhibit, filling it with a quiet, rhythmic murmur._
+> 
+> _Running through the centre of the enclosure is a broad stone ridge that winds its way from one end to the other. Nestled into one side of the ridge is a small cave, while nearby a cracked pillar of green marble lies half-buried amongst waving reeds._
 
-## 🌫️ Atmosphere
+### Looking Around
 
-- Sounds: Bee buzzing
-- Smells: Froggy from the Kappa
-- Lighting: Odd little lights emitted by the sea bees and Gold-tipped Ostracod reflective nature.
+> _Tiny lights drift lazily through the grasses like stars beneath the water. As you watch, they dart between the reeds in sudden bursts before disappearing once more._
+> 
+> _For just a moment, you could swear you hear the faint buzz of a bee._
 
----
 
-## 📓 GM Notes
+# 🌫️ Atmosphere
 
-- There is almost no danger in this room and even the Kappa doesn't present much of a threat.
-- The only thing of note is the Bliss Fish which if they can befriend will provide a small amount of buffs to one player.
-- Doing so is relatively easy and just requires any player to feed the creature
-- The Kappa is holding on to a Gem in his cave (really it's a Kappa Egg but that's what it's called.)
+- **Sounds:** Soft bubbling water, the gentle rustle of reeds, and the distant buzzing of tiny wings.
+- **Smells:** Fresh water, damp vegetation, and a faint earthy scent.
+- **Lighting:** Gentle green light filtered through aquatic plants, punctuated by the glow of Sea Bees and the shimmering reflections of Gold-tipped Ostracods.
 
 ---
 
-## 🔄 What Changes Here
+# 📓 GM Notes
 
-- If players do X, then Y changes  
-- If time passes, something escalates  
-- If combat starts, environmental effects trigger
+- This is one of the safest exhibits in the aquarium. Even the Kappa is reluctant to fight.
+- The primary attraction here is the Bliss Fish. If befriended, it grants one character a temporary blessing of extraordinary good fortune.
+- Befriending the Bliss Fish is simple: offer it food and treat it gently.
+- The Kappa has taken up residence in the dry cave above the waterline.
+- The "Kappa Gem" is actually a Kappa egg, though the creature has no intention of explaining this to strangers.
+- The Kappa remains here because it is it's home and has known no other the original caretaker raised them from an egg not realising what it was.
+- Part of the reason the caretaker built this place was to provide a home for the Kappa.
+- The Kappa is waiting for the caretaker to return but could be convinced 
 
----
 
-## 🎲 Checks
+# 🎲 Checks
 
-- **Nature DC 15**
-> 	_The fish inside this tank require fresh water to live. In addition the sea bees are quite territorial and will swarm if provoked._
--  **Nature DC 25**
-> 	- If the players spot the Kappa - 
-> 	  *This is a Kappa a creature of legends and myth if the stories are to be believed it is possible this creature has the strength of a 100 men and that it's power comes from the water in it's head bowl, and it's said that those that drink from it may gain a portion of it's power.*
--  **Nature DC 30**
-> 	- If the players spot the Bliss Fish -
-> 	- *This is a Bliss fish a sign of good luck and should you befriend one it will bestow great luck upon you for a time.*
-- **Perception DC 15**
-> 	- *Hiding amongst the reeds in the back corner is a bright golden fish the only one in the entire enclosure and it seems a little strange to you.*
-- **Perception DC 25**
-> 	- *Just for a moment you spot something dark green hiding inside the cave it has webbed hands and an odd bowl shaped head with a protruding duck bill, as it sees you it darts away*
+### Nature DC 15
+
+> _The creatures inhabiting this enclosure all require fresh water. The tiny glowing insects are Sea Bees, and despite their size they are fiercely territorial if disturbed._
 
 ---
 
-## 💎 Treasure
+### Nature DC 25 _(after spotting the Kappa)_
 
-- Kappa Gem - reduces fatigue and exhaustion levels by 1 and maximizes hp gain from short rest hit dice spend.
+> _A Kappa. If the old stories are true, these creatures possess incredible strength, and much of that power is tied to the water held within the bowl atop their heads. Legends claim that drinking from that water grants a measure of the Kappa's strength, while paralyzing the Kappa in return._
 
-## 🎁 Hidden Loot
+---
 
-- Kappa Waters - Restores all HP and acts as a potion of giant strength (Storm)
+### Nature DC 30 _(after spotting the Bliss Fish)_
 
-## 🧠 GM Running Tips
+> _A Bliss Fish. Sailors and riverfolk alike consider seeing one a sign of extraordinary good fortune. Those fortunate enough to earn its trust are said to carry its blessing for many days._
 
-- Remember the Duchess is watching here
-- The Kappa is not threatening but it does have the power to call the other aquatic creatures in the tank to aid it should the players turn violent against it.
-- The Kappa should behave like a coward unless threatened at which point it will reveal it's true strength.
-- In combat the Kappa will throw the players into the Sea bees or out of the tank and into the deep if it can manage it.
+---
+
+### Perception DC 15
+
+> _Hidden amongst the reeds is a single brilliant golden fish. Unlike every other creature in the enclosure, it seems completely unconcerned with your presence._
+
+---
+
+### Perception DC 25
+
+> _Something moves inside the cave. You catch the glimpse of webbed green fingers clutching the stone before a squat figure with a duck-like beak hurriedly ducks back into the darkness._
+
+
+---
+
+# 💎 Treasure
+
+- **Kappa Gem** — Reduces Exhaustion by 1 level and maximises hit points regained when spending Hit Dice during a Short Rest.
+
+
+# 🎁 Hidden Loot
+
+- **Kappa's Waters** — Restores all hit points and functions as a Potion of Storm Giant Strength.
+
+
+# 🧠 GM Running Tips
+
+- The Duchess is still watching. Even in this peaceful place, the players should never feel entirely safe.
+- The Kappa is naturally timid and prefers negotiation or hiding over combat.
+- If threatened, however, it reveals the immense physical strength for which its kind is famous.
+- Rather than attempting to kill intruders, the Kappa fights to drive them away, throwing them into swarms of Sea Bees or out of the exhibit into the surrounding aquarium whenever possible.
+- If the players are respectful, curious, or offer gifts, the Kappa should slowly warm to them. It is much more interesting as an unusual ally than as another combat encounter.
