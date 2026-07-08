@@ -26,7 +26,7 @@ tags:
   - room
 ---
 
-# 🗺️ Untitled 1
+# 🗺️ Lake Exhibit
 
 ## 🧭 Summary
 
@@ -58,6 +58,7 @@ tags:
 - There is almost no danger in this room and even the Kappa doesn't present much of a threat.
 - The only thing of note is the Bliss Fish which if they can befriend will provide a small amount of buffs to one player.
 - Doing so is relatively easy and just requires any player to feed the creature
+- The Kappa is holding on to a Gem in his cave (really it's a Kappa Egg but that's what it's called.)
 
 ---
 
@@ -86,43 +87,17 @@ tags:
 
 ---
 
-## 🧩 Puzzle / Challenge
-
--
-
----
-
-## ⚔️ Encounter Setup
-
--
-
----
-
-## 🎭 Characters Present
-
--
-
----
-
 ## 💎 Treasure
 
--
+- Kappa Gem - reduces fatigue and exhaustion levels by 1 and maximizes hp gain from short rest hit dice spend.
 
 ## 🎁 Hidden Loot
 
--
-
----
-
-## 🕵️ Secrets
-
--
-
----
+- Kappa Waters - Restores all HP and acts as a potion of giant strength (Storm)
 
 ## 🧠 GM Running Tips
 
 - Remember the Duchess is watching here
-- The Kappa is not threatnening but it does have the power to call the other aquatic creatures in the tank to aid it should the players turn violent against it.
-- The Kappa should behave like a coward unless threatneded at which point it will reveal it's true strength.
-- In combat the Kappa will throw the players into the Sea bees or out of the 
+- The Kappa is not threatening but it does have the power to call the other aquatic creatures in the tank to aid it should the players turn violent against it.
+- The Kappa should behave like a coward unless threatened at which point it will reveal it's true strength.
+- In combat the Kappa will throw the players into the Sea bees or out of the tank and into the deep if it can manage it.
