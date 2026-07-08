@@ -73,10 +73,16 @@ tags:
 
 - **Nature DC 15**
 > 	_The fish inside this tank require fresh water to live. In addition the sea bees are quite territorial and will swarm if provoked._
+-  **Nature DC 25**
+> 	- If the players spot the Kappa - 
+> 	  *This is a Kappa a creature of legends and myth if the stories are to be believed it is possible this creature has the strength of a 100 men and that it's power comes from the water in it's head bowl, and it's said that those that drink from it may gain a portion of it's power.*
+-  **Nature DC 30**
+> 	- If the players spot the Bliss Fish -
+> 	- *This is a Bliss fish a sign of good luck and should you befriend one it will bestow great luck upon you for a time.*
 - **Perception DC 15**
 > 	- *Hiding amongst the reeds in the back corner is a bright golden fish the only one in the entire enclosure and it seems a little strange to you.*
 - **Perception DC 25**
-> 	- *Just for a moment you spot something dark green hiding inside the cave it has webbed hands and an odd bowl shaped head *
+> 	- *Just for a moment you spot something dark green hiding inside the cave it has webbed hands and an odd bowl shaped head with a protruding duck bill, as it sees you it darts away*
 
 ---
 
@@ -116,4 +122,7 @@ tags:
 
 ## 🧠 GM Running Tips
 
--
+- Remember the Duchess is watching here
+- The Kappa is not threatnening but it does have the power to call the other aquatic creatures in the tank to aid it should the players turn violent against it.
+- The Kappa should behave like a coward unless threatneded at which point it will reveal it's true strength.
+- In combat the Kappa will throw the players into the Sea bees or out of the 
