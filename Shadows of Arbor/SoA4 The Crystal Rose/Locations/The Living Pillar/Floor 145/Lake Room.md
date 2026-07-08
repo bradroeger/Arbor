@@ -49,6 +49,8 @@ tags:
 
 > _Tiny lights drift lazily through the grasses like stars beneath the water. As you watch, they dart between the reeds in sudden bursts before disappearing once more._
 > 
+> *The reeds appear to have been carefully trimmed. Fallen stones have been stacked into neat little piles, and several broken pipes have been patched with woven reeds and river clay. Someone—or something—is still taking care of this place.*
+> 
 > _For just a moment, you could swear you hear the faint buzz of a bee._
 
 
@@ -67,9 +69,11 @@ tags:
 - Befriending the Bliss Fish is simple: offer it food and treat it gently.
 - The Kappa has taken up residence in the dry cave above the waterline.
 - The "Kappa Gem" is actually a Kappa egg, though the creature has no intention of explaining this to strangers.
-- The Kappa remains here because it is it's home and has known no other the original caretaker raised them from an egg not realising what it was.
-- Part of the reason the caretaker built this place was to provide a home for the Kappa.
-- The Kappa is waiting for the caretaker to return but could be convinced 
+- The Kappa has never known another home. It was raised here after the aquarium's original caretaker unknowingly discovered a Kappa egg and mistook it for an unusual gemstone.
+- When she realised what she had found, she secretly designed the Lake Exhibit to give the young Kappa a safe place to live. Over time, it came to see her as its parent.
+- The Kappa still believes the caretaker will one day return. It faithfully tends the enclosure, keeping it clean and healthy exactly as it remembers she liked it.
+- Compassionate players may eventually convince the Kappa that she is never coming back. If they do, it may choose to leave the aquarium with them in search of the lakes and rivers beyond Arbor.
+- If the players simply lie to it, the Kappa is likely to realise the deception eventually. It is trusting, but not foolish.
 
 
 # 🎲 Checks
