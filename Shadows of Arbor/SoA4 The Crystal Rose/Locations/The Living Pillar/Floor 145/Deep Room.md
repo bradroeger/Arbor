@@ -45,7 +45,7 @@ _Beyond the shattered walls of the aquarium lies only darkness._
 
 _Not the darkness of night, nor that of an unlit room, but a depth so absolute that your mind instinctively begins inventing shapes within it. Every instinct tells you something enormous must be waiting just beyond the reach of your vision._
 
-_Scattered throughout that abyss are tiny points of light. Some drift lazily through the water while others remain perfectly still. For a fleeting moment they resemble distant stars... until one abruptly vanishes, snuffed out as though swallowed whole._
+_Scattered throughout the abyss are tiny points of light. Some drift lazily through the water while others remain perfectly still. For a fleeting moment they resemble distant stars... until one abruptly vanishes, snuffed out as though something unimaginably large swallowed it whole._
 
 ### Looking Out
 
@@ -61,7 +61,7 @@ _A forest of pale limbs._
 
 _Each glimpse lasts only a heartbeat before disappearing back into the blackness._
 
-_Whatever lives out there has already seen you and then you see something blink._
+_Whatever lives out there has already seen you. Then, somewhere in the darkness... something blinks.._
 
 ---
 
@@ -124,7 +124,7 @@ Once the charmed player has gotten within 5 feet of the eye stalk the
 
 ### Arcana DC 25
 
-> _The darkness is not empty. As your eyes slowly adjust, you begin to make out silhouettes circling beyond the light—vast fins, trailing tentacles and impossibly long bodies that never quite reveal themselves before slipping back into the black._
+> *As you gaze outwards you also see shapes "walking" through the darkness, a collection of dark scraps of cloth that move methodically and unnaturally. One of them turns to you and where there should be a face instead you behold a blank visage wiped clean of feature or form as smooth as polished marble. The moment passes too slowly and as it turns away again it simply moves back into the darkness.*
 ---
 
 # 🧠 GM Running Tips
