@@ -80,6 +80,8 @@ _Whatever lives out there has already seen you and then you see something blink.
 - Conversely, several creatures possess abilities that extinguish magical and mundane light or create areas of supernatural darkness.
 - Players should constantly feel observed. The Deep is never empty—only patient.
 - Encourage short journeys through this area. The longer the party remains, the more oppressive and dangerous it should become.
+- Wandering through the dark are several Faceless Wanderers, each one is what is left of the humanoids after the Duchess has finished with them. Included among them are several of the builders that were sent to shore up the place after the it was finished. 
+- Each of the eye stalks is linked to the Beholder of the Deep, however it is stuck underground because the duchess would eat it if it surfaced. So it's forced to use the eye stalks to lure in prey and have them dig to him. However the digging itself is likely to attract atention.
 
 #### Eye Stalk
 
@@ -120,6 +122,9 @@ Once the charmed player has gotten within 5 feet of the eye stalk the
 
 > _The darkness is not empty. As your eyes slowly adjust, you begin to make out silhouettes circling beyond the light—vast fins, trailing tentacles and impossibly long bodies that never quite reveal themselves before slipping back into the black._
 
+### Arcana DC 25
+
+> _The darkness is not empty. As your eyes slowly adjust, you begin to make out silhouettes circling beyond the light—vast fins, trailing tentacles and impossibly long bodies that never quite reveal themselves before slipping back into the black._
 ---
 
 # 🧠 GM Running Tips
