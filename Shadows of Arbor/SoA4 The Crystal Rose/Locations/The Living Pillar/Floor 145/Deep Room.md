@@ -56,21 +56,20 @@ tags:
 
 - This is where the Duchess is primarily as such any actions here cause her clock to advance twice as fast.
 - The other creatures here share a specific distaste for light they won't go near light sources if they can avoid it and have traits that disadvantage them when fighting in it.
-- Players should feel unwelcome here as 
-
----
-
-## 🔄 What Changes Here
-
-- If players do X, then Y changes  
-- If time passes, something escalates  
-- If combat starts, environmental effects trigger
+- Players should feel unwelcome here as if things are always watching and waiting for the moment the light goes out.
+- Several of the creatures have abilities that can snuff out light spells or create darkness so take the time to inflict some of these if the players spend too long out here.
+- Primarily they should only use this space as transit and likely not linger.
 
 ---
 
 ## 🎲 Checks
 
-- **Check Name DC**
+- **Nature DC 15**
+	- Looking at the plant life around here you surmise that some of these are likely to not be native to the environment they have been placed in as if they were planted and grown here to allow visitors to see out into the otherwise pitch black landscape
+- **Nature DC 20**
+	- Several of the plants in this area are known hallucinogens if ingested and you surmise that it may have some effect on you should you get too close. 
+- **Nature DC 25**
+	- You recognise some of the stranger plant life and realise that their lights can cause a hypnotic effect, it would be best to avoid them.
 
 ---
 
