@@ -32,7 +32,7 @@ tags:
 
 - A peaceful room
 - There are a few minor breaks but not the huge destruction you see in the Arctic room.
-- There is a Kappa hiding in the underwater cave in an area that has not been flooded.
+- There is a Kappa named [[Kairu]] hiding in the underwater cave in an area that has not been flooded.
 - In addition there are several mostly benign creatures hiding among the reeds and such including sea bees and other things.
 
 ---
