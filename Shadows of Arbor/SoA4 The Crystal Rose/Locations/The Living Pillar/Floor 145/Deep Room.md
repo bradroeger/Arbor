@@ -30,13 +30,16 @@ tags:
 
 ## 🧭 Summary
 
--
+- The area where the Duchess exists primarily.
+- There does remain some animal life out here which the duchess also feeds on and it is still a mostly functioning ecosystem,
+- Several of the plants emit strange lights that can cause effects for the players or the Duchess if she isn't careful.
+- The other creatures are terrible monsters in their own right but flee at the first sight of The Duchess or any light source.
 
 ---
 
 ## 📖 Read-Aloud Text
 
--
+- *Dark for soooo long *
 
 ---
 
