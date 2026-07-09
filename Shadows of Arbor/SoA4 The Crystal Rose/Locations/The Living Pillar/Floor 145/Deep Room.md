@@ -81,6 +81,14 @@ _Whatever lives out there has already seen you and then you see something blink.
 - Players should constantly feel observed. The Deep is never empty—only patient.
 - Encourage short journeys through this area. The longer the party remains, the more oppressive and dangerous it should become.
 
+#### Eye Stalk
+
+If players pass near any of the light sources from the eye stalk plants they must make a **DC 20 Wisdom Saving Throw** or become **Charmed** by the eye stalk, they can repeat this saving throw at the beginning of their turn.
+Once charmed the player approaches the eye stalk on their turn unable to do anything else even speak.
+Once the charmed player has gotten within 5 feet of the eye stalk the 
+
+
+
 ---
 
 ## 🎲 Checks
@@ -100,8 +108,6 @@ _Whatever lives out there has already seen you and then you see something blink.
 
 > _Some of these bioluminescent plants are known to mesmerise prey. Staring at them for too long may leave a creature hypnotised._
 
-I really like this because it gives you another environmental hazard beyond monsters.
-
 ---
 
 ### Perception DC 20
@@ -117,8 +123,6 @@ I really like this because it gives you another environmental hazard beyond mons
 ---
 
 # 🧠 GM Running Tips
-
-I'd add a few points.
 
 - Never describe the same thing twice. Every glimpse into the darkness should reveal a different impossible silhouette.
 - The Deep should exhaust the players psychologically before it ever harms them physically.
