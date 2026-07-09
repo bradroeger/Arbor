@@ -39,21 +39,24 @@ tags:
 
 ## 📖 Read-Aloud Text
 
-- *Dark for soooo long *
+- *Dark for stretches of distance that force your mind to make up shapes and images to avoid the realisation that what you see out into the abyss is just as it appears. Despite this oppressive darkness though you see small lights scattered out in the black, tiny pin pricks that give a false hope that not everything will be swallowed by this grasping maw of the oblivion, and then they wink out as if consumed by a great beast.*
+- *The waters in front of you are home to strange plant and fungal life that seem to glow and pulse. You occasionally see shadows of movement worming through the darkness but never long enough to get a good idea of what you are beholding... but there is something out there.*
 
 ---
 
 ## 🌫️ Atmosphere
 
-- Sounds:
-- Smells:
-- Lighting:
+- Sounds: silence
+- Smells: none
+- Lighting: darkness
 
 ---
 
 ## 📓 GM Notes
 
--
+- This is where the Duchess is primarily as such any actions here cause her clock to advance twice as fast.
+- The other creatures here share a specific distaste for light they won't go near light sources if they can avoid it and have traits that disadvantage them when fighting in it.
+- Players should feel unwelcome here as 
 
 ---
 
