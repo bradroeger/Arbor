@@ -85,9 +85,17 @@ _Whatever lives out there has already seen you. Then, somewhere in the darkness.
 
 #### Eye Stalk
 
-If players pass near any of the light sources from the eye stalk plants they must make a **DC 20 Wisdom Saving Throw** or become **Charmed** by the eye stalk, they can repeat this saving throw at the beginning of their turn.
-Once charmed the player approaches the eye stalk on their turn unable to do anything else even speak.
-Once the charmed player has gotten within 5 feet of the eye stalk the 
+If a player passes within **20 feet** of one of the glowing eye stalks, they must succeed on a **DC 20 Wisdom saving throw** or become **Charmed** by it. A charmed creature repeats this saving throw at the start of each of its turns.
+
+While charmed, the creature spends its movement approaching the eye stalk by the safest available route. It cannot willingly move away from the stalk, speak, cast spells with verbal components, or take any action other than Dash if doing so would move it closer.
+
+Once the creature comes within **5 feet** of the eye stalk, the plant slowly retracts into the seabed, revealing soft disturbed sediment beneath it.
+
+The charmed creature immediately begins digging with its hands, weapons or whatever tools it possesses.
+
+After **1 minute** of uninterrupted digging, or if enough creatures are compelled to assist, something enormous begins digging upwards in response...
+
+The resulting disturbance automatically advances the Duchess Clock twice.
 
 
 
@@ -124,12 +132,16 @@ Once the charmed player has gotten within 5 feet of the eye stalk the
 
 ### Arcana DC 25
 
-> *As you gaze outwards you also see shapes "walking" through the darkness, a collection of dark scraps of cloth that move methodically and unnaturally. One of them turns to you and where there should be a face instead you behold a blank visage wiped clean of feature or form as smooth as polished marble. The moment passes too slowly and as it turns away again it simply moves back into the darkness.*
+> As you gaze into the abyss, you notice shapes "walking" across the seabed—collections of tattered black cloth moving with slow, deliberate purpose. One turns towards you.
+> Where a face should be there is only smooth flesh, featureless and perfect like polished marble.
+> The thing lingers for a moment too long before silently turning away and disappearing back into the darkness.
 ---
 
 # 🧠 GM Running Tips
 
-- Never describe the same thing twice. Every glimpse into the darkness should reveal a different impossible silhouette.
-- The Deep should exhaust the players psychologically before it ever harms them physically.
-- If the players shine powerful light into the abyss, have creatures retreat rather than attack. That teaches them light is a form of protection.
-- Reserve the Duchess for moments when the players begin to feel safe. The Deep belongs to her.
+> - Never let the players see an entire creature. Terror comes from implication, not revelation.
+> - Never describe the same silhouette twice.
+> - Let silence do the work. The Deep should feel vast enough that even monsters seem insignificant within it.
+> - The Deep should exhaust the players psychologically before it harms them physically.
+> - Bright light is one of the few comforts available here. Let the players discover that most creatures instinctively retreat from it.
+> - Reserve the Duchess for the moments when the party finally begins to relax. She is not another monster in the Deep—the Deep is simply where she hunts.
