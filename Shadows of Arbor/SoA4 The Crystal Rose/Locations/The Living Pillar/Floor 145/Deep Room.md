@@ -39,74 +39,88 @@ tags:
 
 ## 📖 Read-Aloud Text
 
-- *Dark for stretches of distance that force your mind to make up shapes and images to avoid the realisation that what you see out into the abyss is just as it appears. Despite this oppressive darkness though you see small lights scattered out in the black, tiny pin pricks that give a false hope that not everything will be swallowed by this grasping maw of the oblivion, and then they wink out as if consumed by a great beast.*
-- *The waters in front of you are home to strange plant and fungal life that seem to glow and pulse. You occasionally see shadows of movement worming through the darkness but never long enough to get a good idea of what you are beholding... but there is something out there.*
+### Entering the Deep
+
+_Beyond the shattered walls of the aquarium lies only darkness._
+
+_Not the darkness of night, nor that of an unlit room, but a depth so absolute that your mind instinctively begins inventing shapes within it. Every instinct tells you something enormous must be waiting just beyond the reach of your vision._
+
+_Scattered throughout that abyss are tiny points of light. Some drift lazily through the water while others remain perfectly still. For a fleeting moment they resemble distant stars... until one abruptly vanishes, snuffed out as though swallowed whole._
+
+### Looking Out
+
+_Closer to the ruined walls, strange forests of fungi and aquatic plants sway in unseen currents. Their pale blues, sickly greens and ghostly violets pulse with an unnatural rhythm, casting shifting shadows across the seafloor._
+
+_Every now and then something moves._
+
+_A tail._
+
+_A fin._
+
+_A forest of pale limbs._
+
+_Each glimpse lasts only a heartbeat before disappearing back into the blackness._
+
+_Whatever lives out there has already seen you and then you see something blink._
 
 ---
 
 ## 🌫️ Atmosphere
 
-- Sounds: silence
-- Smells: none
-- Lighting: darkness
+- **Sounds:** Almost nothing. Only your own movements and the occasional distant click, groan or low, mournful call from somewhere impossibly far away.
+- **Smells:** None. The water feels strangely sterile this far from the exhibits.
+- **Lighting:** Almost complete darkness, broken only by patches of eerie bioluminescence.
 
 ---
 
 ## 📓 GM Notes
 
-- This is where the Duchess is primarily as such any actions here cause her clock to advance twice as fast.
-- The other creatures here share a specific distaste for light they won't go near light sources if they can avoid it and have traits that disadvantage them when fighting in it.
-- Players should feel unwelcome here as if things are always watching and waiting for the moment the light goes out.
-- Several of the creatures have abilities that can snuff out light spells or create darkness so take the time to inflict some of these if the players spend too long out here.
-- Primarily they should only use this space as transit and likely not linger.
+- This is the Duchess's hunting ground. Any significant action taken here advances the Duchess Clock twice instead of once.
+- Most native creatures instinctively avoid light. They refuse to approach bright light sources unless cornered, and many suffer penalties while fighting within illuminated areas.
+- Conversely, several creatures possess abilities that extinguish magical and mundane light or create areas of supernatural darkness.
+- Players should constantly feel observed. The Deep is never empty—only patient.
+- Encourage short journeys through this area. The longer the party remains, the more oppressive and dangerous it should become.
 
 ---
 
 ## 🎲 Checks
+### Nature DC 15
 
-- **Nature DC 15**
-	- Looking at the plant life around here you surmise that some of these are likely to not be native to the environment they have been placed in as if they were planted and grown here to allow visitors to see out into the otherwise pitch black landscape
-- **Nature DC 20**
-	- Several of the plants in this area are known hallucinogens if ingested and you surmise that it may have some effect on you should you get too close. 
-- **Nature DC 25**
-	- You recognise some of the stranger plant life and realise that their lights can cause a hypnotic effect, it would be best to avoid them.
+> _Much of the plant life growing here seems completely out of place. It appears to have been deliberately cultivated to illuminate the abyss for aquarium visitors._
 
 ---
 
-## 🧩 Puzzle / Challenge
+### Nature DC 20
 
--
-
----
-
-## ⚔️ Encounter Setup
-
--
+> _Several species here produce potent hallucinogenic spores or toxins. Even disturbing them could prove dangerous._
 
 ---
 
-## 🎭 Characters Present
+### Nature DC 25
 
--
+> _Some of these bioluminescent plants are known to mesmerise prey. Staring at them for too long may leave a creature hypnotised._
 
----
-
-## 💎 Treasure
-
--
-
-## 🎁 Hidden Loot
-
--
+I really like this because it gives you another environmental hazard beyond monsters.
 
 ---
 
-## 🕵️ Secrets
+### Perception DC 20
 
--
+> _Far out in the darkness a lone point of light bobs slowly up and down, drifting through the abyss before disappearing behind a ridge._
 
 ---
 
-## 🧠 GM Running Tips
+### Perception DC 25
 
--
+> _The darkness is not empty. As your eyes slowly adjust, you begin to make out silhouettes circling beyond the light—vast fins, trailing tentacles and impossibly long bodies that never quite reveal themselves before slipping back into the black._
+
+---
+
+# 🧠 GM Running Tips
+
+I'd add a few points.
+
+- Never describe the same thing twice. Every glimpse into the darkness should reveal a different impossible silhouette.
+- The Deep should exhaust the players psychologically before it ever harms them physically.
+- If the players shine powerful light into the abyss, have creatures retreat rather than attack. That teaches them light is a form of protection.
+- Reserve the Duchess for moments when the players begin to feel safe. The Deep belongs to her.
