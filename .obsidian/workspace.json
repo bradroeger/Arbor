@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Untitled.md",
+                "file": "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 1 - The Airlock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Room 1 - The Airlock"
             }
           }
         ],
@@ -201,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -224,14 +224,15 @@
       "cmdr:QuickAdd: New Location": false
     }
   },
-  "active": "9fbfd4fe742ef28c",
+  "active": "52015dab8a7ff1b4",
   "lastOpenFiles": [
-    "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Untitled 3.md",
     "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Untitled 2.md",
-    "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Untitled 1 1.md",
-    "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Untitled 1.md",
-    "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Untitled.md",
     "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 1 - The Airlock.md",
+    "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 2&3 - The Transition Room.md",
+    "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 4 - The Terrarium.md",
+    "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 5 - South Walkway.md",
+    "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 6 - The Engine Room.md",
+    "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Untitled 3.md",
     "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Contamination.md",
     "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Overview.md",
     "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Deep Room.md",
@@ -249,7 +250,6 @@
     "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 9 - The Witch's Lair.md",
     "Whispered One of the Deep.md",
     "Shadows of Arbor/SoA4 The Crystal Rose/Dramatis Persona/Ephemera.md",
-    "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 6 - The Engine Room.md",
     "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 8 - The Source.md",
     "Templates/NPC Template.md",
     "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145",
