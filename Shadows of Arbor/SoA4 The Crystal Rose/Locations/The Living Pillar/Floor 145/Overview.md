@@ -15,9 +15,9 @@ The remaining inhabitants consist of:
 - and a single reclusive witch who has survived here for years.
     
 
-But the true terror of this floor is **The Duchess** — an ancient abyssal predator from beyond the portal.
+But the true terror of this floor is **The [[Duchess]]** — an ancient abyssal predator from beyond the portal.
 
-Unable to escape the Living Pillar, she has spent decades adapting to the ruins and learning every inch of the facility. She now treats the floor as her personal hunting ground. Feasting on anyone or anything that comes into range.
+Unable to escape the [[Living Pillar]], she has spent decades adapting to the ruins and learning every inch of the facility. She now treats the floor as her personal hunting ground. Feasting on anyone or anything that comes into range.
 
 The moment the party enters, they become prey.
 
@@ -29,7 +29,7 @@ The players are trying to:
 
 1. Explore enough to survive and gather resources,
     
-2. Avoid or delay the Duchess,
+2. Avoid or delay The [[Duchess]],
     
 3. Navigate environmental hazards,
     
@@ -42,7 +42,7 @@ The dungeon should feel increasingly desperate over time.
 
 ## Concept
 
-The Duchess is not simply a monster encounter.
+[[The Duchess]] is not simply a monster encounter.
 
 She is:
 
@@ -61,7 +61,7 @@ The final goal is to get the Key from her belly, or disable the exit and leave t
 
 # The Hunt Clock
 
-When the players enter the floor, begin an **8-segment Hunt Clock**.
+When the players enter the floor, begin an **8-segment Hunt [[Clock]]**.
 
 Advance the clock whenever players:
 
@@ -222,7 +222,7 @@ Use:
 
 Water should alter combat constantly.
 
-# The Witch
+# The Witch of the Deep
 
 She provides:
 

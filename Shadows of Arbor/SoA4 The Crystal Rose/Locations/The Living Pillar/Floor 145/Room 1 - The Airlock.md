@@ -49,9 +49,9 @@ _Clearing it away reveals the inscription:_
 
 # 📓 GM Notes
 
-- This room marks the beginning of the Hunt Clock.
+- This room marks the beginning of the Hunt [[Clock]].
     
-- The fish function as Potions of Water Breathing (1 hour each).
+- The fish function as [[Potions of Water Breathing]] (1 hour each).
     
 - The fish are alive until consumed, though sluggish.
     
@@ -108,9 +108,3 @@ Failure by 5 or more:
 - 4 Fish Potions of Water Breathing
     
 - Hedderset Plaque
-    
-- Flickering Pressure Lamp
-    
-- Rusted bulkhead mechanisms
-    
-- Condensation-covered walls
