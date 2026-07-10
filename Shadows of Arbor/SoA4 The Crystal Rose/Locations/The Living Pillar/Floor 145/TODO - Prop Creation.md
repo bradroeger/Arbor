@@ -3,12 +3,12 @@
 ## Priority Props
 
 - [ ] **Airlock fish cloche** - Glass dome, silver plate, and four translucent fish tokens. Room 1.
-- [ ] **Hedderset plaque** - Aged brass or silver visitor plaque bearing the Aquarium of Wonders and Delight inscription. Room 1.
+- [x] **Hedderset plaque** - Aged brass or silver visitor plaque bearing the Aquarium of Wonders and Delight inscription. Room 1.
 - [ ] **Flood-warning sign** - Small framed sign behind cloudy glass for the transition room. Room 2/3.
 - [ ] **Terrarium control board** - Brass coin slots and hand cranks, with labelled controls for nutrients, rainfall, music, treats, and daylight. Room 4.
 - [ ] **Mycelial spores** - Small jar or packets of coloured spores. Room 4.
 - [ ] **Colony maps** - Weathered route sketches, safe locations, and Duchess sighting records. Room 4.
-- [ ] **Ephemera's sword** - Buried, weathered angelic blade. Room 6.
+- [x] **Ephemera's sword** - Buried, weathered angelic blade. Room 6.
 - [ ] **Abyssal lens** - Hand-sized lens for seeing through murky water. Room 7.
 - [ ] **Builder's logbook** - Waterproof construction log recovered from the rubble. Room 7.
 - [ ] **Maintenance key** - Engraved brass cylinder carried by the frozen technician. Arctic Room.
