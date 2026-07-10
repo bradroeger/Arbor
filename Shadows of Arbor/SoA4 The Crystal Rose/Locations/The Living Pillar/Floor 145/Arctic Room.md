@@ -73,9 +73,9 @@ tags:
 # 📓 GM Notes
 
 - Helping Nyxie is entirely optional, but she can provide a small amount of healing.
-- If the players reunite Nyxie with Finn, he gratefully reveals the hidden treasure in his room if they have not already discovered it.
+- If the players reunite Nyxie with [[Finn]], he gratefully reveals the hidden treasure in his room if they have not already discovered it.
 - The igloo is partially lined with lead sheets. This shields anyone inside from the Duchess's thoughts. Players should immediately notice the sensation of an immense mental weight lifting as they enter.
-- If reunited, Nyxie and Finn ask to accompany the party. They are incapable of fighting but desperately wish to reach the sea together.
+- If reunited, Nyxie and [[Finn]] ask to accompany the party. They are incapable of fighting but desperately wish to reach the sea together.
 - The frozen body belongs to one of the aquarium's maintenance engineers. He died attempting to repair the heating system while the Rime Worms were in their breeding season. The area was considered too dangerous for recovery, and shortly afterwards the aquarium itself was abandoned.
 - The Rime Worms become aggressive only if the players approach their eggs (marked on the map).
 - Hidden within the corpse is a Mortifera, an ambush predator that has made the frozen technician its nest. Occasionally creatures wander in from the Deep Zone, providing it with food. It ignores the Rime Worms because they are too cold to interest it.

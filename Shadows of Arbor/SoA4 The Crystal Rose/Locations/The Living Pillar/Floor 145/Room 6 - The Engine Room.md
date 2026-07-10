@@ -5,15 +5,15 @@ area: "[[Floor 145]]"
 region: "[[The Living Pillar]]"
 id:
 connections:
-  - "[[Room 5]]"
-  - "[[Room 8]]"
-  - "[[Room 9]]"
+  - "[[Room 5 - South Walkway|Room 5]]"
+  - "[[Room 8 - The Source|Room 8]]"
+  - "[[Room 9 - The Witch's Lair|Room 9]]"
 encounter_type: exploration
 combat_expected: false
-entry_from: "[[Room 5]]"
+entry_from: "[[Room 5 - South Walkway|Room 5]]"
 exit_to:
-  - "[[Room 8]]"
-  - "[[Room 9]]"
+  - "[[Room 8 - The Source|Room 8]]"
+  - "[[Room 9 - The Witch's Lair|Room 9]]"
 time_pressure: false
 skill_checks:
   - Perception
@@ -48,11 +48,11 @@ trello_board_card_id: 647efe2bcc7a9b54da905256;6a272daf69039a25a745ac75
 ## 🧭 Summary
 
 - This is the engine room it had many functions most of which are surprisingly still working.
-- There are no fish at all present in this place the [[Duchess]] makes sure of it to isolate the prisoner more.
+- There are no fish at all present in this place the [[The Duchess|Duchess]] makes sure of it to isolate the prisoner more.
 - The power source for all of this is a trapped angel, the creature has been imprisoned for a long time and it’s primary food source was the salt the machine made as a by product.
-- The angel is severely mentally damaged, [[Duchess]] has been feeding off of her misery and solitude for an age, torturing her to it's warped delight
+- The angel is severely mentally damaged, [[The Duchess|Duchess]] has been feeding off of her misery and solitude for an age, torturing her to it's warped delight
 - Freeing the angel may lead to help for the players or hinderance
-- Altering the boiler may keep them safe from [[Duchess]]
+- Altering the boiler may keep them safe from [[The Duchess|Duchess]]
 
 ## Timers
 - While in this room start an hourglass or timer with a 5 minute timer every 5 real life minute the characters take 1d6 fire damage as they are being cooked alive by the heat of the boiler.
@@ -119,8 +119,8 @@ _Looking into the depths leaves you with the uncomfortable certainty that the aq
     - Create a Heat source for both the tropical exhibit and to use in the thermal exhange to create cold.
     - Purify the water brought in and provide the necessary force to push it to the correct exhibit.
     - De-salinate the water from the plane and expel the salt feeding it to [[Ephemera]] the angel.
-- The [[Duchess]] does not kill [[Ephemera]] because it enjoys the torment the angel suffers in and it is slowly trying to break it's mind over the years it's been trapped.
-- The Angel hates the [[Duchess]] but is very broken from years of isolation and mental torture that Duchess inflicts on her.
+- The [[The Duchess|Duchess]] does not kill [[Ephemera]] because it enjoys the torment the angel suffers in and it is slowly trying to break it's mind over the years it's been trapped.
+- The Angel hates the [[The Duchess|Duchess]] but is very broken from years of isolation and mental torture that Duchess inflicts on her.
 - The [[Ephemera]]'s sword was placed nearby unfortunately it collapsed into the rubble and will need to be dug out to retrieve it. It is a 
 
 ---

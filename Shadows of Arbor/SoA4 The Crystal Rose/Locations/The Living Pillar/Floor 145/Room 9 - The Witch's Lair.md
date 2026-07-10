@@ -148,7 +148,7 @@ tags:
 - **Arcana DC 15**
 	- The Pool on the top step is a form of scrying lens allowing the user to see across great distances.
 - **History or Arcana 25**
-	- This is the Whispered One of the Deep an old one though not as old as Baba Yaga her domain is the oceans and seas and many thought her dead or lost given Arbor has neither of these things. Her alignment and mood were said to be as fickle as the waves so tread lightly and carefully.
+	- This is the [[Whispered One of the Deep]] an old one though not as old as Baba Yaga her domain is the oceans and seas and many thought her dead or lost given Arbor has neither of these things. Her alignment and mood were said to be as fickle as the waves so tread lightly and carefully.
 
 ## 🎭 Characters Present
 
