@@ -94,7 +94,7 @@ _Beyond lies a vast submerged complex — flickering lights beneath the waterlin
 - The sign if cleared says:
     
 
-_When the both doors are shut, the chamber will flood please ensure you have ingested your fish and pay careful attention to the time - Dr. Hedderset_
+_When the both doors are shut, the chamber will flood please ensure you have ingested your fish and pay careful attention to the time - [[Dr. Hedderset_]]
 
 ---
 
@@ -121,4 +121,4 @@ Investigation - DC 20
 
 ## Perception Check - DC 20
 
-- _As the water fills from vents and spigots along the floor and walls, for a moment you see a long thin ribbon of black and the spigot it comes from jutters for a moment and then resumes. When you look for the ribbon it's gone faded into the rest of the water._
+- _As the water fills from vents and spigots along the floor and walls, for a moment you see a long thin ribbon of black and the spigot it comes from jitters for a moment and then resumes. When you look for the ribbon it's gone faded into the rest of the water._

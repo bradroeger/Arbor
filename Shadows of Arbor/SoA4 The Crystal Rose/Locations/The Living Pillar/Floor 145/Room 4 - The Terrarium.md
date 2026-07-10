@@ -35,7 +35,7 @@ _As you watch, one of the mushrooms bends down and picks up a tiny shovel._
 
 _Then another hefts a pickaxe over its shoulder._
 
-_Within moments dozens of them emerge from beneath roots, behind stones, and from small burrows hidden throughout the enclosure. Some begin tending the gardens. Others carry baskets of leaves and soil. A small group disappears into a tunnel beneath the great tree. Silently seemingly in contant agreement about what must be done and when._
+_Within moments dozens of them emerge from beneath roots, behind stones, and from small burrows hidden throughout the enclosure. Some begin tending the gardens. Others carry baskets of leaves and soil. A small group disappears into a tunnel beneath the great tree. Silently seemingly in constant agreement about what must be done and when._
 
 _Around the base of the terrarium are a series of brass coin slots and hand-cranked mechanisms._
 
@@ -125,44 +125,24 @@ The colony doesn't know what she is only that they have felt her probing at thei
 
 ## 🎲 Checks
 
-### Nature DC 15
+* **Nature DC 15**
+>The enclosure is functioning as a complete miniature ecosystem. Everything inside appears healthy despite the state of the surrounding aquarium.
 
-The enclosure is functioning as a complete miniature ecosystem.
+* **Investigation DC 18**
+> The brass mechanisms appear to have once dispensed:
+> - nutrients,
+> - water,
+> - treats,
+> - and environmental enrichment for the inhabitants
+> Several could potentially be repaired.
 
-Everything inside appears healthy despite the state of the surrounding aquarium.
+* **Arcana DC 20**
+>The fungal network inside the terrarium functions similarly to a psychic hive mind. Thoughts appear to be transmitted through magical spores.
 
----
+* **Insight DC 18**
 
-### Investigation DC 18
-
-The brass mechanisms appear to have once dispensed:
-
-- nutrients,
-    
-- water,
-    
-- treats,
-    
-- and environmental enrichment for the inhabitants.
-    
-
-Several could potentially be repaired.
-
----
-
-### Arcana DC 20
-
-The fungal network inside the terrarium functions similarly to a psychic hive mind.
-
-Thoughts appear to be transmitted through magical spores.
-
----
-
-### Insight DC 18
-
-Although Na speaks calmly, the colony is frightened.
-
-They believe something has recently changed in the Duchess' behaviour.
+> Although Na speaks calmly, the colony is frightened.
+> They believe something has recently changed in the Duchess' behaviour.
 
 ---
 
@@ -175,19 +155,13 @@ The brass mechanisms can still be operated.
 Different slots trigger different effects within the terrarium:
 
 - nutrient dispensers,
-    
 - rainfall,
-    
 - music boxes,
-    
 - treat dispensers,
-    
 - artificial daylight.
-    
+
 
 The colony becomes significantly more cooperative if the party restores one or more of these functions.
-
-This provides a non-combat social puzzle and rewards curious players.
 
 ---
 
@@ -197,19 +171,15 @@ A player may voluntarily ingest specially prepared spores.
 
 This allows temporary connection to the hive mind.
 
-Benefits:
+**Benefits**:
 
 - communicate instantly with the colony,
-    
 - experience shared memories,
-    
 - learn information impossible to communicate normally.
-    
 
-Risk:
+**Risk**:
 
-- DC 25 Will Save.
-    
+- **DC 25 Will Save**.
 
 Failure results in the character struggling to distinguish their own thoughts from those of the collective for a period determined by the GM.
 
@@ -222,7 +192,6 @@ Success grants the connection without loss of identity.
 ### Mycelial Spores
 
 Consumable.
-
 Allows temporary connection to the collective consciousness.
 
 ---
