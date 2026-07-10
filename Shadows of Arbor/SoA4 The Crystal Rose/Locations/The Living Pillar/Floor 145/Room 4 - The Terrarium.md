@@ -191,8 +191,8 @@ Success grants the connection without loss of identity.
 
 ### Mycelial Spores
 
-Consumable.
-Allows temporary connection to the collective consciousness.
+- Consumable.
+- Allows temporary connection to the collective consciousness.
 
 ---
 
@@ -201,20 +201,7 @@ Allows temporary connection to the collective consciousness.
 If befriended, the colony can provide:
 
 - hunting route sketches,
-    
 - safe locations,
-    
 - Duchess sighting records.
-    
 
-These could grant advantages against future Hunt Clock events.
-
----
-
-### The Treat Dispenser
-
-If repaired, it produces small nutrient pellets that the colony considers priceless treasures.
-
-The value is entirely sentimental.
-
-Which, of course, makes them willing to trade surprisingly valuable information for them.
+If the players have these then any time [[The Duchess]] Clock would advance instead roll a d100 and on a 80 or more it doesn't.
