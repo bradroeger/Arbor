@@ -27,11 +27,15 @@ tags:
 ---
 # Room 1 - The Airlock
 
+---
+
 ## Summary
+
 - The entry airlock provides four living fish that function as potions of water breathing.
 - Its western door is jammed; the southern passage is flooded.
 
 ---
+
 ## Read-Aloud Text
 
 _As you descend into the chamber below, every sound stretches strangely through the confined metal halls._
@@ -49,24 +53,32 @@ _Near the southern door, a dim lamp crackles weakly beside a plaque almost entir
 _Clearing it away reveals the inscription:_
 
 > _Dr. Wintrop Hedderset, Ichthyologist and Master Tree-Wright, invites you to enjoy his Aquarium of Wonders and Delight._
-> 
+>
 > _For your safety, please consume your fish before leaving the chamber._
 
 ---
 
+## Atmosphere
+
+- Sounds: Slow dripping, distant metal creaks, and water pressure beyond the doors.
+- Smells: Damp metal, rust, and algae.
+- Lighting: A weak, flickering lamp by the plaque.
+
+---
+
 ## GM Notes
+
 - This room marks the beginning of the Hunt [[Clock]].
-    
+
 - The fish function as [[Potions of Water Breathing]] (1 hour each).
-    
+
 - The fish are alive until consumed, though sluggish.
-    
+
 - The western door is jammed shut.
-    
+
 - The southern passage is completely flooded beyond the door, if they open it @UUID[Playlist.lctwClwKv2AhTZhG]{playme}.
-    
+
 - The room was originally designed as a pressure transition chamber between dry and flooded sections of the aquarium.
-    
 
 ---
 
@@ -75,44 +87,35 @@ _Clearing it away reveals the inscription:_
 Advance the Hunt Clock when players:
 
 - consume the fish,
-    
+
 - spend time examining the doors,
-    
+
 - attempt to force the western door,
-    
+
 - or remain in the chamber too long debating.
-    
 
 ---
 
 ## Checks
 
-### Perception ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â DC 20
+### Perception ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â DC 20
 
 Listening carefully at the doors reveals:
 
 - East/West: distant dripping pipes and metallic creaking.
-    
-- South: a deep oceanic resonance, like hearing the sea through a shell.
-    
 
-### Strength ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â DC 25
+- South: a deep oceanic resonance, like hearing the sea through a shell.
+
+
+### Strength ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â DC 25
 
 Force open the jammed western door.
 
 Failure by 5 or more:
 
 - creates a loud metallic screech,
-    
+
 - immediately advances the Hunt Clock.
-    
-
----
-
-## Treasure
-- 4 Fish Potions of Water Breathing
-    
-- Hedderset Plaque
 
 ---
 
@@ -134,6 +137,14 @@ Failure by 5 or more:
 
 ---
 
+## Treasure
+
+- 4 Fish Potions of Water Breathing
+
+- Hedderset Plaque
+
+---
+
 ## Hidden Loot
 
 - None.
@@ -149,11 +160,3 @@ Failure by 5 or more:
 ## GM Running Tips
 
 - None.
-
----
-
-## Atmosphere
-
-- Sounds: Slow dripping, distant metal creaks, and water pressure beyond the doors.
-- Smells: Damp metal, rust, and algae.
-- Lighting: A weak, flickering lamp by the plaque.

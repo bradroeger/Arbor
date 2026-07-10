@@ -28,10 +28,13 @@ tags:
 
 # Room 4 - The Terrarium
 
+---
 
 ## Summary
 
 - A thriving sealed ecosystem maintained by the frightened Mycelium Collective.
+
+---
 
 ## Read-Aloud Text
 
@@ -51,17 +54,26 @@ _Several other doors lead away from the chamber, their heavy bulkheads closed an
 
 ---
 
+## Atmosphere
+
+- Sounds: Soft gardening, small tools, and the hum of artificial daylight.
+- Smells: Damp soil, moss, and flowering plants.
+- Lighting: Bright artificial sunlight filtered through the enclosure glass.
+
+---
+
 ## GM Notes
+
 ### Purpose
 
 This terrarium was originally intended as a self-sustaining ecosystem used to:
 
 - produce food for smaller aquarium inhabitants,
-    
+
 - recycle organic waste,
-    
+
 - maintain ecological balance throughout the facility.
-    
+
 
 The ecosystem proved unexpectedly successful.
 
@@ -76,13 +88,13 @@ The mushroom folk are linked through a shared fungal network and operate like a 
 As a result:
 
 - they cannot easily be deceived,
-    
+
 - information spreads rapidly amongst them,
-    
+
 - they view themselves as both individuals and a single organism.
-    
+
 - They do not see as the character do instead they see each person as a light and most people look the same.
-    
+
 
 Their greatest fear is water as that would disperse them and their spores.
 
@@ -97,13 +109,13 @@ The colony was content for many years.
 However:
 
 - visitors stopped coming,
-    
+
 - food supplements stopped arriving,
-    
+
 - the treat dispensers ceased functioning,
-    
+
 - maintenance ended.
-    
+
 
 They are slowly running out of resources as the lights above continue to function the one outside influence in their terrarium but they have flickered on occasian but it's this light that provides the only source of artificial sunlight to keep the terrarium alive.
 
@@ -116,17 +128,23 @@ They have spent decades attempting to engineer an escape digging a tunnel down a
 The colony knows:
 
 - The Duchess exists. (though they call her the great purple light)
-    
+
 - The Duchess follows predictable hunting routes.
-    
+
 - The Duchess avoids certain regions.
-    
+
 - The Duchess occasionally watches the terrarium but cannot properly perceive the collective consciousness.
-    
+
 
 The colony doesn't know what she is only that they have felt her probing at their network before and they don't like it.
 
 ### @UUID[JournalEntry.zShyicskbKepTy45.JournalEntryPage.oZuyEJGl6nNCWkJG]{Na}
+
+---
+
+## What Changes Here
+
+- Restoring a terrarium mechanism makes the collective more cooperative.
 
 ---
 
@@ -154,6 +172,7 @@ The colony doesn't know what she is only that they have felt her probing at thei
 ---
 
 ## Puzzle / Challenge
+
 ### The Coin Mechanisms
 
 The brass mechanisms can still be operated.
@@ -193,7 +212,20 @@ Success grants the connection without loss of identity.
 
 ---
 
+## Encounter Setup
+
+- The Mycelium Collective is frightened but non-hostile; flooding the terrarium is their greatest fear.
+
+---
+
+## Characters Present
+
+- Na and the Mycelium Collective.
+
+---
+
 ## Treasure
+
 ### Mycelial Spores
 
 - Consumable.
@@ -213,24 +245,6 @@ If the players have these then any time [[The Duchess]] Clock would advance inst
 
 ---
 
-## What Changes Here
-
-- Restoring a terrarium mechanism makes the collective more cooperative.
-
----
-
-## Encounter Setup
-
-- The Mycelium Collective is frightened but non-hostile; flooding the terrarium is their greatest fear.
-
----
-
-## Characters Present
-
-- Na and the Mycelium Collective.
-
----
-
 ## Hidden Loot
 
 - None.
@@ -246,11 +260,3 @@ If the players have these then any time [[The Duchess]] Clock would advance inst
 ## GM Running Tips
 
 - Play the collective as coordinated and attentive, but keen to appear individual.
-
----
-
-## Atmosphere
-
-- Sounds: Soft gardening, small tools, and the hum of artificial daylight.
-- Smells: Damp soil, moss, and flowering plants.
-- Lighting: Bright artificial sunlight filtered through the enclosure glass.

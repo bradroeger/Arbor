@@ -27,7 +27,10 @@ tags:
 ---
 # Room 10 - Exit
 
+---
+
 ## Summary
+
 - The final chamber of the aquarium and the only route to the next floor.
 - A powerful magical barrier prevents both living creatures and the water above from passing through.
 - There are several ways to overcome it:
@@ -35,7 +38,8 @@ tags:
     - Disable the barrier entirely, flooding the floor below.
     - Temporarily suppress the barrier.
     - Fool or bypass the barrier through clever magic or engineering.
-- Beyond lies **Floor 144 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ The Tomb.**
+- Beyond lies **Floor 144 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“ The Tomb.**
+
 ---
 
 ## Read-Aloud Text
@@ -64,7 +68,16 @@ _Beyond the barrier the air is perfectly still, the stone completely dry._
 
 ---
 
+## Atmosphere
+
+- Sounds: The low hum and crackle of the magical barrier.
+- Smells: Ozone, wet stone, and dust from the dry chamber beyond.
+- Lighting: Pulsing blue-white barrier light.
+
+---
+
 ## GM Notes
+
 - The magical barrier prevents all living creatures from passing through while simultaneously holding back the immense weight of the aquarium above.
 - It continuously scans anything attempting to cross, specifically identifying living creatures and water.
 - Possessing the Duchess's key allows a creature to pass safely.
@@ -73,6 +86,12 @@ _Beyond the barrier the air is perfectly still, the stone completely dry._
 - Particularly determined creatures may simply force their way through, though doing so exposes them to the barrier's defensive enchantments. **DC 25 Strength Check** causing **4d10+40 damage**
 - Short-range teleportation is also possible by exploiting weak points in the lattice, though doing so still risks triggering the destructive spells woven into the barrier. **2d10+40 damage**
 - Every significant action taken here advances the Duchess Clock by **2**. This room should feel increasingly desperate as time runs out.
+
+---
+
+## What Changes Here
+
+- Every significant action advances the Duchess Clock by 2.
 
 ---
 
@@ -101,41 +120,6 @@ _Beyond the barrier the air is perfectly still, the stone completely dry._
 
 **Dispel Magic DC 23**
 - Temporarily suppress the barrier without causing catastrophic flooding.
-
---- 
-
-## Secrets
-Hidden beneath one of the lion statues is a weathered inscription.
-
-> _"It feels sacrilegious to build on top of that... She insisted she had permission, I only hope the Great Tree forgives us."_
-
----
-
-## GM Running Tips
-- This should feel like the climax of the Duchess's hunt.
-- She knows that once the party passes through the barrier she loses them forever.
-- If she has been patient until now, abandon that restraint. She should become manipulative, cruel and desperate.
-- Use every trick she possesses:
-    - illusions,
-    - false voices,
-    - loved ones,
-    - bargains,
-    - lies,
-    - guilt,
-    - fear.
-- She is not trying to win a fight anymore.
-- She is trying to make the players hesitate.
-
-When the party attempts to leave you can have her say:
-"You're really leaving?"
-"But we had so much fun..."
-"You'll die down there, they are coming I can feel them."
-
----
-
-## What Changes Here
-
-- Every significant action advances the Duchess Clock by 2.
 
 ---
 
@@ -169,8 +153,31 @@ When the party attempts to leave you can have her say:
 
 ---
 
-## Atmosphere
+## Secrets
 
-- Sounds: The low hum and crackle of the magical barrier.
-- Smells: Ozone, wet stone, and dust from the dry chamber beyond.
-- Lighting: Pulsing blue-white barrier light.
+Hidden beneath one of the lion statues is a weathered inscription.
+
+> _"It feels sacrilegious to build on top of that... She insisted she had permission, I only hope the Great Tree forgives us."_
+
+---
+
+## GM Running Tips
+
+- This should feel like the climax of the Duchess's hunt.
+- She knows that once the party passes through the barrier she loses them forever.
+- If she has been patient until now, abandon that restraint. She should become manipulative, cruel and desperate.
+- Use every trick she possesses:
+    - illusions,
+    - false voices,
+    - loved ones,
+    - bargains,
+    - lies,
+    - guilt,
+    - fear.
+- She is not trying to win a fight anymore.
+- She is trying to make the players hesitate.
+
+When the party attempts to leave you can have her say:
+"You're really leaving?"
+"But we had so much fun..."
+"You'll die down there, they are coming I can feel them."

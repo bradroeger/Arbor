@@ -28,22 +28,27 @@ tags:
 
 # The Arctic Room
 
+---
+
 ## Summary
-- An icy cold area filled with dangers and hazards 
-- Several hardy creatures live in this area including 2 Rime worms, 4 ice worms, 2 Cash Crabs, a Mortifera and [[Nyxie]]. 
-- Nyxie is hiding inside the igloo which through sheer luck is composed partially at least of lead sheets which is shielding her from [[The Duchess]]. 
-- The Dead body in the room is a trap lying in wait. 
-- The body does have some treasure on it 
+
+- An icy cold area filled with dangers and hazards
+- Several hardy creatures live in this area including 2 Rime worms, 4 ice worms, 2 Cash Crabs, a Mortifera and [[Nyxie]].
+- Nyxie is hiding inside the igloo which through sheer luck is composed partially at least of lead sheets which is shielding her from [[The Duchess]].
+- The Dead body in the room is a trap lying in wait.
+- The body does have some treasure on it
 - --
+
+---
 
 ## Read-Aloud Text
 
 ### Entering
 
 > _You gaze out across an icy, windswept landscape preserved beneath the sea. Packed snow and thick sheets of ice blanket the enclosure. The water itself seems sluggish, almost syrupy, and every so often you hear the sharp crack of new ice forming along the seabed._
-> 
+>
 > _Near one wall stands a massive metal pipe surrounded by rings of venting machinery. Around its base, a slowly rotating circle of blue arcane sigils glows beneath the water while frost steadily creeps outward across the surrounding ice._
-> 
+>
 > _Nearby sits a lonely igloo, its snow-dusted entrance turned away from the rest of the enclosure._
 
 ### Looking Around
@@ -55,14 +60,15 @@ tags:
 ### Entering the Igloo
 
 > _The instant you step through the entrance, the constant pressure at the edge of your thoughts simply... vanishes._
-> 
+>
 > _For what feels like the first time since entering the aquarium, your own mind is truly your own. The oppressive feeling of being watched, judged and hunted disappears as though someone has lifted a tremendous weight from your shoulders._
-> 
+>
 > _The silence is almost unsettling. Which is thankfully broken when at the back of the igloo an icy sculpture of a woman moves and regards you with eyes made of pure white crystal._
 
 ---
 
 ## Atmosphere
+
 - **Sounds:** Ice cracking, the groan of shifting glaciers, and the slow scraping movement of enormous worms.
 - **Smells:** Bitter cold carries a faint scent of scorched metal from the heat exchange machinery, mingled with an unpleasant odour of decay.
 - **Lighting:** Pale blue light reflected through the ice, with a faint magical glow surrounding the cooling machinery.
@@ -70,6 +76,7 @@ tags:
 ---
 
 ## GM Notes
+
 - Helping Nyxie is entirely optional, but she can provide a small amount of healing.
 - If the players reunite Nyxie with [[Finn]], he gratefully reveals the hidden treasure in his room if they have not already discovered it.
 - The igloo is partially lined with lead sheets. This shields anyone inside from the Duchess's thoughts. Players should immediately notice the sensation of an immense mental weight lifting as they enter.
@@ -80,6 +87,12 @@ tags:
 - The corpse carries a maintenance key, providing the players with an alternative method of progressing through the aquarium.
 - If the Duchess attacks here, she immediately attempts to consume the Mortifera, knowing the maintenance key lies inside it.
 - After the first **5 minutes** spent in this enclosure, every creature must attempt a **DC 15 Constitution saving throw**. On a failure, they take **1d6 cold damage** and gain **1 level of Exhaustion**. Repeat the save every additional 5 minutes, increasing the DC by **1** each time.
+
+---
+
+## What Changes Here
+
+- Every 5 minutes, the cold-damage saving throw repeats and its DC increases by 1.
 
 ---
 
@@ -103,27 +116,6 @@ tags:
 
 ---
 
-## Treasure
-- 3 Potions of Cold Resistance
-- 3 Potions of Water Breathing
-- 3 Potions of Greater Healing
-- Detailed schematics of the aquarium's heating system
-
----
-
-## GM Running Tips
-- Combat here should feel slow, exhausting and oppressive. The cold itself is as much an enemy as the creatures.
-- Emphasise the alien beauty of the enclosure. Everything here is quiet, graceful and deadly.
-- Resist the temptation to reveal the Mortifera too early. Let the players believe the frozen corpse is simply a tragic piece of scenery until it suddenly moves.
-
----
-
-## What Changes Here
-
-- Every 5 minutes, the cold-damage saving throw repeats and its DC increases by 1.
-
----
-
 ## Puzzle / Challenge
 
 - None.
@@ -142,6 +134,15 @@ tags:
 
 ---
 
+## Treasure
+
+- 3 Potions of Cold Resistance
+- 3 Potions of Water Breathing
+- 3 Potions of Greater Healing
+- Detailed schematics of the aquarium's heating system
+
+---
+
 ## Hidden Loot
 
 - A maintenance key is concealed within the frozen technician and its Mortifera nest.
@@ -151,3 +152,11 @@ tags:
 ## Secrets
 
 - The igloo is lined with lead sheets, shielding occupants from [[The Duchess]].
+
+---
+
+## GM Running Tips
+
+- Combat here should feel slow, exhausting and oppressive. The cold itself is as much an enemy as the creatures.
+- Emphasise the alien beauty of the enclosure. Everything here is quiet, graceful and deadly.
+- Resist the temptation to reveal the Mortifera too early. Let the players believe the frozen corpse is simply a tragic piece of scenery until it suddenly moves.

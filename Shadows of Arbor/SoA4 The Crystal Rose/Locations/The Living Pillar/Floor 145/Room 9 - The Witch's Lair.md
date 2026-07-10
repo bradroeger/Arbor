@@ -28,12 +28,15 @@ tags:
 
 # Room 9 - The Witch's Lair
 
+---
+
 ## Summary
-- This room serves as a brief respite for the players.  
-- The Duchess Clock still advances, but the Duchess will not enter this space.  
-- The Witch of the Deep is aware of what is happening below, but her plan is to use the portal to escape this world for another.  
-- The Witch can restore up to 3 points of Restoration, enough to recover spell slots or class features.  
-- She also sells healing potions up to Greater Healing.  
+
+- This room serves as a brief respite for the players.
+- The Duchess Clock still advances, but the Duchess will not enter this space.
+- The Witch of the Deep is aware of what is happening below, but her plan is to use the portal to escape this world for another.
+- The Witch can restore up to 3 points of Restoration, enough to recover spell slots or class features.
+- She also sells healing potions up to Greater Healing.
 - She will attempt to convince the players to leave with her, arguing that Arbor is doomed eventually, so why fight for such a corrupt place?
 
 ---
@@ -44,12 +47,12 @@ tags:
 
 #### Inside the Lair
 
-* *As you draw the curtain aside, you notice a strange distortion rippling across your vision. The moment you step through, you understand why.*  
-  
-* *Your lungs fill with air.*  
-  
-* *Your ears pop. Water runs from your clothes and hair. For the first time since entering the aquarium, you take a breath without magic.*  
-  
+* *As you draw the curtain aside, you notice a strange distortion rippling across your vision. The moment you step through, you understand why.*
+
+* *Your lungs fill with air.*
+
+* *Your ears pop. Water runs from your clothes and hair. For the first time since entering the aquarium, you take a breath without magic.*
+
 * *The ground within is rocky and black, as though it has rested upon the ocean floor for so long that even light abandoned any attempt to colour it. Small tide pools dot the chamber, each filled with colourful liquids that shimmer, swirl, and change before your eyes. In the centre of the room hangs a massive conch shell suspended from the ceiling, reached by a winding staircase carved from stone.*
 
 ### Seating Area
@@ -62,7 +65,7 @@ tags:
 
 ### Soul Artifact
 
-* *Upon one of the upper terraces rests a strange object rimmed with bone and shell. It is difficult to focus upon directly, yet impossible to ignore. You can feel something emanating from itÃ¢â‚¬â€something wrong. Faint screams echo through the chamber, and when you glance upward you realise the light cast by the artifact paints countless terrified faces across the ceiling.*
+* *Upon one of the upper terraces rests a strange object rimmed with bone and shell. It is difficult to focus upon directly, yet impossible to ignore. You can feel something emanating from itÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âsomething wrong. Faint screams echo through the chamber, and when you glance upward you realise the light cast by the artifact paints countless terrified faces across the ceiling.*
 
 ### Witch Introduction
 
@@ -76,6 +79,7 @@ tags:
 ---
 
 ## Atmosphere
+
 - Sounds: The sea and dripping water.
 - Smells: Salty air and sea smells
 - Lighting: Odd colour
@@ -83,6 +87,7 @@ tags:
 ---
 
 ## GM Notes
+
 ### Witch Description
 
 - She has a child with her. Whether Pennie is truly her daughter or not is unclear, but the Witch cares enough for her to try to spare her from the horrors of this world.- She is neither good nor evil. She is selfish and primarily concerned with her own interests, though she remains bound by the ancient codes of the Whispered Ones.
@@ -117,7 +122,7 @@ tags:
 
 ---
 
-### Temperature 
+### Temperature
 - The Duchess dislikes extreme temperatures, which is why she generally avoids both the central tropical systems and the Arctic exhibit.
 - However, dislike should not be mistaken for weakness. The creature is ancient, intelligent, and dangerous. If sufficiently enraged, she will pursue her prey regardless of discomfort. A little heat or cold will not stop her once she has committed to the hunt.
 
@@ -145,28 +150,6 @@ tags:
 - **History or Arcana 25**
 	- This is the [[Whispered One of the Deep]] an old one though not as old as Baba Yaga her domain is the oceans and seas and many thought her dead or lost given Arbor has neither of these things. Her alignment and mood were said to be as fickle as the waves so tread lightly and carefully.
 
-## Characters Present
-- [[Whispered One of the Deep]]
-- [[Pennie]]
-
----
-
-## Treasure
--
-
-## Hidden Loot
--
-
----
-
-## Secrets
--
-
----
-
-## GM Running Tips
--
-
 ---
 
 ## Puzzle / Challenge
@@ -178,3 +161,34 @@ tags:
 ## Encounter Setup
 
 - This is a temporary sanctuary. The Duchess does not enter unless the overall clock reaches its limit.
+
+---
+
+## Characters Present
+
+- [[Whispered One of the Deep]]
+- [[Pennie]]
+
+---
+
+## Treasure
+
+-
+
+---
+
+## Hidden Loot
+
+-
+
+---
+
+## Secrets
+
+-
+
+---
+
+## GM Running Tips
+
+-

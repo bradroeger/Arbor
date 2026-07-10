@@ -27,15 +27,17 @@ tags:
 ---
 # Room 2/3 - The Transition Room
 
+---
+
 ## Summary
 
 - A sealed pressure-transition chamber that floods when both doors close.
 
-
+---
 
 ## Read-Aloud Text
 
-_The door swings open with a slow, protesting groan, metal scraping against metal as if it hasnÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢t moved in years._
+_The door swings open with a slow, protesting groan, metal scraping against metal as if it hasnÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¾ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢t moved in years._
 
 _Beyond lies a small chamber lined with riveted steel panels. The air is damp and heavy with rust. Algae clings to the lower seams of the walls like a living stain. The floor however is a beautiful mosaic tile along with wood inlaid with what looks like silver._
 
@@ -54,7 +56,7 @@ _A deep mechanical whirr rolls through the structure._
 
 _The wheel-lock spins violently._
 
-_One by one, heavy bolts slam into place ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â echoing through the corridor like a dozen distant gunshots._
+_One by one, heavy bolts slam into place ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â echoing through the corridor like a dozen distant gunshots._
 
 _Then the floor begins to vibrate._
 
@@ -67,12 +69,12 @@ _Then faster._
 ---
 
 ### Flood Progression (GM Timing)
-- 1ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ2 rounds: ankle deep, difficult terrain begins
-    
-- 3ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ5 rounds: waist deep, movement and combat heavily impaired
-    
+- 1ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ2 rounds: ankle deep, difficult terrain begins
+
+- 3ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ5 rounds: waist deep, movement and combat heavily impaired
+
 - 6+ rounds: fully submerged corridor, swimming rules apply
-    
+
 
 The door at the far end does not open until the chamber is fully pressurised and flooded.
 
@@ -83,19 +85,34 @@ _With a final groan of pressure equalisation, the far door unlocks._
 
 _It swings outward slowly, water pouring through the gap like a released tide._
 
-_Beyond lies a vast submerged complex ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â flickering lights beneath the waterline, distorted corridors, and faint silhouettes of fish drifting through distant glass tunnels._
+_Beyond lies a vast submerged complex ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â flickering lights beneath the waterline, distorted corridors, and faint silhouettes of fish drifting through distant glass tunnels._
+
+---
+
+## Atmosphere
+
+- Sounds: Groaning metal, hissing pipes, and rising water.
+- Smells: Rust, damp stone, and algae.
+- Lighting: Dim light reflected through the filling water.
 
 ---
 
 ## GM Notes
+
 - This is a sealed pressure-transition chamber (airlock system).
-    
+
 - Doors are interlocked: one cannot open while the other is open.
-    
+
 - The sign if cleared says:
-    
+
 
 _When the both doors are shut, the chamber will flood please ensure you have ingested your fish and pay careful attention to the time - [[Dr. Hedderset_]]
+
+---
+
+## What Changes Here
+
+- When the first door closes, the chamber seals and floods. The far door unlocks only once it is fully pressurised.
 
 ---
 
@@ -106,28 +123,20 @@ _When the both doors are shut, the chamber will flood please ensure you have ing
 Attempts to force either door during sealing:
 
 - extremely loud metallic stress noises,
-    
+
 - immediately advances the Hunt Clock,
-    
+
 - may cause partial structural failure (DM choice).
-    
 
-##   
-Investigation - DC 20
 
+### Investigation - DC 20
 - _The pipes above seem to be radiating an awful lot of heat going from the south to the north_
-    
+
 - _The damage in this area wasn't caused by wear and tear it looks like something has battered this place._
-    
+
 
 ### Perception Check - DC 20
 - _As the water fills from vents and spigots along the floor and walls, for a moment you see a long thin ribbon of black and the spigot it comes from jitters for a moment and then resumes. When you look for the ribbon it's gone faded into the rest of the water._
-
----
-
-## What Changes Here
-
-- When the first door closes, the chamber seals and floods. The far door unlocks only once it is fully pressurised.
 
 ---
 
@@ -170,11 +179,3 @@ Investigation - DC 20
 ## GM Running Tips
 
 - None.
-
----
-
-## Atmosphere
-
-- Sounds: Groaning metal, hissing pipes, and rising water.
-- Smells: Rust, damp stone, and algae.
-- Lighting: Dim light reflected through the filling water.

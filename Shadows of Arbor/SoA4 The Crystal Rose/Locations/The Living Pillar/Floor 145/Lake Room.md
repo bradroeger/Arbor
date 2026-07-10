@@ -28,7 +28,10 @@ tags:
 
 # Lake Exhibit
 
+---
+
 ## Summary
+
 - A peaceful room
 - There are a few minor breaks but not the huge destruction you see in the Arctic room.
 - There is a Kappa named [[Kameo]] hiding in the underwater cave in an area that has not been flooded.
@@ -41,19 +44,21 @@ tags:
 ### Entering
 
 > _The waters of this enclosure are remarkably calm. A soft bed of sand and rounded stones stretches across the floor, broken only by patches of long lake grasses that sway gently in the slow-moving current. Several brass pipes continue to pump fresh water into the exhibit, filling it with a quiet, rhythmic murmur._
-> 
+>
 > _Running through the centre of the enclosure is a broad stone ridge that winds its way from one end to the other. Nestled into one side of the ridge is a small cave, while nearby a cracked pillar of green marble lies half-buried amongst waving reeds._
 
 ### Looking Around
 
 > _Tiny lights drift lazily through the grasses like stars beneath the water. As you watch, they dart between the reeds in sudden bursts before disappearing once more._
-> 
-> *The reeds appear to have been carefully trimmed. Fallen stones have been stacked into neat little piles, and several broken pipes have been patched with woven reeds and river clay. SomeoneÃ¢â‚¬â€or somethingÃ¢â‚¬â€is still taking care of this place.*
-> 
+>
+> *The reeds appear to have been carefully trimmed. Fallen stones have been stacked into neat little piles, and several broken pipes have been patched with woven reeds and river clay. SomeoneÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âor somethingÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âis still taking care of this place.*
+>
 > _For just a moment, you could swear you hear the faint buzz of a bee._
 
+---
 
 ## Atmosphere
+
 - **Sounds:** Soft bubbling water, the gentle rustle of reeds, and the distant buzzing of tiny wings.
 - **Smells:** Fresh water, damp vegetation, and a faint earthy scent.
 - **Lighting:** Gentle green light filtered through aquatic plants, punctuated by the glow of Sea Bees and the shimmering reflections of Gold-tipped Ostracods.
@@ -61,6 +66,7 @@ tags:
 ---
 
 ## GM Notes
+
 - This is one of the safest exhibits in the aquarium. Even the Kappa is reluctant to fight.
 - The primary attraction here is the Bliss Fish. If befriended, it grants one character a temporary blessing of extraordinary good fortune.
 - Befriending the Bliss Fish is simple: offer it food and treat it gently.
@@ -72,6 +78,13 @@ tags:
 - Compassionate players may eventually convince the Kappa that she is never coming back. If they do, it may choose to leave the aquarium with them in search of the lakes and rivers beyond Arbor.
 - If the players simply lie to it, the Kappa is likely to realise the deception eventually. It is trusting, but not foolish.
 
+---
+
+## What Changes Here
+
+- None.
+
+---
 
 ## Checks
 
@@ -103,30 +116,6 @@ tags:
 
 > _Something moves inside the cave. You catch the glimpse of webbed green fingers clutching the stone before a squat figure with a duck-like beak hurriedly ducks back into the darkness._
 
-
----
-
-## Treasure
-- **Kappa Gem** Ã¢â‚¬â€ Reduces Exhaustion by 1 level and maximises hit points regained when spending Hit Dice during a Short Rest.
-
-
-## Hidden Loot
-- **Kappa's Waters** Ã¢â‚¬â€ Restores all hit points and functions as a Potion of Storm Giant Strength.
-
-
-## GM Running Tips
-- The Duchess is still watching. Even in this peaceful place, the players should never feel entirely safe.
-- The Kappa is naturally timid and prefers negotiation or hiding over combat.
-- If threatened, however, it reveals the immense physical strength for which its kind is famous.
-- Rather than attempting to kill intruders, the Kappa fights to drive them away, throwing them into swarms of Sea Bees or out of the exhibit into the surrounding aquarium whenever possible.
-- If the players are respectful, curious, or offer gifts, the Kappa should slowly warm to them. It is much more interesting as an unusual ally than as another combat encounter.
-
----
-
-## What Changes Here
-
-- None.
-
 ---
 
 ## Puzzle / Challenge
@@ -147,6 +136,28 @@ tags:
 
 ---
 
+## Treasure
+
+- **Kappa Gem** ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Reduces Exhaustion by 1 level and maximises hit points regained when spending Hit Dice during a Short Rest.
+
+---
+
+## Hidden Loot
+
+- **Kappa's Waters** ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Restores all hit points and functions as a Potion of Storm Giant Strength.
+
+---
+
 ## Secrets
 
 - The Kappa Gem is an egg, not a gemstone.
+
+---
+
+## GM Running Tips
+
+- The Duchess is still watching. Even in this peaceful place, the players should never feel entirely safe.
+- The Kappa is naturally timid and prefers negotiation or hiding over combat.
+- If threatened, however, it reveals the immense physical strength for which its kind is famous.
+- Rather than attempting to kill intruders, the Kappa fights to drive them away, throwing them into swarms of Sea Bees or out of the exhibit into the surrounding aquarium whenever possible.
+- If the players are respectful, curious, or offer gifts, the Kappa should slowly warm to them. It is much more interesting as an unusual ally than as another combat encounter.
