@@ -38,7 +38,7 @@ tags:
     - Disable the barrier entirely, flooding the floor below.
     - Temporarily suppress the barrier.
     - Fool or bypass the barrier through clever magic or engineering.
-- Beyond lies **Floor 144 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“ The Tomb.**
+- Beyond lies **Floor 144 – The Tomb.**
 
 ---
 

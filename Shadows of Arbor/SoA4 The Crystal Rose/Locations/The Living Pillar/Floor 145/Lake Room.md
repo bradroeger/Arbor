@@ -51,7 +51,7 @@ tags:
 
 > _Tiny lights drift lazily through the grasses like stars beneath the water. As you watch, they dart between the reeds in sudden bursts before disappearing once more._
 >
-> *The reeds appear to have been carefully trimmed. Fallen stones have been stacked into neat little piles, and several broken pipes have been patched with woven reeds and river clay. SomeoneÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âor somethingÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âis still taking care of this place.*
+> *The reeds appear to have been carefully trimmed. Fallen stones have been stacked into neat little piles, and several broken pipes have been patched with woven reeds and river clay. Someone—or something—is still taking care of this place.*
 >
 > _For just a moment, you could swear you hear the faint buzz of a bee._
 
@@ -138,13 +138,13 @@ tags:
 
 ## Treasure
 
-- **Kappa Gem** ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Reduces Exhaustion by 1 level and maximises hit points regained when spending Hit Dice during a Short Rest.
+- **Kappa Gem** — Reduces Exhaustion by 1 level and maximises hit points regained when spending Hit Dice during a Short Rest.
 
 ---
 
 ## Hidden Loot
 
-- **Kappa's Waters** ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Restores all hit points and functions as a Potion of Storm Giant Strength.
+- **Kappa's Waters** — Restores all hit points and functions as a Potion of Storm Giant Strength.
 
 ---
 

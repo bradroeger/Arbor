@@ -65,7 +65,7 @@ tags:
 
 ### Soul Artifact
 
-* *Upon one of the upper terraces rests a strange object rimmed with bone and shell. It is difficult to focus upon directly, yet impossible to ignore. You can feel something emanating from itÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âsomething wrong. Faint screams echo through the chamber, and when you glance upward you realise the light cast by the artifact paints countless terrified faces across the ceiling.*
+* *Upon one of the upper terraces rests a strange object rimmed with bone and shell. It is difficult to focus upon directly, yet impossible to ignore. You can feel something emanating from it—something wrong. Faint screams echo through the chamber, and when you glance upward you realise the light cast by the artifact paints countless terrified faces across the ceiling.*
 
 ### Witch Introduction
 

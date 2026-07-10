@@ -70,7 +70,7 @@ tags:
 
 - Perception 30: In the distance you can see that part of the landscape has been destroyed on the artic enclosure and beyond them the walkway between seem to be severely damaged.
 
-- Nature 20: You donÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢t know how long these fish have been up here contained in this space but itÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢s incredible that any of them are still alive at all, more concerning is that while the species are generally recogonisable several of them look to show signs of significant derivation from their origins.
+- Nature 20: You don’t know how long these fish have been up here contained in this space but it’s incredible that any of them are still alive at all, more concerning is that while the species are generally recogonisable several of them look to show signs of significant derivation from their origins.
 
 
 ---

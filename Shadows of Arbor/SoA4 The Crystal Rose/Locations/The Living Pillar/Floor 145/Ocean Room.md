@@ -65,7 +65,7 @@ tags:
 - Because it has remained largely undisturbed, this ecosystem is remarkably healthy.
 - The sea serpent is partially constructed from Great Tree wood and has become a **Memoria Ordo III**, granting it limited sentience.
 - It is badly damaged and incapable of leaving its position, but it still watches over the enclosure.
-- Before the aquarium was abandoned, it delighted in frightening visitorsÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âespecially parents attempting to reassure their childrenÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âbefore secretly winking at those same children moments later.
+- Before the aquarium was abandoned, it delighted in frightening visitors—especially parents attempting to reassure their children—before secretly winking at those same children moments later.
 - Despite its fearsome appearance, it has a surprisingly gentle personality and harbours a deep hatred for the Duchess.
 - If convinced, it may aid the players by attacking the Duchess should they lure her into the enclosure.
 - The Duchess believes something dangerous lives inside the serpent's mouth and has never investigated further.

@@ -80,7 +80,7 @@ _Whatever lives out there has already seen you. Then, somewhere in the darkness.
 - This is the Duchess's hunting ground. Any significant action taken here advances the Duchess Clock twice instead of once.
 - Most native creatures instinctively avoid light. They refuse to approach bright light sources unless cornered, and many suffer penalties while fighting within illuminated areas.
 - Conversely, several creatures possess abilities that extinguish magical and mundane light or create areas of supernatural darkness.
-- Players should constantly feel observed. The Deep is never emptyÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âonly patient.
+- Players should constantly feel observed. The Deep is never empty—only patient.
 - Encourage short journeys through this area. The longer the party remains, the more oppressive and dangerous it should become.
 - Wandering through the dark are several Faceless Wanderers, each one is what is left of the humanoids after the Duchess has finished with them. Included among them are several of the builders that were sent to shore up the place after the it was finished.
 - Each of the eye stalks is linked to the Beholder of the Deep, however it is stuck underground because the duchess would eat it if it surfaced. So it's forced to use the eye stalks to lure in prey and have them dig to him. However the digging itself is likely to attract atention.
@@ -135,11 +135,11 @@ The resulting disturbance automatically advances the Duchess Clock twice.
 
 ### Perception DC 25
 
-> _The darkness is not empty. As your eyes slowly adjust, you begin to make out silhouettes circling beyond the lightÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âvast fins, trailing tentacles and impossibly long bodies that never quite reveal themselves before slipping back into the black._
+> _The darkness is not empty. As your eyes slowly adjust, you begin to make out silhouettes circling beyond the light—vast fins, trailing tentacles and impossibly long bodies that never quite reveal themselves before slipping back into the black._
 
 ### Arcana DC 25
 
-> As you gaze into the abyss, you notice shapes "walking" across the seabedÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âcollections of tattered black cloth moving with slow, deliberate purpose. One turns towards you.
+> As you gaze into the abyss, you notice shapes "walking" across the seabed—collections of tattered black cloth moving with slow, deliberate purpose. One turns towards you.
 > Where a face should be there is only smooth flesh, featureless and perfect like polished marble.
 > The thing lingers for a moment too long before silently turning away and disappearing back into the darkness.
 
@@ -188,4 +188,4 @@ The resulting disturbance automatically advances the Duchess Clock twice.
 > - Let silence do the work. The Deep should feel vast enough that even monsters seem insignificant within it.
 > - The Deep should exhaust the players psychologically before it harms them physically.
 > - Bright light is one of the few comforts available here. Let the players discover that most creatures instinctively retreat from it.
-> - Reserve the Duchess for the moments when the party finally begins to relax. She is not another monster in the DeepÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âthe Deep is simply where she hunts.
+> - Reserve the Duchess for the moments when the party finally begins to relax. She is not another monster in the Deep—the Deep is simply where she hunts.

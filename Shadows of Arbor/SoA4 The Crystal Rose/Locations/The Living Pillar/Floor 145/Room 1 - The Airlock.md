@@ -98,7 +98,7 @@ Advance the Hunt Clock when players:
 
 ## Checks
 
-### Perception ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â DC 20
+### Perception — DC 20
 
 Listening carefully at the doors reveals:
 
@@ -107,7 +107,7 @@ Listening carefully at the doors reveals:
 - South: a deep oceanic resonance, like hearing the sea through a shell.
 
 
-### Strength ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â DC 25
+### Strength — DC 25
 
 Force open the jammed western door.
 

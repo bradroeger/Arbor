@@ -57,7 +57,7 @@ trello_board_card_id: 647efe2bcc7a9b54da905256;6a027cc45f17e0714b7d56e6
 	- *The Tropical Sea - A warm and wonderful swim with brightly coloured neighbours.*
 	- *The Lakes and Rivers - Nearby and yet still not well understood.*
 - *The final plinth is mostly destroyed and it's plaque only partially readable*
-	- *Th# Aby#### Se# ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Fath##s of darkne## witho## end. What dw#el##s her# could sw####ow the devil hims###.*
+	- *Th# Aby#### Se# — Fath##s of darkne## witho## end. What dw#el##s her# could sw####ow the devil hims###.*
 
 ---
 

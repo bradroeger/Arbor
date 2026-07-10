@@ -166,8 +166,8 @@ _Looking into the depths leaves you with the uncomfortable certainty that the aq
 	- To break the seal on the cage using **Dispel Magic.**
 - **Boiler Toughness 20:
 	- Disable the boiler, either with tools or a hammer.
-- **TinkerÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢s Tools DC 25:**
-	- To understand the mechanisms of the machine how it works what it does and importantly how to change the flow and direction of water in the system. The Duchess does not like the heat from the Tropical area itÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢s why itÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢s been largely left alone by her. ItÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢s possible the players could use this to stave her off if they understand this.
+- **Tinker’s Tools DC 25:**
+	- To understand the mechanisms of the machine how it works what it does and importantly how to change the flow and direction of water in the system. The Duchess does not like the heat from the Tropical area it’s why it’s been largely left alone by her. It’s possible the players could use this to stave her off if they understand this.
 - **Persuasion DC 25 (if they speak Infernal):**
 	- The DC needed to convince the Ephemera to help you fight the creature pursuing them.
 - **Fortitude Saving Throw DC 20**:
