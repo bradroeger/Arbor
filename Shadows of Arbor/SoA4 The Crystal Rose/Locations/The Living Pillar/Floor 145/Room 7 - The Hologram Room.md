@@ -28,17 +28,16 @@ tags:
 trello_plugin_note_id: FHOP1tll-9SYfZX6QP72a
 trello_board_card_id: 647efe2bcc7a9b54da905256;6a027cc45f17e0714b7d56e6
 ---
-# 🗺️ Room 7 - The Hologram Room
+# Room 7 - The Hologram Room
 
-## 🧭 Summary
-
+## Summary
 - This room has 2 functioning hologram/programmed illusions that served to educate people about the fish.
 - 1 spot contains a partially working illusion that is now a Memoria.
 - The area is open to the [[abyss sea]] on one side
 
 ---
 
-## 📖 Read-Aloud Text
+## Read-Aloud Text
 
 - _As you float across the threshold, you behold a beautiful mosaic-patterned floor and four dark stone plinths arranged around the chamber. Embedded into the floor before each plinth is a brass plaque serving as a marker._
 
@@ -55,12 +54,11 @@ trello_board_card_id: 647efe2bcc7a9b54da905256;6a027cc45f17e0714b7d56e6
 	- *The Tropical Sea - A warm and wonderful swim with brightly coloured neighbours.*
 	- *The Lakes and Rivers - Nearby and yet still not well understood.*
 - *The final plinth is mostly destroyed and it's plaque only partially readable*
-	- *Th# Aby#### Se# — Fath##s of darkne## witho## end. What dw#el##s her# could sw####ow the devil hims###.*
+	- *Th# Aby#### Se# ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Fath##s of darkne## witho## end. What dw#el##s her# could sw####ow the devil hims###.*
 
 ---
 
-## 📓 GM Notes
-
+## GM Notes
 - The plinths can be activated to learn more about each sea, it's exhibits and inhabitants.
 - The Tropical and Arctic Sea function normally giving out information such as average temperature, ecology and different species present in each tank
 - The  Lakes and Rivers unit is a Memoria but can present the same information however can also speak back and answer questions including much of what the final plinth knows.
@@ -122,7 +120,7 @@ trello_board_card_id: 647efe2bcc7a9b54da905256;6a027cc45f17e0714b7d56e6
 * Alden knows the duchess's patterns of movement across the aquarium and has noticed when others have come that it stalked them a particular way but that certain materials blocked her sight, notably the ice from the igloo seems to render you invisible. (he doesn't know this but the igloo is composed of lead with ice frozen over it.)
 
 
-## 🎲 Checks
+## Checks
 
 - **Arcana DC 20**
 	- Examining the structures you realise this is a very complex casting of the Major Image spell along with several others to give it permeance.
@@ -131,21 +129,56 @@ trello_board_card_id: 647efe2bcc7a9b54da905256;6a027cc45f17e0714b7d56e6
 - **Persuasion DC 30**
 	- To convince the [[Finn]] to act as bait or to buy time for the players should they wish it -5 if they promise to help [[Nyxie]]
 ---
-## 🎭 Characters Present
-
+## Characters Present
 - [[Finn]]
 
 ---
 
-## 💎 Treasure
-
+## Treasure
 - Hidden underneath the rubble is a builder's logbook (water proof of course). Buried in the wall.
 - Abyssal Lens. Allows the seeing of currents, and creatures through murky water no attunement. 
 
 ---
 
-## 🧠 GM Running Tips
-
+## GM Running Tips
 - Keep an eye on the time and make sure to advance the Duchess Clock when appropriate to do so.
 - Try to keep the fact that Alden is a Memoria a secret as long as you can but he's not smart so can make a mistake. 
 - This section is open to the abyssal sea so having something move out in the darkness or to have random perception checks or dice rolls will keep the players on edge.
+
+---
+
+## What Changes Here
+
+- Every interaction with a hologram advances the Duchess Clock; active illusions advance it an additional tick.
+
+---
+
+## Puzzle / Challenge
+
+- Repair or interpret the damaged plinths, and decide whether to involve [[Finn]] in the escape.
+
+---
+
+## Encounter Setup
+
+- No combat is expected; the open wall to the abyss supplies pressure and potential threats.
+
+---
+
+## Hidden Loot
+
+- A waterproof builder's logbook and the Abyssal Lens are buried beneath the rubble.
+
+---
+
+## Secrets
+
+- Finn is a Memoria bound to the damaged Lakes and Rivers dais.
+
+---
+
+## Atmosphere
+
+- Sounds: Faint magical humming, water movement, and distant noises from the open abyss.
+- Smells: Ozone, wet stone, and rust.
+- Lighting: Soft holographic glow and weak light from the damaged plinths.

@@ -26,9 +26,9 @@ tags:
   - room
 ---
 
-# 🗺️ The Arctic Room
+# The Arctic Room
 
-## 🧭 Summary 
+## Summary
 - An icy cold area filled with dangers and hazards 
 - Several hardy creatures live in this area including 2 Rime worms, 4 ice worms, 2 Cash Crabs, a Mortifera and [[Nyxie]]. 
 - Nyxie is hiding inside the igloo which through sheer luck is composed partially at least of lead sheets which is shielding her from [[The Duchess]]. 
@@ -36,7 +36,7 @@ tags:
 - The body does have some treasure on it 
 - --
 
-# 📖 Read-Aloud Text
+## Read-Aloud Text
 
 ### Entering
 
@@ -62,16 +62,14 @@ tags:
 
 ---
 
-# 🌫️ Atmosphere
-
+## Atmosphere
 - **Sounds:** Ice cracking, the groan of shifting glaciers, and the slow scraping movement of enormous worms.
 - **Smells:** Bitter cold carries a faint scent of scorched metal from the heat exchange machinery, mingled with an unpleasant odour of decay.
 - **Lighting:** Pale blue light reflected through the ice, with a faint magical glow surrounding the cooling machinery.
 
 ---
 
-# 📓 GM Notes
-
+## GM Notes
 - Helping Nyxie is entirely optional, but she can provide a small amount of healing.
 - If the players reunite Nyxie with [[Finn]], he gratefully reveals the hidden treasure in his room if they have not already discovered it.
 - The igloo is partially lined with lead sheets. This shields anyone inside from the Duchess's thoughts. Players should immediately notice the sensation of an immense mental weight lifting as they enter.
@@ -85,7 +83,7 @@ tags:
 
 ---
 
-# 🎲 Checks
+## Checks
 
 **Perception DC 15**
 
@@ -105,9 +103,7 @@ tags:
 
 ---
 
-# 💎 Treasure
-
-
+## Treasure
 - 3 Potions of Cold Resistance
 - 3 Potions of Water Breathing
 - 3 Potions of Greater Healing
@@ -115,8 +111,43 @@ tags:
 
 ---
 
-# 🧠 GM Running Tips
-
+## GM Running Tips
 - Combat here should feel slow, exhausting and oppressive. The cold itself is as much an enemy as the creatures.
 - Emphasise the alien beauty of the enclosure. Everything here is quiet, graceful and deadly.
 - Resist the temptation to reveal the Mortifera too early. Let the players believe the frozen corpse is simply a tragic piece of scenery until it suddenly moves.
+
+---
+
+## What Changes Here
+
+- Every 5 minutes, the cold-damage saving throw repeats and its DC increases by 1.
+
+---
+
+## Puzzle / Challenge
+
+- None.
+
+---
+
+## Encounter Setup
+
+- 2 Rime Worms, 4 Ice Worms, 2 Cash Crabs, and a Mortifera are present. The Rime Worms attack if their eggs are approached.
+
+---
+
+## Characters Present
+
+- [[Nyxie]] is hiding in the lead-lined igloo.
+
+---
+
+## Hidden Loot
+
+- A maintenance key is concealed within the frozen technician and its Mortifera nest.
+
+---
+
+## Secrets
+
+- The igloo is lined with lead sheets, shielding occupants from [[The Duchess]].

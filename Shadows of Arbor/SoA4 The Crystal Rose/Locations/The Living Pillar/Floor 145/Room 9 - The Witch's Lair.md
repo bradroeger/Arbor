@@ -26,10 +26,9 @@ tags:
   - room
 ---
 
-# 🗺️ Room 9 - The Witch's Lair
+# Room 9 - The Witch's Lair
 
-## 🧭 Summary
-
+## Summary
 - This room serves as a brief respite for the players.  
 - The Duchess Clock still advances, but the Duchess will not enter this space.  
 - The Witch of the Deep is aware of what is happening below, but her plan is to use the portal to escape this world for another.  
@@ -39,7 +38,7 @@ tags:
 
 ---
 
-## 📖 Read-Aloud Text
+## Read-Aloud Text
 
 - *Unlike the other spaces in the aquarium, this chamber feels different the moment you lay eyes upon the threshold. Where the others possessed great doors of steel, copper, and iron that slid into the floor, this one is concealed only by a simple red curtain that flutters gently, as though stirred by a breeze rather than the currents beyond.*
 
@@ -63,7 +62,7 @@ tags:
 
 ### Soul Artifact
 
-* *Upon one of the upper terraces rests a strange object rimmed with bone and shell. It is difficult to focus upon directly, yet impossible to ignore. You can feel something emanating from it—something wrong. Faint screams echo through the chamber, and when you glance upward you realise the light cast by the artifact paints countless terrified faces across the ceiling.*
+* *Upon one of the upper terraces rests a strange object rimmed with bone and shell. It is difficult to focus upon directly, yet impossible to ignore. You can feel something emanating from itÃ¢â‚¬â€something wrong. Faint screams echo through the chamber, and when you glance upward you realise the light cast by the artifact paints countless terrified faces across the ceiling.*
 
 ### Witch Introduction
 
@@ -76,16 +75,14 @@ tags:
 
 ---
 
-## 🌫️ Atmosphere
-
+## Atmosphere
 - Sounds: The sea and dripping water.
 - Smells: Salty air and sea smells
 - Lighting: Odd colour
 
 ---
 
-## 📓 GM Notes
-
+## GM Notes
 ### Witch Description
 
 - She has a child with her. Whether Pennie is truly her daughter or not is unclear, but the Witch cares enough for her to try to spare her from the horrors of this world.- She is neither good nor evil. She is selfish and primarily concerned with her own interests, though she remains bound by the ancient codes of the Whispered Ones.
@@ -109,8 +106,7 @@ tags:
 
 ---
 
-## Other Things She Knows
-
+### Other Things She Knows
 ### True Name
 - The Duchess cannot enter this place... for now.
 - The Whispered One knows the Duchess's true name and has threatened before to use that knowledge to cast her back through the portal.
@@ -130,49 +126,55 @@ tags:
 
 - The aquarium was a love letter to marine life created by a woman who died in poverty.- Despite that, the Witch genuinely appreciates the gift she left behind.- "Foolish woman," she'll say with a smile. "Broke, stubborn, impossible... but she loved the sea enough to build it a home."
 
-## Looking Glass
-
+### Looking Glass
 - Use this to show the players what is happening throughout Arbor.- Depending on their actions, they might see doctors evacuating civilians from blighted districts, allies they have saved fighting against Miyo's hordes, or entire districts consumed as the city is slowly joined to Miyo's domain.
 
 ---
 
-## 🔄 What Changes Here
+## What Changes Here
 
 - Every time the players do something like buy something or brew something or make some kind of deal here advance the clock.
 - If the overall Duchess Clock maxes out here she will app
 
 ---
 
-## 🎲 Checks
+## Checks
 
 - **Arcana DC 15**
 	- The Pool on the top step is a form of scrying lens allowing the user to see across great distances.
 - **History or Arcana 25**
 	- This is the [[Whispered One of the Deep]] an old one though not as old as Baba Yaga her domain is the oceans and seas and many thought her dead or lost given Arbor has neither of these things. Her alignment and mood were said to be as fickle as the waves so tread lightly and carefully.
 
-## 🎭 Characters Present
-
+## Characters Present
 - [[Whispered One of the Deep]]
 - [[Pennie]]
 
 ---
 
-## 💎 Treasure
-
+## Treasure
 -
 
-## 🎁 Hidden Loot
-
--
-
----
-
-## 🕵️ Secrets
-
+## Hidden Loot
 -
 
 ---
 
-## 🧠 GM Running Tips
-
+## Secrets
 -
+
+---
+
+## GM Running Tips
+-
+
+---
+
+## Puzzle / Challenge
+
+- Negotiate the Whispered One's bargains and decide whether to aid her escape.
+
+---
+
+## Encounter Setup
+
+- This is a temporary sanctuary. The Duchess does not enter unless the overall clock reaches its limit.

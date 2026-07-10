@@ -1,8 +1,8 @@
 ---
 type: room
-adventure:
-area:
-region:
+adventure: "[[The Crystal Rose]]"
+area: "[[Floor 145]]"
+region: "[[The Living Pillar]]"
 id:
 connections: []
 encounter_type: exploration
@@ -25,7 +25,15 @@ treasure: false
 tags:
   - room
 ---
-## 📖 Read-Aloud Text
+
+# Room 4 - The Terrarium
+
+
+## Summary
+
+- A thriving sealed ecosystem maintained by the frightened Mycelium Collective.
+
+## Read-Aloud Text
 
 _Beyond the doorway lies a chamber dominated by an enormous glass enclosure that occupies nearly the entire room._
 
@@ -43,8 +51,7 @@ _Several other doors lead away from the chamber, their heavy bulkheads closed an
 
 ---
 
-## 📓 GM Notes
-
+## GM Notes
 ### Purpose
 
 This terrarium was originally intended as a self-sustaining ecosystem used to:
@@ -123,7 +130,7 @@ The colony doesn't know what she is only that they have felt her probing at thei
 
 ---
 
-## 🎲 Checks
+## Checks
 
 * **Nature DC 15**
 >The enclosure is functioning as a complete miniature ecosystem. Everything inside appears healthy despite the state of the surrounding aquarium.
@@ -146,8 +153,7 @@ The colony doesn't know what she is only that they have felt her probing at thei
 
 ---
 
-## 🧩 Puzzle / Challenge
-
+## Puzzle / Challenge
 ### The Coin Mechanisms
 
 The brass mechanisms can still be operated.
@@ -187,8 +193,7 @@ Success grants the connection without loss of identity.
 
 ---
 
-## 🎭 Props & Loot
-
+## Treasure
 ### Mycelial Spores
 
 - Consumable.
@@ -205,3 +210,47 @@ If befriended, the colony can provide:
 - Duchess sighting records.
 
 If the players have these then any time [[The Duchess]] Clock would advance instead roll a d100 and on a 80 or more it doesn't.
+
+---
+
+## What Changes Here
+
+- Restoring a terrarium mechanism makes the collective more cooperative.
+
+---
+
+## Encounter Setup
+
+- The Mycelium Collective is frightened but non-hostile; flooding the terrarium is their greatest fear.
+
+---
+
+## Characters Present
+
+- Na and the Mycelium Collective.
+
+---
+
+## Hidden Loot
+
+- None.
+
+---
+
+## Secrets
+
+- The fungal inhabitants are a sapient hive mind that pretends to be separate individuals.
+
+---
+
+## GM Running Tips
+
+- Play the collective as coordinated and attentive, but keen to appear individual.
+
+---
+
+## Atmosphere
+
+- Sounds: Soft gardening, small tools, and the hum of artificial daylight.
+- Smells: Damp soil, moss, and flowering plants.
+- Lighting: Bright artificial sunlight filtered through the enclosure glass.

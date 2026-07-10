@@ -29,10 +29,9 @@ tags:
   - room
 ---
 
-# 🗺️ Room 8 - The Source
+# Room 8 - The Source
 
-## 🧭 Summary
-
+## Summary
 - A portal to the elemental plane of water.
 - Out of control and messy.
 - Huge machinery pumps water from the plane to here to maintain the water level across the aquarium.
@@ -42,7 +41,7 @@ tags:
 
 ---
 
-## 📖 Read-Aloud Text
+## Read-Aloud Text
 
 ### Entry
 
@@ -71,16 +70,14 @@ _Beyond it lies only darkness and the distant, endless sea._
 
 ---
 
-## 🌫️ Atmosphere
-
+## Atmosphere
 - Sounds: The thunderous churn of the whirlpool and the sucking noise of the machines drawing water into it.
 - Smells: water and oil
 - Lighting: Chaotic
 
 ---
 
-## 📓 GM Notes
-
+## GM Notes
 - The moment the players open the door they need to start making checks to avoid being pulled into the vortex or more precisely yanked against the floor underneath the water where the gate to the plane of water is located. 
 - Originally the portal was designed to be bi directional once the water pressure had reached equilibrium with the other side but like many projects it was abandoned when it's creator died.
 - The players will need to decide if they want to double back or swim across the vortex pitting their strength against the machines and swirling vortex, which will not be easy.
@@ -98,7 +95,7 @@ _Beyond it lies only darkness and the distant, endless sea._
 
 ---
 
-## 🔄 What Changes Here
+## What Changes Here
 
 - If players disable portal the water will slowly begin to recede the consequences of which are very far reaching and outside the scope of this adventure.
 - If the players disable the machine that pulls in water eventually the water will overwhelm the tower and flood all the levels and collapse the levels above triggering the fall of the tower 
@@ -106,7 +103,7 @@ _Beyond it lies only darkness and the distant, endless sea._
 
 ---
 
-## 🎲 Checks
+## Checks
 
 - **Perception**
 	- **DC 15** - This whirlpool is not natural but the source of it looks to be coming from near the bottom of the room.
@@ -121,8 +118,7 @@ _Beyond it lies only darkness and the distant, endless sea._
 
 ---
 
-## 🧩 Puzzle / Challenge
-
+## Puzzle / Challenge
 - Passing the vortex requires the players to gain a total of 5 successes in different skill checks or abilities in order to make it to the other side.
 * Each passing check moves them further along the track until they are at the opposite side
 * They may use the same skill multiple times however using the same skill multiple times makes the resulting DC go up by 2.
@@ -148,14 +144,13 @@ _Beyond it lies only darkness and the distant, endless sea._
 
 ---
 
-## 💎 Treasure
+## Treasure
 * Etched into the wall of the pipes near the bottom are a set of notes about pressure values slowly going up over years and the comparison to the other side watching it slowly equalise along with a note reading 
 	* *Pressure differential continues to decrease. Twenty-three years of operation and the values continue to converge. At the current rate equilibrium should occur within five years. I only hope I live long enough to see it.*
 
 ---
 
-## 🧠 GM Running Tips
-
+## GM Running Tips
 - The Duchess is likely at this point ready to strike but the whirlpool is a massive hazard. Allow the players to use the hazard to their advantage even trying to trick or force the creature through and seal it after her.
 - This room should be one of the few places where the Duchess is genuinely cautious. 
 	- Not afraid though, carefully toe the line between the two the Duchess is vastly intelligent and has no fear of almost anything.
@@ -163,3 +158,27 @@ _Beyond it lies only darkness and the distant, endless sea._
 	- At the moment she is a big fish in a very small pond on the other side of that portal she so small and she never wants to go back to that.
 	- The first time the duchess appears in this room read:
 	  *The large creature (Duchess) glances toward the vortex. For the first time since you met her, she looks genuinely uncomfortable.*
+
+---
+
+## Encounter Setup
+
+- The whirlpool is the encounter. During combat, each creature must make a DC 15 Athletics check each round or be pulled 10 feet closer.
+
+---
+
+## Characters Present
+
+- None.
+
+---
+
+## Hidden Loot
+
+- None.
+
+---
+
+## Secrets
+
+- The portal can be made bidirectional, potentially trapping [[The Duchess]] beyond it.

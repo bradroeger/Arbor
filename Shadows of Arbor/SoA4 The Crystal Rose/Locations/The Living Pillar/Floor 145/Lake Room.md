@@ -26,10 +26,9 @@ tags:
   - room
 ---
 
-# 🗺️ Lake Exhibit
+# Lake Exhibit
 
-## 🧭 Summary
-
+## Summary
 - A peaceful room
 - There are a few minor breaks but not the huge destruction you see in the Arctic room.
 - There is a Kappa named [[Kameo]] hiding in the underwater cave in an area that has not been flooded.
@@ -37,7 +36,7 @@ tags:
 
 ---
 
-## 📖 # Read-Aloud Text
+## Read-Aloud Text
 
 ### Entering
 
@@ -49,21 +48,19 @@ tags:
 
 > _Tiny lights drift lazily through the grasses like stars beneath the water. As you watch, they dart between the reeds in sudden bursts before disappearing once more._
 > 
-> *The reeds appear to have been carefully trimmed. Fallen stones have been stacked into neat little piles, and several broken pipes have been patched with woven reeds and river clay. Someone—or something—is still taking care of this place.*
+> *The reeds appear to have been carefully trimmed. Fallen stones have been stacked into neat little piles, and several broken pipes have been patched with woven reeds and river clay. SomeoneÃ¢â‚¬â€or somethingÃ¢â‚¬â€is still taking care of this place.*
 > 
 > _For just a moment, you could swear you hear the faint buzz of a bee._
 
 
-# 🌫️ Atmosphere
-
+## Atmosphere
 - **Sounds:** Soft bubbling water, the gentle rustle of reeds, and the distant buzzing of tiny wings.
 - **Smells:** Fresh water, damp vegetation, and a faint earthy scent.
 - **Lighting:** Gentle green light filtered through aquatic plants, punctuated by the glow of Sea Bees and the shimmering reflections of Gold-tipped Ostracods.
 
 ---
 
-# 📓 GM Notes
-
+## GM Notes
 - This is one of the safest exhibits in the aquarium. Even the Kappa is reluctant to fight.
 - The primary attraction here is the Bliss Fish. If befriended, it grants one character a temporary blessing of extraordinary good fortune.
 - Befriending the Bliss Fish is simple: offer it food and treat it gently.
@@ -76,7 +73,7 @@ tags:
 - If the players simply lie to it, the Kappa is likely to realise the deception eventually. It is trusting, but not foolish.
 
 
-# 🎲 Checks
+## Checks
 
 ### Nature DC 15
 
@@ -109,20 +106,47 @@ tags:
 
 ---
 
-# 💎 Treasure
-
-- **Kappa Gem** — Reduces Exhaustion by 1 level and maximises hit points regained when spending Hit Dice during a Short Rest.
-
-
-# 🎁 Hidden Loot
-
-- **Kappa's Waters** — Restores all hit points and functions as a Potion of Storm Giant Strength.
+## Treasure
+- **Kappa Gem** Ã¢â‚¬â€ Reduces Exhaustion by 1 level and maximises hit points regained when spending Hit Dice during a Short Rest.
 
 
-# 🧠 GM Running Tips
+## Hidden Loot
+- **Kappa's Waters** Ã¢â‚¬â€ Restores all hit points and functions as a Potion of Storm Giant Strength.
 
+
+## GM Running Tips
 - The Duchess is still watching. Even in this peaceful place, the players should never feel entirely safe.
 - The Kappa is naturally timid and prefers negotiation or hiding over combat.
 - If threatened, however, it reveals the immense physical strength for which its kind is famous.
 - Rather than attempting to kill intruders, the Kappa fights to drive them away, throwing them into swarms of Sea Bees or out of the exhibit into the surrounding aquarium whenever possible.
 - If the players are respectful, curious, or offer gifts, the Kappa should slowly warm to them. It is much more interesting as an unusual ally than as another combat encounter.
+
+---
+
+## What Changes Here
+
+- None.
+
+---
+
+## Puzzle / Challenge
+
+- Earn the Kappa's trust or persuade it that its caretaker will not return.
+
+---
+
+## Encounter Setup
+
+- [[Kameo]] avoids a fight but may drive intruders into Sea Bees if threatened.
+
+---
+
+## Characters Present
+
+- [[Kameo]], the resident Kappa.
+
+---
+
+## Secrets
+
+- The Kappa Gem is an egg, not a gemstone.

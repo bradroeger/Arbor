@@ -1,8 +1,8 @@
 ---
 type: room
-adventure:
-area:
-region:
+adventure: "[[The Crystal Rose]]"
+area: "[[Floor 145]]"
+region: "[[The Living Pillar]]"
 id:
 connections: []
 encounter_type: exploration
@@ -25,7 +25,14 @@ treasure: false
 tags:
   - room
 ---
-# 📖 Read-Aloud Text
+# Room 1 - The Airlock
+
+## Summary
+- The entry airlock provides four living fish that function as potions of water breathing.
+- Its western door is jammed; the southern passage is flooded.
+
+---
+## Read-Aloud Text
 
 _As you descend into the chamber below, every sound stretches strangely through the confined metal halls._
 
@@ -47,8 +54,7 @@ _Clearing it away reveals the inscription:_
 
 ---
 
-# 📓 GM Notes
-
+## GM Notes
 - This room marks the beginning of the Hunt [[Clock]].
     
 - The fish function as [[Potions of Water Breathing]] (1 hour each).
@@ -64,7 +70,7 @@ _Clearing it away reveals the inscription:_
 
 ---
 
-# 🕕 Clock Actions
+## What Changes Here
 
 Advance the Hunt Clock when players:
 
@@ -79,9 +85,9 @@ Advance the Hunt Clock when players:
 
 ---
 
-# 🎲 Checks
+## Checks
 
-### Perception — DC 20
+### Perception ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â DC 20
 
 Listening carefully at the doors reveals:
 
@@ -90,7 +96,7 @@ Listening carefully at the doors reveals:
 - South: a deep oceanic resonance, like hearing the sea through a shell.
     
 
-### Strength — DC 25
+### Strength ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â DC 25
 
 Force open the jammed western door.
 
@@ -103,8 +109,51 @@ Failure by 5 or more:
 
 ---
 
-# 🎭 Props & Loot
-
+## Treasure
 - 4 Fish Potions of Water Breathing
     
 - Hedderset Plaque
+
+---
+
+## Puzzle / Challenge
+
+- Choose between forcing the jammed western door and entering the flooded southern passage.
+
+---
+
+## Encounter Setup
+
+- None.
+
+---
+
+## Characters Present
+
+- None.
+
+---
+
+## Hidden Loot
+
+- None.
+
+---
+
+## Secrets
+
+- The four fish remain alive until consumed.
+
+---
+
+## GM Running Tips
+
+- None.
+
+---
+
+## Atmosphere
+
+- Sounds: Slow dripping, distant metal creaks, and water pressure beyond the doors.
+- Smells: Damp metal, rust, and algae.
+- Lighting: A weak, flickering lamp by the plaque.

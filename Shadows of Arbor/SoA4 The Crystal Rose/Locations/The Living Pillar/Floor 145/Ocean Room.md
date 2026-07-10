@@ -26,10 +26,9 @@ tags:
   - room
 ---
 
-# 🗺️ The Tropical Exhibit
+# The Tropical Exhibit
 
-## 🧭 Summary
-
+## Summary
 - A large oceanic enclosure.
 - Isolated from the other areas completely
 - In order to gain access players would need to break in.
@@ -38,7 +37,7 @@ tags:
 
 ---
 
-## 📖 Read-Aloud Text
+## Read-Aloud Text
 
 - _An expansive seascape stretches out before you, filled with a myriad of tiny, brightly coloured fish that weave and wheel through the water in shimmering schools. Along the sandy floor, small volcanic vents glow a deep red, their heat causing the surrounding water to ripple and distort._
 
@@ -48,29 +47,27 @@ tags:
 
 ---
 
-## 🌫️ Atmosphere
-
+## Atmosphere
 - **Sounds:** A constant volcanic rumble beneath the water, punctuated by the sharp crack of electrical discharges.
 - **Smells:** Brine mixed with faint sulphur.
 - **Lighting:** Warm crimson light from the volcanic vents, broken by flashes of blue-white lightning.
 
 ---
 
-## 📓 GM Notes
-
+## GM Notes
 - This is one of the few areas the Duchess actively avoids. She despises the constant heat and has never had reason to hunt here.
 - The enclosure serves primarily as environmental storytelling, showing the players one of the few places where the Duchess refuses to venture.
 - Because it has remained largely undisturbed, this ecosystem is remarkably healthy.
 - The sea serpent is partially constructed from Great Tree wood and has become a **Memoria Ordo III**, granting it limited sentience.
 - It is badly damaged and incapable of leaving its position, but it still watches over the enclosure.
-- Before the aquarium was abandoned, it delighted in frightening visitors—especially parents attempting to reassure their children—before secretly winking at those same children moments later.
+- Before the aquarium was abandoned, it delighted in frightening visitorsÃ¢â‚¬â€especially parents attempting to reassure their childrenÃ¢â‚¬â€before secretly winking at those same children moments later.
 - Despite its fearsome appearance, it has a surprisingly gentle personality and harbours a deep hatred for the Duchess.
 - If convinced, it may aid the players by attacking the Duchess should they lure her into the enclosure.
 - The Duchess believes something dangerous lives inside the serpent's mouth and has never investigated further.
 
 ---
 
-## 🎲 Checks
+## Checks
 
 - **Nature DC 20**
 
@@ -81,3 +78,51 @@ tags:
 **Perception DC 25**
 
 > _Something about the great sea serpent feels... wrong. The body is clearly artificial, stitched together from timber, cloth and metal, but the head moves ever so slightly. You watch one great eye slowly blink before turning to look directly back at you._
+
+---
+
+## What Changes Here
+
+- None.
+
+---
+
+## Puzzle / Challenge
+
+- The party must find a way to enter the isolated exhibit and earn the sea serpent's aid.
+
+---
+
+## Encounter Setup
+
+- The Dire Lionfish is the principal hostile creature; the damaged sea serpent can become an ally.
+
+---
+
+## Characters Present
+
+- A damaged sentient sea serpent, a Memoria Ordo III.
+
+---
+
+## Treasure
+
+- None.
+
+---
+
+## Hidden Loot
+
+- None.
+
+---
+
+## Secrets
+
+- The Duchess believes something dangerous lies in the serpent's mouth and has never investigated.
+
+---
+
+## GM Running Tips
+
+- None.

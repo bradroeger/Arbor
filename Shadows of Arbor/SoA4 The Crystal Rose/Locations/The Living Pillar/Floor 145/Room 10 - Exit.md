@@ -1,8 +1,8 @@
 ---
 type: room
-adventure:
-area:
-region:
+adventure: "[[The Crystal Rose]]"
+area: "[[Floor 145]]"
+region: "[[The Living Pillar]]"
 id:
 connections: []
 encounter_type: exploration
@@ -25,10 +25,9 @@ treasure: false
 tags:
   - room
 ---
-# 🗺️ Room 10 – Exit
+# Room 10 - Exit
 
-## 🧭 Summary
-
+## Summary
 - The final chamber of the aquarium and the only route to the next floor.
 - A powerful magical barrier prevents both living creatures and the water above from passing through.
 - There are several ways to overcome it:
@@ -36,10 +35,10 @@ tags:
     - Disable the barrier entirely, flooding the floor below.
     - Temporarily suppress the barrier.
     - Fool or bypass the barrier through clever magic or engineering.
-- Beyond lies **Floor 144 – The Tomb.**
+- Beyond lies **Floor 144 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ The Tomb.**
 ---
 
-## 📖 Read-Aloud Text
+## Read-Aloud Text
 
 ### Entering
 
@@ -65,8 +64,7 @@ _Beyond the barrier the air is perfectly still, the stone completely dry._
 
 ---
 
-## 📓 GM Notes
-
+## GM Notes
 - The magical barrier prevents all living creatures from passing through while simultaneously holding back the immense weight of the aquarium above.
 - It continuously scans anything attempting to cross, specifically identifying living creatures and water.
 - Possessing the Duchess's key allows a creature to pass safely.
@@ -78,7 +76,7 @@ _Beyond the barrier the air is perfectly still, the stone completely dry._
 
 ---
 
-## 🎲 Checks
+## Checks
 
 **Perception DC 15**
 - The water stops entirely at the barrier. Beyond it the chamber is completely dry.
@@ -106,16 +104,14 @@ _Beyond the barrier the air is perfectly still, the stone completely dry._
 
 --- 
 
-## 🕵️ Secret
-
+## Secrets
 Hidden beneath one of the lion statues is a weathered inscription.
 
 > _"It feels sacrilegious to build on top of that... She insisted she had permission, I only hope the Great Tree forgives us."_
 
 ---
 
-## 🧠 GM Running Tips
-
+## GM Running Tips
 - This should feel like the climax of the Duchess's hunt.
 - She knows that once the party passes through the barrier she loses them forever.
 - If she has been patient until now, abandon that restraint. She should become manipulative, cruel and desperate.
@@ -134,3 +130,47 @@ When the party attempts to leave you can have her say:
 "You're really leaving?"
 "But we had so much fun..."
 "You'll die down there, they are coming I can feel them."
+
+---
+
+## What Changes Here
+
+- Every significant action advances the Duchess Clock by 2.
+
+---
+
+## Puzzle / Challenge
+
+- Pass, suppress, disable, or bypass the barrier before the Duchess reaches the party.
+
+---
+
+## Encounter Setup
+
+- Run this as the climax of the Duchess's hunt; she uses manipulation and delay rather than a straightforward fight.
+
+---
+
+## Characters Present
+
+- None.
+
+---
+
+## Treasure
+
+- None.
+
+---
+
+## Hidden Loot
+
+- None.
+
+---
+
+## Atmosphere
+
+- Sounds: The low hum and crackle of the magical barrier.
+- Smells: Ozone, wet stone, and dust from the dry chamber beyond.
+- Lighting: Pulsing blue-white barrier light.
