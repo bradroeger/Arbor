@@ -5,7 +5,7 @@
 - [ ] **Airlock fish cloche** - Glass dome, silver plate, and four translucent fish tokens. Room 1.
 - [x] **Hedderset plaque** - Aged brass or silver visitor plaque bearing the Aquarium of Wonders and Delight inscription. Room 1.
 - [x] **Flood-warning sign** - Small framed sign behind cloudy glass for the transition room. Room 2/3.
-- [ ] **Terrarium control board** - Brass coin slots and hand cranks, with labelled controls for nutrients, rainfall, music, treats, and daylight. Room 4.
+- [x] **Terrarium control board** - Brass coin slots and hand cranks, with labelled controls for nutrients, rainfall, music, treats, and daylight. Room 4.
 - [x] **Mycelial spores** - Small jar or packets of coloured spores. Room 4.
 - [ ] **Colony maps** - Weathered route sketches, safe locations, and Duchess sighting records. Room 4.
 - [x] **Ephemera's sword** - Buried, weathered angelic blade. Room 6.
