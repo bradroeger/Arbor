@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadows of Arbor/SoA4 The Crystal Rose/Creatures/The Duchess.md",
+                "file": "Shadows of Arbor/SoA3 The Ivory Flute/Random Encounters/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Duchess"
+              "title": "Untitled"
             }
           }
         ],
@@ -226,12 +226,15 @@
       "cmdr:QuickAdd: New Location": false
     }
   },
-  "active": "52015dab8a7ff1b4",
+  "active": "9fbfd4fe742ef28c",
   "lastOpenFiles": [
     "Templates/Random Encounter Template.md",
+    "Shadows of Arbor/SoA3 The Ivory Flute/Random Encounters/Untitled.md",
+    "Shadows of Arbor/SoA3 The Ivory Flute/Random Encounters",
+    "Templates/NPC Template.md",
+    "Shadows of Arbor/SoA4 The Crystal Rose/Creatures/The Duchess.md",
     "Names for the Plagues.md",
     "Templates/Location Template.md",
-    "Templates/NPC Template.md",
     "Whispered One of the Deep.md",
     "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 7 - The Hologram Room.md",
     "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Room 4 - The Terrarium.md",
@@ -250,10 +253,8 @@
     "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145/Contamination.md",
     "Shadows of Arbor/SoA4 The Crystal Rose/Dramatis Persona/Kameo.md",
     "Kairu.md",
-    "Shadows of Arbor/SoA4 The Crystal Rose/Creatures/The Duchess.md",
     "Shadows of Arbor/SoA4 The Crystal Rose/Dramatis Persona/Nyxie.md",
     "Shadows of Arbor/SoA4 The Crystal Rose/Dramatis Persona/Nyxie.md",
-    "Shadows of Arbor/SoA4 The Crystal Rose/Dramatis Persona/Finn.md",
     "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar/Floor 145",
     "Shadows of Arbor/SoA4 The Crystal Rose/Locations/The Living Pillar",
     "Shadows of Arbor/SoA1 The Amber Lion/Feedback",
@@ -262,7 +263,6 @@
     "Shadows of Arbor/SoA4 The Crystal Rose/Magic Items",
     "Shadows of Arbor/SoA4 The Crystal Rose/Images",
     "Shadows of Arbor/SoA4 The Crystal Rose/Locations",
-    "Shadows of Arbor/SoA4 The Crystal Rose/Handouts",
-    "Shadows of Arbor/SoA4 The Crystal Rose/Dramatis Persona"
+    "Shadows of Arbor/SoA4 The Crystal Rose/Handouts"
   ]
 }

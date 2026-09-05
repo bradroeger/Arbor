@@ -1,7 +1,6 @@
 {
   "ITS@@minimalist-workspace": false,
   "ITS@@hide-resize-handle": false,
-  "ITS@@select": "wotc-beyond",
   "ITS@@t-d": false,
   "ITS@@drwn": false,
   "ITS@@nord": false,
@@ -9,5 +8,13 @@
   "ITS@@its-d": false,
   "ITS@@slrvb-b": false,
   "ITS@@slrvb-g": false,
-  "ITS@@s-d": false
+  "ITS@@s-d": false,
+  "ITS@@accent-color": false,
+  "ITS@@select": "pathfinder",
+  "ITS@@default-statblock": false,
+  "ITS@@breadcrumbs-block": false,
+  "ITS@@metabind-auto": false,
+  "ITS@@ITS-Sizes": "sizing-large",
+  "ITS@@radius-s": 0,
+  "ITS@@background-image": true
 }
