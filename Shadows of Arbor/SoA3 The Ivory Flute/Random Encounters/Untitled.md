@@ -32,35 +32,35 @@ tags:
 
 ## Description
 
-Many of the streets have descended into chaos in the last few days as news of several plagues has spread through the city. As you move through the alleyways and back roads of Arbor attempting to arrive at your destination you begin to hear loud and boisterous shouting from up ahead, you look to your right and left for another way through but you must press forward. Turning the corner out into a wide street you behold a confrontation between a number of [[Green Cloaks]] wearing plague doctor masks and a full scale riot. City folk of the area who are screaming and shouting at the top of their lungs demanding freedom and fair treatment while simultaneously brandishing torches, pitchforks and hammers. 
+A group of rioters are in a tense stand off with a number of the [[Green Cloaks]] it is becoming intense when the players come upon them. There is a chance to defuse the situation if the party acts quickly however too much hesitation and things will boil over quickly. To complicate matters a number of the crowd are infected with only minutes until they turn into full zombies at which point the rioters will go insane and attempt to breach the barricade the [[Green Cloaks]] have erected battering their way through.
 
 ---
 
 ## Encounter at a Glance
 
-| Detail               | Notes       |
-| -------------------- | ----------- |
-| Trigger              | -           |
-| Where                | -           |
-| When                 | Ivory Flute |
-| Difficulty           |             |
-| Primary threat       |             |
-| Alternate resolution |             |
+| Detail               | Notes                 |
+| -------------------- | --------------------- |
+| Trigger              | -                     |
+| Where                | -                     |
+| When                 | Ivory Flute or Later  |
+| Difficulty           | Difficult             |
+| Primary threat       | Embedded Miyo Zombies |
+| Alternate resolution |                       |
 
 ---
 
 ## Read-Aloud Text
 
-> 
+> Many of the streets have descended into chaos in the last few days as news of several plagues has spread through the city. As you move through the alleyways and back roads of Arbor attempting to arrive at your destination you begin to hear loud and boisterous shouting from up ahead, you look to your right and left for another way through but you must press forward. Turning the corner out into a wide street you behold a confrontation between a number of [[Green Cloaks]] wearing plague doctor masks and a full scale riot. City folk of the area who are screaming and shouting at the top of their lungs demanding freedom and fair treatment while simultaneously brandishing torches, pitchforks and hammers. 
 
 ---
 
 ## GM Notes
 
-- **Purpose:** What this encounter adds to the session, story, or setting.
-- **Starting distance / positions:**
-- **What the opposition wants:**
-- **What they know:**
+- **Purpose:** It creates a sense of what the plague is doing and how it's begining to affect people and the state of the city overall.
+- **Starting distance / positions:** The players start on the side with the Green Cloaks
+- **What the opposition wants:** They want to be heard most of all that they are not simply being ignored by the authorities.
+- **What they know:** Their people are dying to a mysterious illness 
 - **What they do not know:**
 
 ---
