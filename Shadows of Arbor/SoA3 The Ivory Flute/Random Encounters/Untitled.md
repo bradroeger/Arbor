@@ -51,7 +51,7 @@ A group of rioters are in a tense stand off with a number of the [[Green Cloaks]
 
 ## Read-Aloud Text
 
-> Many of the streets have descended into chaos in the last few days as news of several plagues has spread through the city. As you move through the alleyways and back roads of Arbor attempting to arrive at your destination you begin to hear loud and boisterous shouting from up ahead, you look to your right and left for another way through but you must press forward. Turning the corner out into a wide street you behold a confrontation between a number of [[Green Cloaks]] wearing plague doctor masks and a full scale riot. City folk of the area who are screaming and shouting at the top of their lungs demanding freedom and fair treatment while simultaneously brandishing torches, pitchforks and hammers. 
+> As you move through the alleyways and back roads of Arbor attempting to arrive at your destination you begin to hear loud and boisterous shouting from up ahead, you look to your right and left for another way through and find no other passeable routes but you must press forward. Turning the corner out into a wide street you behold a confrontation between a number of [[Green Cloaks]] wearing plague doctor masks and a full scale riot. City folk of the area who are screaming and shouting at the top of their lungs demanding freedom and fair treatment while simultaneously brandishing torches, pitchforks and hammers. 
 
 ---
 
