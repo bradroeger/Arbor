@@ -114,54 +114,34 @@ A group of rioters are in a tense stand off with a number of the [[Green Cloaks]
 
 ---
 
-
 ## Outcomes
 
 ### Success
 
-- 
-
+- If the players manage to quell the crowd they can increase their faction standing with the Green Cloaks and Lower Class City Folk. 
+- In addition the Green Cloak Captain will pay them 200 Leaves for likely saving all their lives.
 ### Failure or Escape
 
-- 
+- A scenario where they fail is unlikely but if the Rioters overrun the Green Cloaks then that could be considered a likely failure or the players could ignore this and simply walk away
 
 ### Consequences
 
-- **Immediate:**
-- **Later:**
-- **Faction / clock change:**
+- **Immediate:** They could become infected but most likely they would just take damage
+- **Later:** Plague spreads a little more and Miyo's counter goes up by 5
+- **Faction / clock change:** Green Cloak faction decreases by 1
 
 ---
 
 ## Loot
 
 | Item | Quantity | Found on / where | Value or use | Notes |
-|---|---:|---|---|---|
-| | | | | |
+| ---- | -------: | ---------------- | ------------ | ----- |
+|      |          |                  | 200 Leaves   |       |
 
 ---
-
-## Props
-
-- **Map / battle map:**
-- **Creature or NPC stat blocks:**
-- **Tokens / miniatures:**
-- **Handouts / images / audio:**
-- **Rules to have ready:**
-
----
-
-## Clues and Hooks
-
-- **Clue revealed:**
-- **Leads to:**
-- **Recurring element:**
-
----
-
 ## GM Running Tips
 
-- **Pacing note:**
-- **Sensory detail to reuse:**
+- **Pacing note:** Give the players time to soak in the rioters grief and anger don't be too quick to release the zombies
+- **Sensory detail to reuse:** The shouting should be loud so loud it
 - **One memorable beat:**
 - **End on:**
