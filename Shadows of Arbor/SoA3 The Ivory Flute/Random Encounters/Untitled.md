@@ -10,14 +10,17 @@ encounter_type: combat
 challenge_rating: Hard
 party_level: 7-9
 party_size: "4"
-faction: []
-creatures: []
-npcs: []
+faction:
+  - Green Cloaks
+  - City Folk
+creatures:
+  - Plague Victims
+npcs:
 threat_level: moderate
 time_of_day: any
 weather: any
 trigger: []
-recurrence: once
+recurrence: none
 resolution: unresolved
 loot: false
 tags:
@@ -25,7 +28,7 @@ tags:
   - random-encounter
 ---
 
-# Untitled
+# Rioters
 
 ## Description
 
