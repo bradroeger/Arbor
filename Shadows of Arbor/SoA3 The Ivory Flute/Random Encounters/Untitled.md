@@ -142,6 +142,6 @@ A group of rioters are in a tense stand off with a number of the [[Green Cloaks]
 ## GM Running Tips
 
 - **Pacing note:** Give the players time to soak in the rioters grief and anger don't be too quick to release the zombies
-- **Sensory detail to reuse:** The shouting should be loud so loud it
-- **One memorable beat:**
-- **End on:**
+- **Sensory detail to reuse:** The shouting should be loud so loud it drowns out the noise of talking to the Green Cloaks.
+- **One memorable beat:** When the zombies first appear it should be silent for a moment just after a scream as everyone turns to look at what's occurring we have the crowd temporarily split to see a zombie feasting on a person and then vomiting out the slimy ichor to which we transition to immediate panic.
+- **End on:** In a failure we end on the players fleeing battered and bruised and behold several dead and injured Green Cloaks while in the distance we hear more screams of plague victims. On a success though we see some of the fires quell and maybe a glimmer of hope in the eyes of both sides.
