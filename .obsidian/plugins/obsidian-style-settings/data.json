@@ -1,5 +1,13 @@
 {
   "ITS@@minimalist-workspace": false,
   "ITS@@hide-resize-handle": false,
-  "ITS@@select": "wotc-beyond"
+  "ITS@@select": "wotc-beyond",
+  "ITS@@t-d": false,
+  "ITS@@drwn": false,
+  "ITS@@nord": false,
+  "ITS@@mini": false,
+  "ITS@@its-d": false,
+  "ITS@@slrvb-b": false,
+  "ITS@@slrvb-g": false,
+  "ITS@@s-d": false
 }
