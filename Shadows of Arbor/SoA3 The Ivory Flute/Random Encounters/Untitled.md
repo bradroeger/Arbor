@@ -51,7 +51,7 @@ A group of rioters are in a tense stand off with a number of the [[Green Cloaks]
 
 ## Read-Aloud Text
 
-> As you move through the alleyways and back roads of Arbor attempting to arrive at your destination you begin to hear loud and boisterous shouting from up ahead, you look to your right and left for another way through and find no other passeable routes but you must press forward. Turning the corner out into a wide street you behold a confrontation between a number of [[Green Cloaks]] wearing plague doctor masks and a full scale riot. City folk of the area who are screaming and shouting at the top of their lungs demanding freedom and fair treatment while simultaneously brandishing torches, pitchforks and hammers. 
+> As you move through the alleyways and back roads of Arbor attempting to arrive at your destination you begin to hear loud and boisterous shouting from up ahead, you look to your right and left for another way through and find no other easily passable routes forcing you to press forward. Turning the corner out into a wide street you behold a confrontation between a number of [[Green Cloaks]] wearing plague doctor masks and a full scale riot. City folk of the area who are screaming and shouting at the top of their lungs demanding freedom and fair treatment while simultaneously brandishing torches, pitchforks and hammers. 
 
 ---
 
@@ -61,7 +61,7 @@ A group of rioters are in a tense stand off with a number of the [[Green Cloaks]
 - **Starting distance / positions:** The players start on the side with the Green Cloaks
 - **What the opposition wants:** They want to be heard most of all that they are not simply being ignored by the authorities.
 - **What they know:** Their people are dying to a mysterious illness and they feel abandoned
-- **What they do not know:** The Green Cloaks cannot help them even if they wanted to but they also have been put in the dark.
+- **What they do not know:** The Green Cloaks cannot help them even if they wanted to they also have been put in the dark.
 
 ---
 
