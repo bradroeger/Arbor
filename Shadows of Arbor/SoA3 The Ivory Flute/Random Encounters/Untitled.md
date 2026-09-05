@@ -32,20 +32,20 @@ tags:
 
 ## Description
 
-_A short player-facing description of what the party first notices._
+Many of the streets have descended into chaos in the last few days as news of several plagues has spread through the city. As you move through the alleyways and back roads of Arbor attempting to arrive at your destination you begin to hear loud and boisterous shouting from up ahead, you look to your right and left for another way through but you must press forward. Turning the corner out into a wide street you behold a confrontation between a number of [[Green Cloaks]] wearing plague doctor masks and a full scale riot. City folk of the area who are screaming and shouting at the top of their lungs demanding freedom and fair treatment while simultaneously brandishing torches, pitchforks and hammers. 
 
 ---
 
 ## Encounter at a Glance
 
-| Detail | Notes |
-|---|---|
-| Trigger | |
-| Where | |
-| When | |
-| Difficulty | |
-| Primary threat | |
-| Alternate resolution | |
+| Detail               | Notes       |
+| -------------------- | ----------- |
+| Trigger              | -           |
+| Where                | -           |
+| When                 | Ivory Flute |
+| Difficulty           |             |
+| Primary threat       |             |
+| Alternate resolution |             |
 
 ---
 
