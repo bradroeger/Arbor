@@ -90,7 +90,8 @@ A group of rioters are in a tense stand off with a number of the [[Green Cloaks]
 
 ### Opening Move
 
-- If the zombies appear as a result of too much time / stress accumulating then the rioters first actions are to charge the barricade and break it down potentially trampling the players.
+- If the zombies appear as a result of too much time / stress accumulating then the rioters first actions are to charge the barricade and break it down trampling the players if they fail a **DC 15** Dexterity Saving Throw.
+- The zombies goals are simple to infect as many as possible to aid in this they will grapple a target each and bring them to the ground vomiting on them to cause infection from the slime that oozes from their bodies.
 
 ### Priorities
 
@@ -99,42 +100,20 @@ A group of rioters are in a tense stand off with a number of the [[Green Cloaks]
 ### Morale and Retreat
 
 - **Breaking point:** Any serious damage done to them 50% or more will break a rioting group up.
-- **Retreat route:** In the event the zombies are still p[r]
-- **Surrender / parley terms:**
-
-### Reinforcements and Escalation
-
-- **After [X] rounds / on a loud failure:**
-- **If the party is losing:**
-- **If the party wins quickly:**
-
----
-
-## Characters
-
-| Character / Creature | Role | Goal | Notable detail | Reference |
-|---|---|---|---|---|
-| | | | | |
+- **Retreat route:** In the event the zombies are still present then nothing will really force them back they simply stop
+- **Surrender / parley terms:** They beg the party and Green Cloaks to save them from the zombies.
 
 ---
 
 ## Social Options
 
-- **Approach:**
-- **Leverage / offer:**
-- **Useful checks:**
-- **Information gained:**
+- **Approach:** It's possible for the party to defuse the situation, reminding the mob that they Green Cloaks live here too and that they are trying to survive just as they are will win mgea points.
+- **Leverage / offer:** Any offer of Lesser or Greater Restoration will grant advantage on the checks.
+- **Useful checks:** Persuasion **DC 20** and Perception **DC 15** are useful here. One to talk and smooth things over and the other to identify close cases in the crowd.
+- **Information gained:** A few members of the rioters will turn soon.
 
 ---
 
-## Complications
-
-- Roll or choose one if the encounter needs a turn:
-  - 
-  - 
-  - 
-
----
 
 ## Outcomes
 
