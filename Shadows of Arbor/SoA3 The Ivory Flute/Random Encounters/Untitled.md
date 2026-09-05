@@ -1,14 +1,15 @@
 ---
 type: random-encounter
 status: draft
-adventure:
-region:
-location:
-terrain: []
+adventure: "[[The Ivory Flute]]"
+region: "[[Outer Rings]]"
+location: "-"
+terrain:
+  - Urban
 encounter_type: combat
-challenge_rating:
-party_level:
-party_size:
+challenge_rating: Hard
+party_level: 7-9
+party_size: "4"
 faction: []
 creatures: []
 npcs: []
