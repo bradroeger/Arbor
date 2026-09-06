@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Room 7 - The Hologram Room"
             }
-          },
-          {
-            "id": "9fbfd4fe742ef28c",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Shadows of Arbor/SoA3 The Ivory Flute/Random Encounters/Plague/Dr. Kael's Clinic.md",
-                "bFile": "Shadows of Arbor/SoA3 The Ivory Flute/Random Encounters/Plague/Dr. Kael's Clinic.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Dr. Kael's Clinic  (Working Tree)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,7 +211,7 @@
       "cmdr:QuickAdd: New Location": false
     }
   },
-  "active": "9fbfd4fe742ef28c",
+  "active": "d5f04782a21ac9c5",
   "lastOpenFiles": [
     "Parthena.md",
     "Shadows of Arbor/SoA3 The Ivory Flute/Random Encounters/Plague/Dr. Kael's Clinic.md",
