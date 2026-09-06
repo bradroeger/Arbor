@@ -29,24 +29,24 @@ tags:
   - random-encounter
 ---
 
-# Dr.
+# Dr. Kael's Clinic
 
 ## Description
 
-_A short player-facing description of what the party first notices._
+_Down the road on your path is a small clinic that wasn't there the last time you were down here. Taphnautia and Dr. Kael are running a clinic for the sick and ill of Arbor using the money you granted them to provide for those too sick and too poor to be able to afford the treatments that Arbor affords. This is not without cost though as Dr. Kael has become quite ill close to becoming a zombie. Perhaps the players will be able to make him see reason and to rest before the doctor becomes the patient._
 
 ---
 
 ## Encounter at a Glance
 
-| Detail | Notes |
-|---|---|
-| Trigger | |
-| Where | |
-| When | |
-| Difficulty | |
-| Primary threat | |
-| Alternate resolution | |
+| Detail               | Notes                |
+| -------------------- | -------------------- |
+| Trigger              |                      |
+| Where                | Outer Rings          |
+| When                 | Ivory Flute or Later |
+| Difficulty           | N/A                  |
+| Primary threat       | N/A                  |
+| Alternate resolution |                      |
 
 ---
 
