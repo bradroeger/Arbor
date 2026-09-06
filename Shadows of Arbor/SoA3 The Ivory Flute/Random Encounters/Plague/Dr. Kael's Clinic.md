@@ -33,33 +33,35 @@ tags:
 
 ## Description
 
-_Down the road on your path is a small clinic that wasn't there the last time you were down here. [[Taphnautia]] and Dr. Kael are running a clinic for the sick and ill of Arbor using the money you granted them to provide for those too sick and too poor to be able to afford the treatments that Arbor affords.
+_Down the road on your path is a small clinic that wasn't there the last time you were down here. [[Taphnautia]] and [[Dr. Kael]] are running a clinic for the sick and ill of Arbor using the money you granted them to provide for those too sick and too poor to be able to afford the treatments that Arbor affords.
 
 ---
 
 ## Encounter at a Glance
 
-| Detail               | Notes                |
-| -------------------- | -------------------- |
-| Trigger              | Dr. Kael Survives    |
-| Where                | Outer Rings          |
-| When                 | Ivory Flute or Later |
-| Difficulty           | N/A                  |
-| Primary threat       | N/A                  |
-| Alternate resolution |                      |
+| Detail           | Notes                                                     |
+| ---------------- | --------------------------------------------------------- |
+| Trigger          | [[Dr. Kael]] Survives                                     |
+| Where            | Outer Rings                                               |
+| When             | Ivory Flute or Later                                      |
+| Difficulty       | Simple                                                    |
+| Primary Threat   | Kael succumbing to the Slime Plague                       |
+| Primary Conflict | Kael's exhaustion and infection                           |
+| Resolution       | Persuade Kael to relinquish the clinic and seek treatment |
+| Campaign Impact  | Kael produces a plague treatment                          |
 
 ---
 
 ## Read-Aloud Text
 
-> Your route takes you through a part of the city you've not been through in a while. In front of you is a new sandwich style sign board with the words Dr. Taphnautia's Free Clinic. A line is forming out the door and around the corner, several people in the queue appear to be in various stages of illness and injury but all are waiting patiently. A moment later Taphnautia dressed in a white outfit emerges and says to speaks to the throng of people "I'm very sorry for the wait we will see you all as soon as we can..." as her voice trails off she spots you and smiles waving you over.
+> Your route takes you through a part of the city you've not been through in a while. In front of you is a new sandwich style sign board with the words Dr. [[Taphnautia]]'s Free Clinic. A line is forming out the door and around the corner, several people in the queue appear to be in various stages of illness and injury but all are waiting patiently. A moment later [[Taphnautia]] dressed in a white outfit emerges and addresses the throng of people "I'm very sorry for the wait we will see you all as soon as we can..." as her voice trails off she spots you and smiles waving you over.
 
 A **DC 15** Perception check reveals:
 
->As you look at Taphnautia more closely she seems harried, stained with dried blood and most of all tired. 
+>As you look at [[Taphnautia]] more closely she seems harried, stained with dried blood and most of all tired. 
 
 When the players enter the Clinic
-> As you push past the gathering of people and into the clinic properly you see it is just as busy in here. A half dozen set of chairs, stools and other seating are arrayed around a small waiting room, every single one occupied by a person in distress. A small group of staff hurry about the room attempting to treat who they can quickly here. In addition there is a small door at the back that has a name plate that reads [[Dr. Kael]].
+> As you push past the gathering of people and into the clinic properly you see it is just as busy in here. A half dozen chairs, stools and other seating are arrayed around a small waiting room, every single one occupied by a person in distress. A small group of staff hurry about the room attempting to treat who they can quickly here. In addition there is a small door at the back that has a name plate that reads [[Dr. Kael]].
 
 When the players first see [[Dr. Kael]]
 > Opening the door to the office you see [[Dr. Kael]]s familiar face. Rat folk beastkin with sharp green eyes and large ears, though now there is a signifigant droop to his ears, his eyes are far more dull than they were before and there is something about his whiskers that seems to sag. He is currently working on a patient, a young boy, with a broken arm trying to set the bone. "Now now this will hurt a bit but better to hurt now than to lose it tomorrow... but if you must cry out do so I do not mind a scream or two if it helps as long as it helps you". As he's about his work you glance about the room and see a very well appointed Physickers operating room though one thing catches your eye a strange iron box with a small window and a large lid with a padlock.
