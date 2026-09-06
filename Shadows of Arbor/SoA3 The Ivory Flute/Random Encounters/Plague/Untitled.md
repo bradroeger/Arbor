@@ -56,13 +56,19 @@ _Down the road on your path is a small clinic that wasn't there the last time yo
 
 A **DC 15** Perception check reveals:
 
->As you look at Taphnautia more closely she seems harried and 
+>As you look at Taphnautia more closely she seems harried, stained with dried blood and most of all tired. 
+
+When the players enter the Clinic
+> As you push past the gathering of people and into the clinic properly you see it is just as bust in here. A half dozen set of chairs, stools and other seating are arrayed around a small waiting room, every single one occupied by a person in distress. A small group of staff hurry about the room attempting to treat who they can quickly here. In addition there is a small door at the back that has a name plate that read's Dr. Kael.
+
+When the players first see Dr. Kael
+> Opening the door to the office you see Dr.Kaels familiar face. Rat folk beastkin with sharp green eyes and large ears. 
 
 ---
 
 ## GM Notes
 
-- **Purpose:** A revisit to an old NPC.
+- **Purpose:** Show the consequences of the players' previous generosity and establish the human cost of the plague by reintroducing an old NPC they previously helped
 
 ---
 
