@@ -33,7 +33,7 @@ tags:
 
 ## Description
 
-_Down the road on your path is a small clinic that wasn't there the last time you were down here. Taphnautia and Dr. Kael are running a clinic for the sick and ill of Arbor using the money you granted them to provide for those too sick and too poor to be able to afford the treatments that Arbor affords.
+_Down the road on your path is a small clinic that wasn't there the last time you were down here. [[Taphnautia]] and Dr. Kael are running a clinic for the sick and ill of Arbor using the money you granted them to provide for those too sick and too poor to be able to afford the treatments that Arbor affords.
 
 ---
 
@@ -59,23 +59,23 @@ A **DC 15** Perception check reveals:
 >As you look at Taphnautia more closely she seems harried, stained with dried blood and most of all tired. 
 
 When the players enter the Clinic
-> As you push past the gathering of people and into the clinic properly you see it is just as bust in here. A half dozen set of chairs, stools and other seating are arrayed around a small waiting room, every single one occupied by a person in distress. A small group of staff hurry about the room attempting to treat who they can quickly here. In addition there is a small door at the back that has a name plate that read's Dr. Kael.
+> As you push past the gathering of people and into the clinic properly you see it is just as busy in here. A half dozen set of chairs, stools and other seating are arrayed around a small waiting room, every single one occupied by a person in distress. A small group of staff hurry about the room attempting to treat who they can quickly here. In addition there is a small door at the back that has a name plate that reads [[Dr. Kael]].
 
-When the players first see Dr. Kael
-> Opening the door to the office you see Dr.Kaels familiar face. Rat folk beastkin with sharp green eyes and large ears, though now there is a signifigant droop to his ears, his eyes are far more dull than they were before and there is something about his whiskers that seems to sag. He is currently working on a patient, a young boy, with a broken arm trying to set the bone. "Now now this will hurt a bit but better to hurt now than to lose it tomorrow... but if you must cry out do so I do not mind a scream or two if it helps as long as it helps you". As he's about his work you glance about the room and see a very well appointed Physickers operating room though one thing catches your eye a strange iron box with a small window and a large lid with a padlock.
+When the players first see [[Dr. Kael]]
+> Opening the door to the office you see [[Dr. Kael]]s familiar face. Rat folk beastkin with sharp green eyes and large ears, though now there is a signifigant droop to his ears, his eyes are far more dull than they were before and there is something about his whiskers that seems to sag. He is currently working on a patient, a young boy, with a broken arm trying to set the bone. "Now now this will hurt a bit but better to hurt now than to lose it tomorrow... but if you must cry out do so I do not mind a scream or two if it helps as long as it helps you". As he's about his work you glance about the room and see a very well appointed Physickers operating room though one thing catches your eye a strange iron box with a small window and a large lid with a padlock.
 
 ---
 
 ## GM Notes
 
 - **Purpose:** Show the consequences of the players' previous generosity and establish the human cost of the plague by reintroducing an old NPC they previously helped
-- **Taphnautia** 
-	- While the some of the players are talking to the Doctor, Taphnautia will pull the one she trusts the most to the side and whisper that Dr. Kael has been wonderful in fact more than that he has helped so many. 
+- **[[Taphnautia]]** 
+	- While the some of the players are talking to the Doctor, [[Taphnautia]] will pull the one she trusts the most to the side and whisper that [[Dr. Kael]] has been wonderful in fact more than that he has helped so many. 
 	- But she is worried and hopes that the players will talk to him, She is very worried about him and his health though she does not know about his infection as he's kept it well hidden.
 	- She is perfectly capable of keeping the clinic alive more so if she was allowed a more active role in the development of potions, poultices and other remedies her cures could alleviate the queues far quicker but at the moment with the volume of people she simply has her hands full dealing with that.
-- **Dr.Kael**
+- **[[Dr. Kael]]**
 	- Will make every effort to wave off the party simply saying he will rest when the queue clears up a bit.
-	- If confronted about Dr. Kael's own infection of the Plague will gesture over to a box in the corner a steel man sized container with a large padlock saying that's his plan should it take him, with instructions to be delivered to Taphanutia and perhaps she can find a cure for this damnable thing. The container is empty but his plan is to lock himself inside it and let Taphanautia run experiments on him should the worst occur.
+	- If confronted about [[Dr. Kael]]'s own infection of the Plague will gesture over to a box in the corner a steel man sized container with a large padlock saying that's his plan should it take him, with instructions to be delivered to [[Taphnautia]] and perhaps she can find a cure for this damnable thing. The container is empty but his plan is to lock himself inside it and let [[Taphnautia]] run experiments on him should the worst occur.
 	- If the players are clever and point out the symptoms bear a striking resemblance to haunt sickness he will brighten up for a moment. But say while they are similar there does seem to be some differences though perhaps those things that are the same might make it possible to undo this given enough time. If they bring this up it gives advantage on the persuasion check to convince him to rest.
 
 ---
@@ -92,20 +92,20 @@ When the players first see Dr. Kael
 
 | Character / Creature | Role   | Goal | Notable detail | Reference |
 | -------------------- | ------ | ---- | -------------- | --------- |
-| Taphautia            | Nurse  |      |                |           |
-| Dr. Kael             | Doctor |      |                |           |
+| [[Taphautia]]        | Nurse  |      |                |           |
+| [[Dr. Kael]]         | Doctor |      |                |           |
 
 ---
 
 ## Social Options
 
-- **Approach:** Dr. Kael needs to be convinced to rest or healed
+- **Approach:** [[Dr. Kael]] needs to be convinced to rest or healed
 - **Leverage / offer:** The Players could offer to cast various restorative spells or pay for those to be cast on him which could cure the slime plague but will do nothing to abate his exhaustion. He needs to be convinced not only to rest but also to let go of the clinic if even for a moment to others just as capable or risk losing everything.
 - **Useful checks:** 
 	- Perception **DC 20** to notice the doctors condition in terms of exhaustion this is hinted in the description but if someone wants a hard answer this will get that and the illness.
 	- Medicine **DC 15** to determine he is ill he's hiding this well so it may not come through roleplay or description though it's possible players could work it out of him through that anyways.
 	- Persuasion **DC 20** to convince him to rest and seek help, this DC can be lowered by good roleplay and good arguments.
-- **Information gained:** On success they will learn that Dr. Kael is running on fumes he has 3 levels of exhaustion and an advanced case of the Slime Plague infecting the city. If he's not treated soon he could succumb. In addition casting spells to fix the exhaustion just kicks the problem down the road the players might not be there the next time to fix this and he needs to rest.
+- **Information gained:** On success they will learn that [[Dr. Kael]] is running on fumes he has 3 levels of exhaustion and an advanced case of the Slime Plague infecting the city. If he's not treated soon he could succumb. In addition casting spells to fix the exhaustion just kicks the problem down the road the players might not be there the next time to fix this and he needs to rest.
 
 ---
 
@@ -115,7 +115,7 @@ Kael cannot simply be Persuaded by one successful roll, nor should one failed ro
 
 ### Success
 
-- On a successful Persuasion the PC's convince Dr.Kael to be treated
+- On a successful Persuasion the PCs convince [[Dr. Kael]] to be treated
 
 ### Failure or Escape
 
@@ -124,13 +124,13 @@ Kael cannot simply be Persuaded by one successful roll, nor should one failed ro
 ### Consequences
 
 - **Immediate:** Nothing immediate
-- **Later:** Dr. Kael will join the zombies in the final battle, but if they are successful in getting him to rest he will make a short term cure that will lower the total zombie count in the final confrontation, this should be a notable thing as the cure he develops is aersolised so a scene of him throwing what look like bombs at large crowds of zombies is something that should be included in the montage.
+- **Later:** [[Dr. Kael]] will join the zombies in the final battle, but if they are successful in getting him to rest he will make a short term cure that will lower the total zombie count in the final confrontation, this should be a notable thing as the cure he develops is aerosolised so a scene of him throwing what look like bombs at large crowds of zombies is something that should be included in the montage.
 - **Faction / clock change:** Nothing
 
 ---
 
 ## Loot
-Dr. Kael keeps several healing potions and such on hand and can spare a few to the players.
+[[Dr. Kael]] keeps several healing potions and such on hand and can spare a few to the players.
 
 | Item                       | Quantity | Found on / where | Value or use | Notes |
 | -------------------------- | -------: | ---------------- | ------------ | ----- |
@@ -142,5 +142,5 @@ Dr. Kael keeps several healing potions and such on hand and can spare a few to t
 
 - **Pacing note:** Take time with a few patients create random diseases, maladies and injuries that are being treated as the players are talking to them, don't rush into the bit about him being sick show the good work he is doing and how it is helping these down trodden folks lives before you get to that.
 - **Sensory detail to reuse:** There is a pervasive point here around the lengths the doctor is going to keep awake and aware so have coffee and it's use become near constant
-- **One memorable beat:** A moment where a particularly sick or injured person comes in to thank Dr. Kael to really hammer the point home that he is needed, during that moment have Taphnautia remind the players that he is truly amazing but that he has been going non-stop for days and he needs to rest she is clearly worried about him. The best place to use something like this is right when the players seem to be getting somewhere with luke warm or 
-- **End on:** Taphanutia tucking him into bed and shouldering some of the responsibilities herself while many of those in the line who are less worse off help as well this is a community clinic and it only thrives because the community gives it strength.
+- **One memorable beat:** A moment where a particularly sick or injured person comes in to thank [[Dr. Kael]] to really hammer the point home that he is needed, during that moment have [[Taphnautia]] remind the players that he is truly amazing but that he has been going non-stop for days and he needs to rest she is clearly worried about him. The best place to use something like this is right when the players seem to be getting somewhere with luke warm or weak arguments to highten the drama and force a more drastic confrontation.
+- **End on:** [[Taphnautia]] tucking him into bed and shouldering some of the responsibilities herself while many of those in the line who are less worse off help as well this is a community clinic and it only thrives because the community gives it strength.
