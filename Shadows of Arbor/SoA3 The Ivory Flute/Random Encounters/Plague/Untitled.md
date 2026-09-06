@@ -75,8 +75,8 @@ When the players first see Dr. Kael
 	- She is perfectly capable of keeping the clinic alive more so if she was allowed a more active role in the development of potions, poultices and other remedies her cures could alleviate the queues far quicker but at the moment with the volume of people she simply has her hands full dealing with that.
 - **Dr.Kael**
 	- Will make every effort to wave off the party simply saying he will rest when the queue clears up a bit.
-	- If confronted about Dr. Kael's own infection of the Plague will gesture over to a box in the corner a steel container with a large padlock saying that's his plan should it take him, with instructions to be delivered to Taphanutia and perhaps she can find a cure for this damnable thing.
-	- If the players are clever and point out the symptoms bear a striking resemblance to haunt sickness he will brighten up for a moment. But say while they are similar there does seem to be some differences though perhaps those things that are the same might make it possible to undo this given enough time. If they bring this up it gives advantage on
+	- If confronted about Dr. Kael's own infection of the Plague will gesture over to a box in the corner a steel man sized container with a large padlock saying that's his plan should it take him, with instructions to be delivered to Taphanutia and perhaps she can find a cure for this damnable thing. The container is empty but his plan is to lock himself inside it and let Taphanautia run experiments on him should the worst occur.
+	- If the players are clever and point out the symptoms bear a striking resemblance to haunt sickness he will brighten up for a moment. But say while they are similar there does seem to be some differences though perhaps those things that are the same might make it possible to undo this given enough time. If they bring this up it gives advantage on the persuasion check to convince him to rest.
 
 ---
 
@@ -105,11 +105,13 @@ When the players first see Dr. Kael
 	- Perception **DC 20** to notice the doctors condition in terms of exhaustion this is hinted in the description but if someone wants a hard answer this will get that and the illness.
 	- Medicine **DC 15** to determine he is ill he's hiding this well so it may not come through roleplay or description though it's possible players could work it out of him through that anyways.
 	- Persuasion **DC 20** to convince him to rest and seek help, this DC can be lowered by good roleplay and good arguments.
-- **Information gained:** On success they will learn that Dr. Kael is running on fumes he has 3 levels of exhaustion and an advanced case of the Slime Plague infecting the city. If he's not treated soon he could succumb. 
+- **Information gained:** On success they will learn that Dr. Kael is running on fumes he has 3 levels of exhaustion and an advanced case of the Slime Plague infecting the city. If he's not treated soon he could succumb. In addition casting spells to fix the exhaustion just kicks the problem down the road the players might not be there the next time to fix this and he needs to rest.
 
 ---
 
 ## Outcomes
+
+Kael cannot simply be Persuaded by one successful roll, nor should one failed roll permanently close the encounter. Remember players are clever and dangerous if they can think of some other way to stop Kael, let them.
 
 ### Success
 
@@ -122,7 +124,7 @@ When the players first see Dr. Kael
 ### Consequences
 
 - **Immediate:** Nothing immediate
-- **Later:** Dr. Kael will join the zombies in the final battle, but if they are successful in getting him to rest he will make a short term cure that will lower the total zombie count in the final confrontation.
+- **Later:** Dr. Kael will join the zombies in the final battle, but if they are successful in getting him to rest he will make a short term cure that will lower the total zombie count in the final confrontation, this should be a notable thing as the cure he develops is aersolised so a scene of him throwing what look like bombs at large crowds of zombies is something that should be included in the montage.
 - **Faction / clock change:** Nothing
 
 ---
@@ -140,5 +142,5 @@ Dr. Kael keeps several healing potions and such on hand and can spare a few to t
 
 - **Pacing note:** Take time with a few patients create random diseases, maladies and injuries that are being treated as the players are talking to them, don't rush into the bit about him being sick show the good work he is doing and how it is helping these down trodden folks lives before you get to that.
 - **Sensory detail to reuse:** There is a pervasive point here around the lengths the doctor is going to keep awake and aware so have coffee and it's use become near constant
-- **One memorable beat:** A moment where a particularly sick or injured person comes in to thank Dr. Kael to really hammer the point home that he is needed, during that moment have Taphnautia remind the players that he is truly amazing but that he has been going non-stop for days and he needs to rest she is clearly worried about him.
+- **One memorable beat:** A moment where a particularly sick or injured person comes in to thank Dr. Kael to really hammer the point home that he is needed, during that moment have Taphnautia remind the players that he is truly amazing but that he has been going non-stop for days and he needs to rest she is clearly worried about him. The best place to use something like this is right when the players seem to be getting somewhere with luke warm or 
 - **End on:** Taphanutia tucking him into bed and shouldering some of the responsibilities herself while many of those in the line who are less worse off help as well this is a community clinic and it only thrives because the community gives it strength.
