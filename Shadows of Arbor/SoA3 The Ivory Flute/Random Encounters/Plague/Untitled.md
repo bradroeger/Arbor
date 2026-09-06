@@ -62,13 +62,14 @@ When the players enter the Clinic
 > As you push past the gathering of people and into the clinic properly you see it is just as bust in here. A half dozen set of chairs, stools and other seating are arrayed around a small waiting room, every single one occupied by a person in distress. A small group of staff hurry about the room attempting to treat who they can quickly here. In addition there is a small door at the back that has a name plate that read's Dr. Kael.
 
 When the players first see Dr. Kael
-> Opening the door to the office you see Dr.Kaels familiar face. Rat folk beastkin with sharp green eyes and large ears. 
+> Opening the door to the office you see Dr.Kaels familiar face. Rat folk beastkin with sharp green eyes and large ears, though now there is a signifigant droop to his ears, his eyes are far more dull than they were before and there is something about his whiskers that seems to sag. 
 
 ---
 
 ## GM Notes
 
 - **Purpose:** Show the consequences of the players' previous generosity and establish the human cost of the plague by reintroducing an old NPC they previously helped
+- While the some of the players are talking to the Doctor Taphnautia will pull the one she trusts the most to the side and whisper that Dr. Kael has been wonderful in fact more than that he has helped so many. But she
 
 ---
 
@@ -82,18 +83,21 @@ When the players first see Dr. Kael
 
 ## Characters
 
-| Character / Creature | Role  | Goal | Notable detail | Reference |
-| -------------------- | ----- | ---- | -------------- | --------- |
-| Taphautia            | Nurse |      |                |           |
-| Dr. Kael             |       |      |                |           |
+| Character / Creature | Role   | Goal | Notable detail | Reference |
+| -------------------- | ------ | ---- | -------------- | --------- |
+| Taphautia            | Nurse  |      |                |           |
+| Dr. Kael             | Doctor |      |                |           |
 
 ---
 
 ## Social Options
 
 - **Approach:** Dr. Kael needs to be convinced to rest or healed
-- **Leverage / offer:** The Players could offer to cast various restorative spells or pay for those to be cast on him, regardless though he does ned to rest.
-- **Useful checks:** Perception **DC 25** or Medicine **DC 15** and Persuasion **DC 20**
+- **Leverage / offer:** The Players could offer to cast various restorative spells or pay for those to be cast on him which could cure the slime plague but will do nothing to abate his exhaustion. He needs to be convinced not only to rest but also to let go of the clinic if even for a moment to others just as capable or risk losing everything.
+- **Useful checks:** 
+	- Perception **DC 25** to notice the doctors condition in terms of exhaustion.
+	- Medicine **DC 15** to determine his illness.
+	- Persuasion **DC 20** to convince him to rest and seek help.
 - **Information gained:** On success they will learn that Dr. Kael is running on fumes he has 3 levels of exhaustion and an advanced case of the Slime Plague infecting the city. If he's not treated soon he could succumb. 
 
 ---
