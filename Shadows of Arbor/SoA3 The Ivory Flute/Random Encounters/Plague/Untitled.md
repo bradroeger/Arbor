@@ -118,6 +118,6 @@ Dr. Kael keeps several healing potions and such on hand and can spare a few to t
 ## GM Running Tips
 
 - **Pacing note:** Take time with a few patients create random diseases, maladies and injuries that are being treated as the players are talking to them, don't rush into the bit about him being sick show the good work he is doing and how it is helping these down trodden folks lives before you get to that.
-- **Sensory detail to reuse:** There is a per
-- **One memorable beat:**
-- **End on:**
+- **Sensory detail to reuse:** There is a pervasive point here around the lengths the doctor is going to keep awake and aware so have coffee and it's use become near constant
+- **One memorable beat:** A moment where a particularly sick or injured person comes in to thank Dr. Kael to really hammer the point home that he is needed, during that moment have Taphnautia remind the players that he is truly amazing but that he has been going non-stop for days and he needs to rest she is clearly worried about him.
+- **End on:** Taphanutia tucking him into bed and shouldering some of the responsibilities herself while many of those in the line who are less worse off help as well this is a community clinic and it only thrives because the community gives it strength.
