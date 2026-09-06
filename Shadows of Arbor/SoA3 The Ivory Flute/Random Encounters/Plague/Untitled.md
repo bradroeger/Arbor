@@ -33,7 +33,7 @@ tags:
 
 ## Description
 
-_Down the road on your path is a small clinic that wasn't there the last time you were down here. Taphnautia and Dr. Kael are running a clinic for the sick and ill of Arbor using the money you granted them to provide for those too sick and too poor to be able to afford the treatments that Arbor affords. This is not without cost though as Dr. Kael has become quite ill close to becoming a zombie. Perhaps the players will be able to make him see reason and to rest before the doctor becomes the patient._
+_Down the road on your path is a small clinic that wasn't there the last time you were down here. Taphnautia and Dr. Kael are running a clinic for the sick and ill of Arbor using the money you granted them to provide for those too sick and too poor to be able to afford the treatments that Arbor affords. This is not without cost though as Dr. Kael has become quite ill close to becoming a slime zombie. Perhaps the players will be able to make him see reason and to rest before the doctor becomes the patient._
 
 ---
 
@@ -52,79 +52,39 @@ _Down the road on your path is a small clinic that wasn't there the last time yo
 
 ## Read-Aloud Text
 
-> Your route through the city takes you through a part of the city you've not been through in a while. In front of you is a new sandwich style sign board with the words Dr. Taphnautia's Free Clinic. A line is forming out the door and around the corner, several people in the queue appear to be in various stages of illness and injury but all are waiting patiently. A moment later Taphnautia emerges and says to speaks to the throng of people "I'm very sorry for the wait we will see you all as soon as we can.."
+> Your route through the city takes you through a part of the city you've not been through in a while. In front of you is a new sandwich style sign board with the words Dr. Taphnautia's Free Clinic. A line is forming out the door and around the corner, several people in the queue appear to be in various stages of illness and injury but all are waiting patiently. A moment later Taphnautia dressed in a white outfit emerges and says to speaks to the throng of people "I'm very sorry for the wait we will see you all as soon as we can..." as her voice trails off she spots you and smiles waving you over.
 
 ---
 
 ## GM Notes
 
-- **Purpose:** What this encounter adds to the session, story, or setting.
-- **Starting distance / positions:**
-- **What the opposition wants:**
-- **What they know:**
-- **What they do not know:**
+- **Purpose:** A revisit to an old NPC.
 
 ---
-
-## Trigger and Setup
-
-### Trigger
-
-- Roll or choose this encounter when:
 
 ### Initial State
 
-- **Awareness:** Who notices whom first?
-- **Disposition:** Hostile, wary, neutral, or friendly.
-- **Starting action:** What is happening as the party arrives?
-
-### Terrain and Conditions
-
-- **Features:**
-- **Cover / elevation / exits:**
-- **Hazards:**
-- **Light / weather / visibility:**
-
----
-
-## Battle Tactics
-
-### Opening Move
-
-- 
-
-### Priorities
-
-- 
-
-### Morale and Retreat
-
-- **Breaking point:**
-- **Retreat route:**
-- **Surrender / parley terms:**
-
-### Reinforcements and Escalation
-
-- **After [X] rounds / on a loud failure:**
-- **If the party is losing:**
-- **If the party wins quickly:**
+- **Awareness:** Taphnautia notices the players 
+- **Disposition:** Friendly
+- **Starting action:** A long queue of ill and injured wait for treatment
 
 ---
 
 ## Characters
 
-| Character / Creature | Role | Goal | Notable detail | Reference |
-|---|---|---|---|---|
-| | | | | |
+| Character / Creature | Role  | Goal | Notable detail | Reference |
+| -------------------- | ----- | ---- | -------------- | --------- |
+| Taphautia            | Nurse |      |                |           |
+| Dr. Kael             |       |      |                |           |
 
 ---
 
 ## Social Options
 
-- **Approach:**
-- **Leverage / offer:**
-- **Useful checks:**
-- **Information gained:**
+- **Approach:** Dr. Kael needs to be convinced to rest or healed
+- **Leverage / offer:** The Players could offer to cast various restorative spells or pay for those to be cast on him, regardless though he does ned to rest.
+- **Useful checks:** Perception, Medicine or Arcana all at a **DC of 15**
+- **Information gained:** On success they will learn that Dr. Kael is running on fumes he has 3 levels of exhaustion and an advanced case of the Slime Plague infecting the city. If he's not treated soon he could succumb.
 
 ---
 
