@@ -41,7 +41,7 @@ _Down the road on your path is a small clinic that wasn't there the last time yo
 
 | Detail               | Notes                |
 | -------------------- | -------------------- |
-| Trigger              |                      |
+| Trigger              | Dr. Kael Survives    |
 | Where                | Outer Rings          |
 | When                 | Ivory Flute or Later |
 | Difficulty           | N/A                  |
@@ -52,7 +52,7 @@ _Down the road on your path is a small clinic that wasn't there the last time yo
 
 ## Read-Aloud Text
 
-> 
+> Your route through the city takes you by
 
 ---
 
