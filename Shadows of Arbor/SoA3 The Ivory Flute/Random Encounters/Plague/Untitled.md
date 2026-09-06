@@ -52,7 +52,7 @@ _Down the road on your path is a small clinic that wasn't there the last time yo
 
 ## Read-Aloud Text
 
-> Your route through the city takes you by
+> Your route through the city takes you through a part of the city you've not been through in a while. In front of you is a new sandwich style sign board with the words Dr. Taphnautia's Free Clinic. A line is forming out the door and around the corner, several people in the queue appear to be in various stages of illness and injury but all are waiting patiently. A moment later Taphnautia emerges and says to speaks to the throng of people "I'm very sorry for the wait we will see you all as soon as we can.."
 
 ---
 
