@@ -33,7 +33,7 @@ tags:
 
 ## Description
 
-_Down the road on your path is a small clinic that wasn't there the last time you were down here. [[Taphnautia]] and [[Dr. Kael]] are running a clinic for the sick and ill of Arbor using the money you granted them to provide for those too sick and too poor to be able to afford the treatments that Arbor affords.
+_Down the road on your path is a small clinic that wasn't there the last time you were down here. [[Parthena]] and [[Dr. Kael]] are running a clinic for the sick and ill of Arbor using the money you granted them to provide for those too sick and too poor to be able to afford the treatments that Arbor affords.
 
 ---
 
@@ -54,11 +54,11 @@ _Down the road on your path is a small clinic that wasn't there the last time yo
 
 ## Read-Aloud Text
 
-> Your route takes you through a part of the city you've not been through in a while. In front of you is a new sandwich style sign board with the words Dr. [[Taphnautia]]'s Free Clinic. A line is forming out the door and around the corner, several people in the queue appear to be in various stages of illness and injury but all are waiting patiently. A moment later [[Taphnautia]] dressed in a white outfit emerges and addresses the throng of people "I'm very sorry for the wait we will see you all as soon as we can..." as her voice trails off she spots you and smiles waving you over.
+> Your route takes you through a part of the city you've not been through in a while. In front of you is a new sandwich style sign board with the words Dr. [[Parthena]]'s Free Clinic. A line is forming out the door and around the corner, several people in the queue appear to be in various stages of illness and injury but all are waiting patiently. A moment later [[Parthena]] dressed in a white outfit emerges and addresses the throng of people "I'm very sorry for the wait we will see you all as soon as we can..." as her voice trails off she spots you and smiles waving you over.
 
 A **DC 15** Perception check reveals:
 
->As you look at [[Taphnautia]] more closely she seems harried, stained with dried blood and most of all tired. 
+>As you look at [[Parthena]] more closely she seems harried, stained with dried blood and most of all tired. 
 
 When the players enter the Clinic
 > As you push past the gathering of people and into the clinic properly you see it is just as busy in here. A half dozen chairs, stools and other seating are arrayed around a small waiting room, every single one occupied by a person in distress. A small group of staff hurry about the room attempting to treat who they can quickly here. In addition there is a small door at the back that has a name plate that reads [[Dr. Kael]].
@@ -71,13 +71,13 @@ When the players first see [[Dr. Kael]]
 ## GM Notes
 
 - **Purpose:** Show the consequences of the players' previous generosity and establish the human cost of the plague by reintroducing an old NPC they previously helped
-- **[[Taphnautia]]** 
-	- While the some of the players are talking to the Doctor, [[Taphnautia]] will pull the one she trusts the most to the side and whisper that [[Dr. Kael]] has been wonderful in fact more than that he has helped so many. 
+- **[[Parthena]]** 
+	- While the some of the players are talking to the Doctor, [[Parthena]] will pull the one she trusts the most to the side and whisper that [[Dr. Kael]] has been wonderful in fact more than that he has helped so many. 
 	- But she is worried and hopes that the players will talk to him, She is very worried about him and his health though she does not know about his infection as he's kept it well hidden.
 	- She is perfectly capable of keeping the clinic alive more so if she was allowed a more active role in the development of potions, poultices and other remedies her cures could alleviate the queues far quicker but at the moment with the volume of people she simply has her hands full dealing with that.
 - **[[Dr. Kael]]**
 	- Will make every effort to wave off the party simply saying he will rest when the queue clears up a bit.
-	- If confronted about [[Dr. Kael]]'s own infection of the Plague will gesture over to a box in the corner a steel man sized container with a large padlock saying that's his plan should it take him, with instructions to be delivered to [[Taphnautia]] and perhaps she can find a cure for this damnable thing. The container is empty but his plan is to lock himself inside it and let [[Taphnautia]] run experiments on him should the worst occur.
+	- If confronted about [[Dr. Kael]]'s own infection of the Plague will gesture over to a box in the corner a steel man sized container with a large padlock saying that's his plan should it take him, with instructions to be delivered to [[Parthena]] and perhaps she can find a cure for this damnable thing. The container is empty but his plan is to lock himself inside it and let [[Parthena]] run experiments on him should the worst occur.
 	- If the players are clever and point out the symptoms bear a striking resemblance to haunt sickness he will brighten up for a moment. But say while they are similar there does seem to be some differences though perhaps those things that are the same might make it possible to undo this given enough time. If they bring this up it gives advantage on the persuasion check to convince him to rest.
 
 ---
@@ -144,5 +144,5 @@ Kael cannot simply be Persuaded by one successful roll, nor should one failed ro
 
 - **Pacing note:** Take time with a few patients create random diseases, maladies and injuries that are being treated as the players are talking to them, don't rush into the bit about him being sick show the good work he is doing and how it is helping these down trodden folks lives before you get to that.
 - **Sensory detail to reuse:** There is a pervasive point here around the lengths the doctor is going to keep awake and aware so have coffee and it's use become near constant
-- **One memorable beat:** A moment where a particularly sick or injured person comes in to thank [[Dr. Kael]] to really hammer the point home that he is needed, during that moment have [[Taphnautia]] remind the players that he is truly amazing but that he has been going non-stop for days and he needs to rest she is clearly worried about him. The best place to use something like this is right when the players seem to be getting somewhere with luke warm or weak arguments to highten the drama and force a more drastic confrontation.
-- **End on:** [[Taphnautia]] tucking him into bed and shouldering some of the responsibilities herself while many of those in the line who are less worse off help as well this is a community clinic and it only thrives because the community gives it strength.
+- **One memorable beat:** A moment where a particularly sick or injured person comes in to thank [[Dr. Kael]] to really hammer the point home that he is needed, during that moment have [[Parthena]] remind the players that he is truly amazing but that he has been going non-stop for days and he needs to rest she is clearly worried about him. The best place to use something like this is right when the players seem to be getting somewhere with luke warm or weak arguments to highten the drama and force a more drastic confrontation.
+- **End on:** [[Parthena]] tucking him into bed and shouldering some of the responsibilities herself while many of those in the line who are less worse off help as well this is a community clinic and it only thrives because the community gives it strength.
