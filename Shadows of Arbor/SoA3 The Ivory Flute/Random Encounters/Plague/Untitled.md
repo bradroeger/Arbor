@@ -33,7 +33,7 @@ tags:
 
 ## Description
 
-_Down the road on your path is a small clinic that wasn't there the last time you were down here. Taphnautia and Dr. Kael are running a clinic for the sick and ill of Arbor using the money you granted them to provide for those too sick and too poor to be able to afford the treatments that Arbor affords. This is not without cost though as Dr. Kael has become quite ill close to becoming a slime zombie. Perhaps the players will be able to make him see reason and to rest before the doctor becomes the patient._
+_Down the road on your path is a small clinic that wasn't there the last time you were down here. Taphnautia and Dr. Kael are running a clinic for the sick and ill of Arbor using the money you granted them to provide for those too sick and too poor to be able to afford the treatments that Arbor affords.
 
 ---
 
@@ -70,7 +70,10 @@ When the players first see Dr. Kael
 
 - **Purpose:** Show the consequences of the players' previous generosity and establish the human cost of the plague by reintroducing an old NPC they previously helped
 - While the some of the players are talking to the Doctor, Taphnautia will pull the one she trusts the most to the side and whisper that Dr. Kael has been wonderful in fact more than that he has helped so many. But she is worried and hopes that the players will talk to him, She is very worried about him and his health though she does not know about his infection as he's kept it well hidden.
-- **Dr.Kael** for his part will make every effort to wave off the party simply saying he will rest when the queue  if confronted about the plague will gesture over to a box in the corner a steel container with a large padlock
+- **Dr.Kael**
+- will make every effort to wave off the party simply saying he will rest when the queue clears up a bit.
+	- if confronted about Dr. Kael's own infection of the Plague will gesture over to a box in the corner a steel container with a large padlock saying that's his plan should it take him, with instructions to be delivered to Taphanutia and perhaps she can find a cure for this damnable thing.
+	- If the players are clever and point out the symptoms bear a striking resemblance to haunt sickness he will brighten up for a moment. But say while they are similar there does seem to be some differences though perhaps those things that are the same might make it possible to undo this given enough time.
 
 ---
 
@@ -116,7 +119,7 @@ When the players first see Dr. Kael
 ### Consequences
 
 - **Immediate:** Nothing immediate
-- **Later:** Dr. Kael will join the zombies in the final battle but if they are successful he will lower the total present.
+- **Later:** Dr. Kael will join the zombies in the final battle, but if they are successful in getting him to rest he will make a short term cure that will lower the total zombie count in the final confrontation.
 - **Faction / clock change:** Nothing
 
 ---
