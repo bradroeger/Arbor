@@ -69,11 +69,14 @@ When the players first see Dr. Kael
 ## GM Notes
 
 - **Purpose:** Show the consequences of the players' previous generosity and establish the human cost of the plague by reintroducing an old NPC they previously helped
-- While the some of the players are talking to the Doctor, Taphnautia will pull the one she trusts the most to the side and whisper that Dr. Kael has been wonderful in fact more than that he has helped so many. But she is worried and hopes that the players will talk to him, She is very worried about him and his health though she does not know about his infection as he's kept it well hidden.
+- **Taphnautia** 
+	- While the some of the players are talking to the Doctor, Taphnautia will pull the one she trusts the most to the side and whisper that Dr. Kael has been wonderful in fact more than that he has helped so many. 
+	- But she is worried and hopes that the players will talk to him, She is very worried about him and his health though she does not know about his infection as he's kept it well hidden.
+	- She is perfectly capable of keeping the clinic alive more so if she was allowed a more active role in the development of potions, poultices and other remedies her cures could alleviate the queues far quicker but at the moment with the volume of people she simply has her hands full dealing with that.
 - **Dr.Kael**
-- will make every effort to wave off the party simply saying he will rest when the queue clears up a bit.
-	- if confronted about Dr. Kael's own infection of the Plague will gesture over to a box in the corner a steel container with a large padlock saying that's his plan should it take him, with instructions to be delivered to Taphanutia and perhaps she can find a cure for this damnable thing.
-	- If the players are clever and point out the symptoms bear a striking resemblance to haunt sickness he will brighten up for a moment. But say while they are similar there does seem to be some differences though perhaps those things that are the same might make it possible to undo this given enough time.
+	- Will make every effort to wave off the party simply saying he will rest when the queue clears up a bit.
+	- If confronted about Dr. Kael's own infection of the Plague will gesture over to a box in the corner a steel container with a large padlock saying that's his plan should it take him, with instructions to be delivered to Taphanutia and perhaps she can find a cure for this damnable thing.
+	- If the players are clever and point out the symptoms bear a striking resemblance to haunt sickness he will brighten up for a moment. But say while they are similar there does seem to be some differences though perhaps those things that are the same might make it possible to undo this given enough time. If they bring this up it gives advantage on
 
 ---
 
@@ -99,9 +102,9 @@ When the players first see Dr. Kael
 - **Approach:** Dr. Kael needs to be convinced to rest or healed
 - **Leverage / offer:** The Players could offer to cast various restorative spells or pay for those to be cast on him which could cure the slime plague but will do nothing to abate his exhaustion. He needs to be convinced not only to rest but also to let go of the clinic if even for a moment to others just as capable or risk losing everything.
 - **Useful checks:** 
-	- Perception **DC 25** to notice the doctors condition in terms of exhaustion.
-	- Medicine **DC 15** to determine his illness.
-	- Persuasion **DC 20** to convince him to rest and seek help.
+	- Perception **DC 20** to notice the doctors condition in terms of exhaustion this is hinted in the description but if someone wants a hard answer this will get that and the illness.
+	- Medicine **DC 15** to determine he is ill he's hiding this well so it may not come through roleplay or description though it's possible players could work it out of him through that anyways.
+	- Persuasion **DC 20** to convince him to rest and seek help, this DC can be lowered by good roleplay and good arguments.
 - **Information gained:** On success they will learn that Dr. Kael is running on fumes he has 3 levels of exhaustion and an advanced case of the Slime Plague infecting the city. If he's not treated soon he could succumb. 
 
 ---
