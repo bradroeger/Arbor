@@ -83,17 +83,8 @@ _Down the road on your path is a small clinic that wasn't there the last time yo
 
 - **Approach:** Dr. Kael needs to be convinced to rest or healed
 - **Leverage / offer:** The Players could offer to cast various restorative spells or pay for those to be cast on him, regardless though he does ned to rest.
-- **Useful checks:** Perception, Medicine or Arcana all at a **DC of 15**
-- **Information gained:** On success they will learn that Dr. Kael is running on fumes he has 3 levels of exhaustion and an advanced case of the Slime Plague infecting the city. If he's not treated soon he could succumb.
-
----
-
-## Complications
-
-- Roll or choose one if the encounter needs a turn:
-  - 
-  - 
-  - 
+- **Useful checks:** Perception **DC 25** or Medicine **DC 15** and Persuasion **DC 20**
+- **Information gained:** On success they will learn that Dr. Kael is running on fumes he has 3 levels of exhaustion and an advanced case of the Slime Plague infecting the city. If he's not treated soon he could succumb. 
 
 ---
 
@@ -101,49 +92,32 @@ _Down the road on your path is a small clinic that wasn't there the last time yo
 
 ### Success
 
-- 
+- On a successful Persuasion the PC's convince Dr.Kael to be treated
 
 ### Failure or Escape
 
-- 
+- On a failure he states that his work and the people will not wait for him to be well and he will simply work until either the illness or exhaustion claim him.
 
 ### Consequences
 
-- **Immediate:**
-- **Later:**
-- **Faction / clock change:**
+- **Immediate:** Nothing immediate
+- **Later:** Dr. Kael will join the zombies in the final battle but if they are successful he will lower the total present.
+- **Faction / clock change:** Nothing
 
 ---
 
 ## Loot
+Dr. Kael keeps several healing potions and such on hand and can spare a few to the players.
 
-| Item | Quantity | Found on / where | Value or use | Notes |
-|---|---:|---|---|---|
-| | | | | |
-
----
-
-## Props
-
-- **Map / battle map:**
-- **Creature or NPC stat blocks:**
-- **Tokens / miniatures:**
-- **Handouts / images / audio:**
-- **Rules to have ready:**
-
----
-
-## Clues and Hooks
-
-- **Clue revealed:**
-- **Leads to:**
-- **Recurring element:**
+| Item                       | Quantity | Found on / where | Value or use | Notes |
+| -------------------------- | -------: | ---------------- | ------------ | ----- |
+| Superior Potion of Healing |        3 |                  |              |       |
 
 ---
 
 ## GM Running Tips
 
-- **Pacing note:**
-- **Sensory detail to reuse:**
+- **Pacing note:** Take time with a few patients create random diseases, maladies and injuries that are being treated as the players are talking to them, don't rush into the bit about him being sick show the good work he is doing and how it is helping these down trodden folks lives before you get to that.
+- **Sensory detail to reuse:** There is a per
 - **One memorable beat:**
 - **End on:**
