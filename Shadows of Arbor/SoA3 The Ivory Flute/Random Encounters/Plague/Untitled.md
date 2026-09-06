@@ -62,14 +62,15 @@ When the players enter the Clinic
 > As you push past the gathering of people and into the clinic properly you see it is just as bust in here. A half dozen set of chairs, stools and other seating are arrayed around a small waiting room, every single one occupied by a person in distress. A small group of staff hurry about the room attempting to treat who they can quickly here. In addition there is a small door at the back that has a name plate that read's Dr. Kael.
 
 When the players first see Dr. Kael
-> Opening the door to the office you see Dr.Kaels familiar face. Rat folk beastkin with sharp green eyes and large ears, though now there is a signifigant droop to his ears, his eyes are far more dull than they were before and there is something about his whiskers that seems to sag. 
+> Opening the door to the office you see Dr.Kaels familiar face. Rat folk beastkin with sharp green eyes and large ears, though now there is a signifigant droop to his ears, his eyes are far more dull than they were before and there is something about his whiskers that seems to sag. He is currently working on a patient, a young boy, with a broken arm trying to set the bone. "Now now this will hurt a bit but better to hurt now than to lose it tomorrow... but if you must cry out do so I do not mind a scream or two if it helps as long as it helps you". As he's about his work you glance about the room and see a very well appointed Physickers operating room though one thing catches your eye a strange iron box with a small window and a large lid with a padlock.
 
 ---
 
 ## GM Notes
 
 - **Purpose:** Show the consequences of the players' previous generosity and establish the human cost of the plague by reintroducing an old NPC they previously helped
-- While the some of the players are talking to the Doctor Taphnautia will pull the one she trusts the most to the side and whisper that Dr. Kael has been wonderful in fact more than that he has helped so many. But she
+- While the some of the players are talking to the Doctor, Taphnautia will pull the one she trusts the most to the side and whisper that Dr. Kael has been wonderful in fact more than that he has helped so many. But she is worried and hopes that the players will talk to him, She is very worried about him and his health though she does not know about his infection as he's kept it well hidden.
+- **Dr.Kael** for his part will make every effort to wave off the party simply saying he will rest when the queue  if confronted about the plague will gesture over to a box in the corner a steel container with a large padlock
 
 ---
 
