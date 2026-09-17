@@ -15,7 +15,8 @@ faction:
   - Order of the Fallen Leaves
 creatures:
   - Order Inquisitor
-npcs: []
+npcs:
+  - "[[Matthias Hamburg]]"
 threat_level: moderate
 time_of_day: any
 weather: any
