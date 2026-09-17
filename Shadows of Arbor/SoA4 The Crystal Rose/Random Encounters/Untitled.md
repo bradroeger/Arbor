@@ -17,23 +17,24 @@ creatures:
   - Order Inquisitor
 npcs:
   - "[[Matthias Hamburg]]"
+  - "[[Marina Hamburg]]"
 threat_level: moderate
 time_of_day: any
 weather: any
 trigger: []
 recurrence: once
 resolution: unresolved
-loot: false
+loot: true
 tags:
   - encounter
   - random-encounter
 ---
 
-# Untitled
+# A Father's Love
 
 ## Description
 
-_A short player-facing description of what the party first notices._
+_The players encounter a father who bears a striking resemblance to a man they met at the start of the adventure, they are fleeing from several inquisitors who are seeking to quarantine them before their infection spread with their daughter in their arms._
 
 ---
 
