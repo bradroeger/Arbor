@@ -34,20 +34,20 @@ tags:
 
 ## Description
 
-_The players encounter a father who bears a striking resemblance to a man they met at the start of the adventure, they are fleeing from several inquisitors who are seeking to quarantine them before their infection spread with their daughter in their arms._
+_The players encounter a father who bears a striking resemblance to a man they met at the start of the adventure, they are fleeing from several inquisitors who are seeking to quarantine them before their infection spreads carrying their daughter in their arms._
 
 ---
 
 ## Encounter at a Glance
 
-| Detail | Notes |
-|---|---|
-| Trigger | |
-| Where | |
-| When | |
-| Difficulty | |
-| Primary threat | |
-| Alternate resolution | |
+| Detail               | Notes                  |
+| -------------------- | ---------------------- |
+| Trigger              | None                   |
+| Where                | City Streets           |
+| When                 | [[The Crystal Rose]]   |
+| Difficulty           | Minor                  |
+| Primary threat       | Priests                |
+| Alternate resolution | Healing for the Priest |
 
 ---
 
