@@ -115,18 +115,19 @@ _The players encounter a father who bears a striking resemblance to a man they m
 
 ## Characters
 
-| Character / Creature | Role | Goal | Notable detail   | Reference |
-| -------------------- | ---- | ---- | ---------------- | --------- |
-| Mr. Hamburg          |      |      | Holding Daughter |           |
-| Miss Hamburg         |      |      | Infected Stage I |           |
-| Inquisto             |      |      |                  |           |
+| Character / Creature | Role     | Goal    | Notable detail   | Reference |
+| -------------------- | -------- | ------- | ---------------- | --------- |
+| Mr. Hamburg          |          | Flee    | Holding Daughter |           |
+| Miss Hamburg         |          |         | Infected Stage I |           |
+| Inquisitor Kalax     | Leader   | Capture |                  |           |
+| Inquisitor Aids      | Follower |         |                  |           |
 
 ---
 
 ## Social Options
 
-- **Approach:**
-- **Leverage / offer:**
+- **Approach:** Inquisitors or Hamburg
+- **Leverage / offer:** Healing for the Girl (Greater Restoration is needed Lesser for him)
 - **Useful checks:**
 - **Information gained:**
 
