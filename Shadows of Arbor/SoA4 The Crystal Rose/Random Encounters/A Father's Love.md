@@ -34,7 +34,7 @@ tags:
 
 ## Description
 
-_The players encounter a father who bears a striking resemblance to a man they met at the start of the adventure, they are fleeing from several inquisitors who are seeking to quarantine them before their infection spreads carrying their daughter in their arms._
+_The players encounter a father who bears a striking resemblance to a man they met at the start of the adventure. The father is fleeing from several inquisitors who are seeking to quarantine them their shouts carry to the party screaming stop them they are infected. The father carries their daughter in their arms._
 
 ---
 
@@ -53,7 +53,7 @@ _The players encounter a father who bears a striking resemblance to a man they m
 
 ## Read-Aloud Text
 
-> 
+> *Shouting carries from down the street, indespherible and distant but growing louder and closer every second. Just before you can see the source of the shouting hurried feet barrel around the corner in front of you skidding and slidding nearly into a fall but at the last moment the extremly hairy man wearing a l*
 
 ---
 
