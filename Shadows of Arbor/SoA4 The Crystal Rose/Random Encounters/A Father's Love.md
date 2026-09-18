@@ -128,15 +128,15 @@ _The players encounter a father who bears a striking resemblance to a man they m
 
 - **Approach:** Inquisitors or Hamburg
 - **Leverage / offer:** Healing for the Girl (Greater Restoration is needed Lesser for him)
-- **Useful checks:**
-- **Information gained:**
+- **Useful checks:** Persuasion, Intimidation, Deception, Medicine
+- **Information gained:** Infection Status, 
 
 ---
 
 ## Complications
 
 - Roll or choose one if the encounter needs a turn:
-  - 
+  - The inquisitors recoginize the players as wanted criminals 
   - 
   - 
 
