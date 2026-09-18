@@ -54,17 +54,17 @@ _The players encounter a father who bears a striking resemblance to a man they m
 ## Read-Aloud Text
 
 > *Shouting carries from down the street, indecipherable and distant but growing louder every second. Just before you can see the source of the shouting hurried feet barrel around the corner in front of you. The broad-shouldered goblin-kin man catches himself just as he's about to fall into a fence. He stops just short and pauses only a moment to check on the small child he's holding. Her small arms are wrapped around his furry neck holding tight in her pink dress. As they pass your group he smiles down at her "it's ok Daddy's got you". They barely slow, moving at speeds that should be impossible for a man his size.
-> Around the corner the source of the shouting charges into sight. "Stop Mr. Hamburg. You must Stop!!! You must think of your daughter!!!! You cannot allow others to be subject to her corruption!!! " The Inquisitorial priest shouts from behind the beak like mask while his retinue struggle to keep pace. The dark glass obscuring the eyes of these holy men as their heads turn in your direction. Long-gloved fingers are directed at the pair who are yet still in motion. "Stop them in the name of the Order and Silver Council!!!"*
+> Around the corner the source of the shouting charges into sight. "Stop Mr. Hamburg. You must Stop!!! You must think of your daughter!!!! You cannot allow others to be subject to her corruption!!! " The Inquisitorial priest shouts from behind the beak like mask while his retinue struggle to keep pace. Dark glass obscures the eyes of these holy men as their heads turn in your direction. Long-gloved fingers are directed at the pair who are yet still in motion. "Stop them in the name of the Order and Silver Council!!!"*
 
 ---
 
 ## GM Notes
 
-- **Purpose:** What this encounter adds to the session, story, or setting.
-- **Starting distance / positions:**
-- **What the opposition wants:**
-- **What they know:**
-- **What they do not know:**
+- **Purpose:** A revisit to old wounds or a chance to correct a wound.
+- **Starting distance / positions:** Players are between the Father and Priests
+- **What the opposition wants:** They want to capture Mr. Hamburg and his Daughter
+- **What they know:** She is infected with the Azure Wasting
+- **What they do not know:** The players may be able to fix this
 
 ---
 
@@ -76,16 +76,16 @@ _The players encounter a father who bears a striking resemblance to a man they m
 
 ### Initial State
 
-- **Awareness:** Who notices whom first?
-- **Disposition:** Hostile, wary, neutral, or friendly.
-- **Starting action:** What is happening as the party arrives?
+- **Awareness:** Everyone is aware at the same time
+- **Disposition:** Everyone is Neutral at first
+- **Starting action:** A father is attempting to flee from the quarantine inquisition
 
 ### Terrain and Conditions
 
-- **Features:**
-- **Cover / elevation / exits:**
-- **Hazards:**
-- **Light / weather / visibility:**
+- **Features:** Long alley
+- **Cover / elevation / exits:** Several Exits and Elevations a large building on one side
+- **Hazards:** None
+- **Light / weather / visibility:** Street Lights
 
 ---
 
@@ -115,9 +115,11 @@ _The players encounter a father who bears a striking resemblance to a man they m
 
 ## Characters
 
-| Character / Creature | Role | Goal | Notable detail | Reference |
-|---|---|---|---|---|
-| | | | | |
+| Character / Creature | Role | Goal | Notable detail   | Reference |
+| -------------------- | ---- | ---- | ---------------- | --------- |
+| Mr. Hamburg          |      |      | Holding Daughter |           |
+| Miss Hamburg         |      |      | Infected Stage I |           |
+| Inquisto             |      |      |                  |           |
 
 ---
 
