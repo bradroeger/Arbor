@@ -136,7 +136,7 @@ _The players encounter a father who bears a striking resemblance to a man they m
 ## Complications
 
 - Roll or choose one if the encounter needs a turn:
-  - The inquisitors recoginize the players as wanted criminals 
+  - The inquisitors recognize the players as wanted criminals 
   - 
   - 
 
