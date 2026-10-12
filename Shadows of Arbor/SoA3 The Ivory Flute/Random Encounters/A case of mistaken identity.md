@@ -68,7 +68,9 @@ The players may take many tacks lying or trying to convince the pair they are mi
 
 They will get wistful and the Pankhursts are good people having funneled money to the Beastkins for decades in order to help their plight though they have been unable to stop the takeover of the Beastkin territory in the Garden wall. 
 
-If the players go with them they will run into Gil who is selling his wares in the Canopy now under special allowance from the Pankhurts who employ him to do so. He may recogonise the players if they interacted with them and it may get complicated very quickly as Gil loves and owes the Pankhurts much. If he thinks the players are taking advantage of them he will not h
+If the players go with them they will run into Gil who is selling his wares in the Canopy now under special allowance from the Pankhurts who employ him to do so. He may recogonise the players if they interacted with them and it may get complicated very quickly as Gil loves and owes the Pankhurts much. If he thinks the players are taking advantage of them he will not hesitate to get a Silver Cloak but he does not want the Pankhursts hurt so will avoid doing as much. He does know though that this is not the first time this has happened and if he thinks the players are good hearts and more importantly they did as much as they could for the Red Wings despite their problems he is more inclined to help.
+
+Gil does know a few things and can provide a place to lie low if they need and in the worst possible situation could even smuggle them out should the need arise.
 
 ---
 
