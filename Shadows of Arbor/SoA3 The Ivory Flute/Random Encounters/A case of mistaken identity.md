@@ -48,13 +48,13 @@ _As the players make their way through the canopy and older couple believes they
 
 ## Read-Aloud Text
 
-> As you traverse the well maintained cobblestone streets of the canopy you find yourself crossing a rather busy part 
+> As you traverse the well maintained cobblestone streets of the Canopy you find yourself crossing a rather busy part of the city. A cross roads is in front of you and people are coming from every direction. Most Dressed in servants garb though you wouldn't know it from the quality or craftsmanship, everything up here appears to be of a better quality after all. Still as you make your way through the crows you feel a hand on your arm, "Is that you my dear?"
 
 ---
 
 ## GM Notes
 
-- **Purpose:** What this encounter adds to the session, story, or setting.
+- **Purpose:** A small bit of levity and relief
 - **Starting distance / positions:**
 - **What the opposition wants:**
 - **What they know:**
@@ -66,52 +66,21 @@ _As the players make their way through the canopy and older couple believes they
 
 ### Trigger
 
-- Roll or choose this encounter when:
+- When the players need a break from some high impact or stress parts you need to remember that if it's constantly panic you can't appreciate it.
 
 ### Initial State
 
-- **Awareness:** Who notices whom first?
-- **Disposition:** Hostile, wary, neutral, or friendly.
-- **Starting action:** What is happening as the party arrives?
-
-### Terrain and Conditions
-
-- **Features:**
-- **Cover / elevation / exits:**
-- **Hazards:**
-- **Light / weather / visibility:**
-
----
-
-## Battle Tactics
-
-### Opening Move
-
-- 
-
-### Priorities
-
-- 
-
-### Morale and Retreat
-
-- **Breaking point:**
-- **Retreat route:**
-- **Surrender / parley terms:**
-
-### Reinforcements and Escalation
-
-- **After [X] rounds / on a loud failure:**
-- **If the party is losing:**
-- **If the party wins quickly:**
+- **Awareness:** The NPC
+- **Disposition:** friendly
 
 ---
 
 ## Characters
 
-| Character / Creature | Role | Goal | Notable detail | Reference |
-|---|---|---|---|---|
-| | | | | |
+| Character / Creature  | Role | Goal | Notable detail | Reference |
+| --------------------- | ---- | ---- | -------------- | --------- |
+| Jules Lucas Pankhurst |      |      |                |           |
+|                       |      |      |                |           |
 
 ---
 
