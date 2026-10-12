@@ -64,7 +64,11 @@ Give the players a moment to decide what to do at this juncture. If they simply 
 
 The players will encounter Jules and Drusilla. Who have both mistaken them for one of their grandaughters or grandsons. Pick one of the characters at random to be the mistaken one. Jules and Drusilla are quite old and it's even difficult to know what species they truly are at this point as much of their facial features are hidden by wrinkles. Both Jules and Drusilla should not be out alone as they are mostly blind and a bit deaf but are sweet old dears and something of local celebreties at this point. 
 
-The players may take many tacks lying or trying to convince the pair they are mistaken
+The players may take many tacks lying or trying to convince the pair they are mistaken, which the Pankhursts will have none of of course. If the players go along with it for a while they will suggest going to get some of that new ice cream. They hear that the beastkin who makes it is a friendly sort of chap and the Pankhurts have always been very invested in making sure that beastkin efforts and ideas were expressed in the city. 
+
+They will get wistful and the Pankhursts are good people having funneled money to the Beastkins for decades in order to help their plight though they have been unable to stop the takeover of the Beastkin territory in the Garden wall. 
+
+If the players go with them they will run into Gil who is selling his wares in the Canopy now under special allowance from the Pankhurts who employ him to do so. He may recogonise the players if they interacted with them and it may get complicated very quickly as Gil loves and owes the Pankhurts much. If he thinks the players are taking advantage of them he will not h
 
 ---
 
