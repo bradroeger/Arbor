@@ -76,7 +76,9 @@ Gil does know a few things and can provide a place to lie low if they need and i
 
 [[Drusilla Pankhurst]] - an elderly woman though don't let her know that. Like her husband it's hard to tell what species she once was the ravages of time have left much of any markers behind. Not that it matters but she is not quite as far gone as her husband and does recognise when he's made an error but she's also an excellent judge of character so would never let him make a mistake that got him hurt.
 
-The Pankhursts - They are not o
+The Pankhursts - They are not one of the old families but are still wealthy enough to have made a home in the Canopy. Their business is in the refining of jewels and gems for use in many different industries and magic across Arbor.
+
+[[Gil]] - A simple ice cream merchant from the Nest. He's met the party once before or may have done. He is also a contact for the Red Wings but he's up in the Canopy at the special request of the Pankhursts who arrange for him to sell his ice creams to the local children. The Pankhursts also provide a large amount of secret funding through Gil back to the Nest to try and right the many wrongs. For this Gil is eternally grateful.
 
 ---
 
@@ -98,7 +100,7 @@ The Pankhursts - They are not o
 | ------------------------- | ---- | ---- | -------------- | --------- |
 | Jules Lucas Pankhurst     |      |      |                |           |
 | Drusilla Nettie Pankhurst |      |      |                |           |
-|                           |      |      |                |           |
+| Gil                       |      |      |                |           |
 
 ---
 
@@ -114,9 +116,9 @@ The Pankhursts - They are not o
 ## Complications
 
 - Roll or choose one if the encounter needs a turn:
-  - 
-  - 
-  - 
+  - A Silver Cloak arrives to buy an ice cream
+  - One of the members of the Collegiate Arcanum detects magic in the area (it's the mephit hiding underneath the ice cream cart)
+  - A member of the Order of the Fallen Leaves seems to recogonise a player as having been given their last rights
 
 ---
 
