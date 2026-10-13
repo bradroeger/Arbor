@@ -118,7 +118,7 @@ The Pankhursts - They are not one of the old families but are still wealthy enou
 - Roll or choose one if the encounter needs a turn:
   - A Silver Cloak arrives to buy an ice cream
   - One of the members of the Collegiate Arcanum detects magic in the area (it's the mephit hiding underneath the ice cream cart)
-  - A member of the Order of the Fallen Leaves seems to recogonise a player as having been given their last rights
+  - A member of the Order of the Fallen Leaves seems to recogonise a player as having been at their funeral or last rights.
 
 ---
 
@@ -126,17 +126,22 @@ The Pankhursts - They are not one of the old families but are still wealthy enou
 
 ### Success
 
-- 
+- If the players manage not to arouse suspicion and be good people throughout then Gil will reward them with the following:
+	- 1 piece of useful information about the Canopy
+	- An escape route should they still need it
+	- Free ice cream
+	- Red Wing Faction Up 1
 
 ### Failure or Escape
 
-- 
+- There are a few tense moments which could result in combat you can pull Silver Cloaks, Arcanum members or Fallen Leaves members as appropriate.
 
 ### Consequences
 
-- **Immediate:**
-- **Later:**
-- **Faction / clock change:**
+If the players fail to keep the peace and not arouse suspicion or bolt at the initial meeting
+- **Immediate:** Raise the Alarm level by 1
+- **Later:** Gil will not trust the players
+- **Faction / clock change:** Red Wing Faction Down 1, Silver Cloak Faction down 1
 
 ---
 
@@ -148,27 +153,9 @@ The Pankhursts - They are not one of the old families but are still wealthy enou
 
 ---
 
-## Props
-
-- **Map / battle map:**
-- **Creature or NPC stat blocks:**
-- **Tokens / miniatures:**
-- **Handouts / images / audio:**
-- **Rules to have ready:**
-
----
-
-## Clues and Hooks
-
-- **Clue revealed:**
-- **Leads to:**
-- **Recurring element:**
-
----
-
 ## GM Running Tips
 
-- **Pacing note:**
+- **Pacing note:** Go slow the two elderly people are dottering and sweet play this up over and over again. They however are exceptionally wise and almost seem to know what the players are doing but it's never 100% sure of this. If a character is 
 - **Sensory detail to reuse:**
 - **One memorable beat:**
 - **End on:**
