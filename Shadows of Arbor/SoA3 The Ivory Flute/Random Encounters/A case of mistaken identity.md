@@ -65,14 +65,18 @@ The players will encounter Jules and Drusilla. Who have both mistaken them for o
 
 The players may take many tacks lying or trying to convince the pair they are mistaken, which the Pankhursts will have none of of course. If the players go along with it for a while they will suggest going to get some of that new ice cream. They hear that the beastkin who makes it is a friendly sort of chap and the Pankhurts have always been very invested in making sure that beastkin efforts and ideas were expressed in the city. 
 
-They will get wistful and the Pankhursts are good people having funneled money to the Beastkins for decades in order to help their plight though they have been unable to stop the takeover of the Beastkin territory in the Garden wall. 
+They will get wistful and the Pankhursts are good people having funneled money to the beastkins for decades in order to help their plight though they have been unable to stop the takeover of the Beastkin territory in the Garden wall. 
 
-If the players go with them they will run into Gil who is selling his wares in the Canopy now under special allowance from the Pankhurts who employ him to do so. He may recogonise the players if they interacted with them and it may get complicated very quickly as Gil loves and owes the Pankhurts much. If he thinks the players are taking advantage of them he will not hesitate to get a Silver Cloak but he does not want the Pankhursts hurt so will avoid it if he thinks the Pankhursts might get hurt in the altercation. He does know though that this is not the first time this has happened and if he thinks the players are good hearts and more importantly they did as much as they could for the Red Wings despite their problems he is more inclined to help.
+If the players go with them they will run into Gil who is selling his wares in the Canopy now under special allowance from the Pankhurts who employ him to do so. He may recognise the players if they interacted with them and it may get complicated very quickly as Gil loves and owes the Pankhurts much. If he thinks the players are taking advantage of them he will not hesitate to get a Silver Cloak but he does not want the Pankhursts hurt so will avoid it if he thinks the Pankhursts might get hurt in the altercation. He does know though that this is not the first time this has happened and if he thinks the players are good hearts and more importantly they did as much as they could for the Red Wings despite their problems he is more inclined to help.
 
 Gil does know a few things and can provide a place to lie low if they need and in the worst possible situation could even smuggle them out should the need arise.
 
 #### Mini - Dramatis Personae
-[[Jules Pankhurst]] - an eldery gentlemen of quite some age, he looks human enough but it's hard to say, his wrinkles ha
+[[Jules Pankhurst]] - an elderly gentlemen of quite some age, he looks human enough but it's hard to say, his wrinkles have wrinkles and it's just as likely he could be some form of [[beastkin]], [[goblinoid]] or even one of the [[touched]]. Regardless he is a kind man having lived a life of relative wealth and spent much of it giving back especially to the Red Wings and the various beastkin tribes. He is mostly blind and quite hard of hearing but he continues to do good.
+
+[[Drusilla Pankhurst]] - an elderly woman though don't let her know that. Like her husband it's hard to tell what species she once was the ravages of time have left much of any markers behind. Not that it matters but she is not quite as far gone as her husband and does recognise when he's made an error but she's also an excellent judge of character so would never let him make a mistake that got him hurt.
+
+The Pankhursts - They are not o
 
 ---
 
