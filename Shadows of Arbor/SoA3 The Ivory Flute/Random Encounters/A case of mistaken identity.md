@@ -52,7 +52,7 @@ _As the players make their way through the canopy an older couple believes they 
 Give the players a moment to decide what to do at this juncture. If they simply turn to look you can continue. If they panic and leave then raise the alert level of the area by 1 as [[Jules Pankhurst]] and [[Drusilla Pankhurst]] believe someone is kidnapping their grandchild.
 
 When the players arrive at the ice cream cart:
-> You're led around more than a dozen corners and zig-zag streets. Not quickly mind you but the steps are with purpose as you hold the wrinkled hand of [[Jules Pankhurst]]. "Not much further now just a few... wait how many turns was that dear?" she answers quickly ""
+> You're led around more than a dozen corners and zig-zag streets. Not quickly mind you but the steps are with purpose as you hold the wrinkled hand of [[Jules Pankhurst]]. "Not much further now just a few... wait how many turns was that dear?" she answers quickly "9 Lefts, 4 rights and that little squiggle bit." "Ahh yes one more left then." as he turns to the right and you find yourself in a small city square. Situated in the centre is a small cart with a large parasol sticking out of it. Children and their parents are gathered around it blocking much of the view but a moment later you see a feathered hand and 4 large brass tubs with signs underneath written in Arborian Common and Avian on a small cart. The tubs are covered in a thin layer of frost on the outside, and are Red, Yellow, Green and Blue. The 4 signs say Berry Bliss, Gingersnap Delight, Pistashio Heaven, Skyshimmer Sorbet. Standing behind the tubs is a tallblue and orange Avian beastkin with a striking yellow beak in workmans clothing bundled up against the cold in a green overcoat._
 
 ---
 
