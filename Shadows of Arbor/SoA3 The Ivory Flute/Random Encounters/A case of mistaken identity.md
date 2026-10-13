@@ -51,6 +51,9 @@ _As the players make their way through the canopy an older couple believes they 
 
 Give the players a moment to decide what to do at this juncture. If they simply turn to look you can continue. If they panic and leave then raise the alert level of the area by 1 as [[Jules Pankhurst]] and [[Drusilla Pankhurst]] believe someone is kidnapping their grandchild.
 
+When the players arrive at the ice cream cart:
+> You're led around more than a dozen corners and zig-zag streets. Not quickly mind you but the steps are with purpose as you hold the wrinkled hand of [[Jules Pankhurst]]. "Not much further now just a few... wait how many turns was that dear?" she answers quickly ""
+
 ---
 
 ## GM Notes
@@ -155,7 +158,7 @@ If the players fail to keep the peace and not arouse suspicion or bolt at the in
 
 ## GM Running Tips
 
-- **Pacing note:** Go slow the two elderly people are dottering and sweet play this up over and over again. They however are exceptionally wise and almost seem to know what the players are doing but it's never 100% sure of this. If a character is 
-- **Sensory detail to reuse:**
-- **One memorable beat:**
-- **End on:**
+- **Pacing note:** Go slow the two elderly people are dottering and sweet play this up over and over again. They however are exceptionally wise and almost seem to know what the players are doing but it's never 100% sure of this. If a character is particularly vulnerable to parental love then lean into this character.
+- **Sensory detail to reuse:** The smell of ice cream and treats
+- **One memorable beat:** The moment the players and the Pankhursts arrive at Gils show should be both tense for a moment as Gil recogonises the players and joyful as the children present recogonise the Pankhursts and thank them for the ice cream.
+- **End on:** The Pankhursts eating ice cream on the bench together surrounded by their "Grandchildren" waving the party off.
