@@ -1,16 +1,12 @@
 ---
-type: random-encounter
 status: draft
 adventure:
 region:
 location:
 terrain: []
 encounter_type: combat
-challenge_rating:
-party_level:
-party_size:
-faction: []
-creatures: []
+faction(s): []
+creature(s): []
 npcs: []
 threat_level: moderate
 time_of_day: any
@@ -55,9 +51,9 @@ _A short player-facing description of what the party first notices._
 
 - **Purpose:** What this encounter adds to the session, story, or setting.
 - **Starting distance / positions:**
-- **What the opposition wants:**
-- **What they know:**
-- **What they do not know:**
+- **What is happening:**
+
+General Notes here
 
 ---
 
@@ -81,7 +77,6 @@ _A short player-facing description of what the party first notices._
 - **Light / weather / visibility:**
 
 ---
-
 ## Battle Tactics
 
 ### Opening Move
@@ -114,7 +109,7 @@ _A short player-facing description of what the party first notices._
 
 ---
 
-## Social Options
+## Social
 
 - **Approach:**
 - **Leverage / offer:**
