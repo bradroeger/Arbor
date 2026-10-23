@@ -43,7 +43,7 @@ _The sound of merry making and mirth fills the air, as in front of you a small t
 
 ## Read-Aloud Text
 
-> As the crowd in front parts you see 6 performers dressed in various costumes. 4 of the performers appear to be monstrous beasts of some kind, their cloth and leather outfits conjuring images of the formless creatures that inhabit the Great Sky Highway above. The remaining two are dressed similarly black coats with weapons at their back and hips that give the impression of a seekers dress attire. All of the actors are wearing   
+> As the crowd in front parts you see 6 performers dressed in various costumes. 4 of the performers appear to be monstrous beasts of some kind, their cloth and leather outfits conjuring images of the formless creatures that inhabit the Great Sky Highway above. The remaining two are dressed similarly black coats with weapons at their back and hips that give the impression of a seekers dress attire. All of the actors are wearing identical white masks that hide their faces. The two sides clash together as blades and claws strike explosions of coloured ribbon erupt from both sides and everyone tumbles to the floor continuing to hurl the ribbon into the sky as they roll away from each other. One of the Seeker performer springs to his feet after a moment of lying on the ground, they look around in an exagerated fashion for a moment, as their face points the direction of their fellow seeker they raise a hand to their face for but a moment shrug their shoulders    
 
 ---
 
