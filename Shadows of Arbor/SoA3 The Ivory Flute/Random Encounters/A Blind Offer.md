@@ -24,7 +24,7 @@ tags:
 
 ## Description
 
-_A short player-facing description of what the party first notices._
+_The sound of merry making and mirth fills the air, as in front of you a small troupe of performers entertain a crowd. The crowd moves enough to allow you to see the show in it's full. Your eyes take in 6 in total _
 
 ---
 
