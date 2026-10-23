@@ -43,7 +43,7 @@ _The sound of merry making and mirth fills the air, as in front of you a small t
 
 ## Read-Aloud Text
 
-> As the crowd in front parts you see 6 performers dressed in 
+> As the crowd in front parts you see 6 performers dressed in various costumes. 4 of the performers appear to be monstrous beasts of some kind, their cloth and leather outfits conjuring images of the formless creatures that inhabit the Great Sky Highway above. The remaining two are dressed similarly black coats with weapons at their back and hips that give the impression of a seekers dress attire. All of the actors are wearing   
 
 ---
 
