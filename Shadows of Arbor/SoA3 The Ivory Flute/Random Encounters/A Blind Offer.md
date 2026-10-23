@@ -43,7 +43,7 @@ _The sound of merry making and mirth fills the air, as in front of you a small t
 
 ## Read-Aloud Text
 
-> As the crowd in front parts you see 6 performers dressed in various garb. 4 are armored from foot to neck in shining silver plate, while the remaining are attired as prince and p
+> As the crowd in front parts you see 6 performers dressed in 
 
 ---
 
