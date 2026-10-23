@@ -24,7 +24,7 @@ tags:
 
 ## Description
 
-_The sound of merry making and mirth fills the air, as in front of you a small troupe of performers entertain a crowd. The crowd moves enough to allow you to see the show in it's full. Your eyes take in 6 in total _
+_The sound of merry making and mirth fills the air, as in front of you a small troupe of performers entertain a crowd. The crowd moves enough to allow you to see the show in it's full._
 
 ---
 
@@ -43,7 +43,7 @@ _The sound of merry making and mirth fills the air, as in front of you a small t
 
 ## Read-Aloud Text
 
-> 
+> As the crowd in front parts you see 6 performers dressed in various garb. 4 are armored from foot to neck in shining silver plate, while the remaining are attired as prince and p
 
 ---
 
