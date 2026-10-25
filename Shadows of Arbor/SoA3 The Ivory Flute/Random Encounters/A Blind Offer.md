@@ -56,11 +56,11 @@ _The sound of merry making and mirth fills the air, as in front of you a small t
 
 ## GM Notes
 
-- **Purpose:** What this encounter adds to the session, story, or setting.
+- **Purpose:** To introduce or otherwise highlight the Blind Players
 - **Starting distance / positions:**
-- **What is happening:**
+- **What is happening:** The Blind players are putting on a show a deadly one where one person is being killed right in front of everyone else.
 
-General Notes here
+The Blind players are killing a person here, one of the men cloaked as a monster has been placed to die here. Right in front of everyone. When the performance is done the players will scoop the bod
 
 ---
 
