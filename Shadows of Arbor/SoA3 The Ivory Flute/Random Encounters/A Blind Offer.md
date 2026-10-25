@@ -68,7 +68,9 @@ Otherwise it is simply a play a moment of levity along a path bereft of much.
 
 A character with a **Passive Perception** higher than 25 will notice that one of the "Monsters" appears far more sluggish and non-responsive than the others. 
 
-If the players realise what is going on before the fighting begins and decides to interfere the players will scatter bursting smoke bombs while at the same time 
+If the players realise what is going on before the fighting begins and decides to interfere the players will scatter bursting smoke bombs while at the same time causing a banner to appear that says apologies but interuptions and interference in the Blind players performances are strickly prohibited. 
+
+If the players simply wait for the show to be over they will see many of the crowd have bemused looks upon their faces however a character with a **Passive Perception** higher than 25 will notice that while the streamers are all gone there is a small pool of very real blood on the stage. Though at this point everyone is gone.
 
 ---
 ## Battle Tactics
