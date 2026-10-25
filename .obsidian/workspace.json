@@ -176,16 +176,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "518fbd9ad5a55c29",
-            "type": "leaf",
-            "state": {
-              "type": "trello-plugin",
-              "state": {},
-              "icon": "trello-plugin-icon-trello",
-              "title": "Trello"
-            }
           }
         ],
         "currentTab": 5

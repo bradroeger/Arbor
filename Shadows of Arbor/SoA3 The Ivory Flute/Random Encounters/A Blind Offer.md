@@ -95,10 +95,26 @@ If the players simply wait for the show to be over they will see many of the cro
 Refer to the [[chase]] rules for a full read through here is the relevant variables
 - Successes: 3
 - Failures: 3
-- Skill DC
+- Skill DC start: 15
+- Ramp up: 5
+- Ceiling: 25
 
 ### Events
-After every skill  a d10 and describe what happens based on the random roll
+After every check roll a d10 and describe what happens based on the random roll then the players need to deal with the event.
+
+| d10 | Encounter                                       | Fail                         |
+| --- | ----------------------------------------------- | ---------------------------- |
+|     | Silver Cloak Patrol is about to cross your path | The alert level goes up by 1 |
+|     | Merchant caravan                                |                              |
+|     | Empty road                                      |                              |
+|     | Bandit scouts                                   |                              |
+|     | Travelling mage                                 |                              |
+|     | Wild animal                                     |                              |
+|     |                                                 |                              |
+|     |                                                 |                              |
+|     |                                                 |                              |
+|     |                                                 |                              |
+
 
 ### Complications
 
