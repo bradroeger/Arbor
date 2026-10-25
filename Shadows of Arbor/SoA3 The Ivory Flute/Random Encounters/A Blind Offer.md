@@ -62,13 +62,13 @@ _The sound of merry making and mirth fills the air, as in front of you a small t
 
 The Blind players are killing a person here, one of the men cloaked as a monster has been placed to die here. Right in front of everyone. When the performance is done the players will scoop the body up and leave. 
 
-The person being killed is a lower ranked member of one of the Omaris family. They are little more than a gofer but the players have used the pretense of his matriarchs villiany to associate him with her and deicde he is worthy of death. The players may decide to save him, if they notice in the first place. 
+The person being killed is a lower ranked member of one of the Omaris family. They are little more than a gofer but the players have used the pretence of his matriarchs villainy to associate him with her and decide he is worthy of death. The players may decide to save him, if they notice in the first place. 
 
 Otherwise it is simply a play a moment of levity along a path bereft of much.
 
 A character with a **Passive Perception** higher than 25 will notice that one of the "Monsters" appears far more sluggish and non-responsive than the others. 
 
-If the players realise what is going on before the fighting begins and decides to interfere the players will scatter bursting smoke bombs while at the same time causing a banner to appear that says apologies but interuptions and interference in the Blind players performances are strickly prohibited. 
+If the players realise what is going on before the fighting begins and decides to interfere the performers will scatter bursting smoke bombs while at the same time causing a banner to appear that says apologies but interruptions and interference in the Blind players performances are strictly prohibited. 
 
 If the players simply wait for the show to be over they will see many of the crowd have bemused looks upon their faces however a character with a **Passive Perception** higher than 25 will notice that while the streamers are all gone there is a small pool of very real blood on the stage. Though at this point everyone is gone.
 
