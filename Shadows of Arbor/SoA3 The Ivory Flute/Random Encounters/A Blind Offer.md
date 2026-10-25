@@ -77,27 +77,26 @@ If they continue or manage to disperse the smoke they will initiate a chase with
 If the players simply wait for the show to be over they will see many of the crowd have bemused looks upon their faces however a character with a **Passive Perception** higher than 25 will notice that while the streamers are all gone there are a few drops of very real blood on the stage. Though at this point everyone is gone.
 
 ---
-## Battle Tactics
+## Chase
 
 ### Opening Move
 
-- 
+- Flee!
 
 ### Priorities
 
-- 
+1. Escape
+	1. The blind players do not want to be caught
+2. Kill their target
+	1. The blind players are attempting to end this person for crimes they and their family have done that have gone unpunished.
+3. Leave no evidence.
+	1. The blind players will end their own lives and their masks will disintegrate them and then the masks if they fall unconscious. They are fanatics treat them as such. 
 
-### Morale and Retreat
+### Random Events
+Refer to the [[chase]] rules for a full read through here is the relvant variables
+- Successes: 3
+- Failures: 3
 
-- **Breaking point:**
-- **Retreat route:**
-- **Surrender / parley terms:**
-
-### Reinforcements and Escalation
-
-- **After [X] rounds / on a loud failure:**
-- **If the party is losing:**
-- **If the party wins quickly:**
 
 ---
 
