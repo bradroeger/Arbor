@@ -19,176 +19,163 @@ tags:
   - encounter
   - random-encounter
 ---
-
 # A Blind Offer
 
 ## Description
 
-_The sound of merry making and mirth fills the air, as in front of you a small troupe of performers entertain a crowd. The crowd moves enough to allow you to see the show in it's full._
+_The sound of merrymaking fills the air as a small troupe of performers entertains a crowd. The crowd shifts, allowing you a glimpse of the show._
 
 ---
 
 ## Encounter at a Glance
 
-| Detail | Notes |
+|Detail|Notes|
 |---|---|
-| Trigger | |
-| Where | |
-| When | |
-| Difficulty | |
-| Primary threat | |
-| Alternate resolution | |
+|Trigger|The party encounters a street performance|
+|Where|A public street in Arbor|
+|When|As the party passes the performance|
+|Difficulty|Social encounter; potential chase|
+|Primary threat|The Blind Players|
+|Alternate resolution|The party allows the performance to finish, unaware of the murder|
 
 ---
 
 ## Read-Aloud Text
 
-> The sound of merrymaking fills the air, as in front of you a small troupe of performers takes to a stage. The crowd parts just enough to allow you to see the show in full.
-> As the crowd parts you see six performers dressed in various costumes. four of the performers appear to be monstrous beasts of some kind, their cloth and leather outfits conjuring images of the formless creatures that inhabit the Great Sky Highway. The remaining two are cloaked in black, weapons at their back and hips standing across from the others. All wear identical white featureless masks that obscure their faces. 
-> The crowd holds its breath, as the black cloaks draw their blades, the sound of metal leaving its sheath is unnaturally audible. A black cloak raises the blade in their hand pointing skyward. A moment later they let it fall to point towards the monsters and the two groups charge at each swinging blade and claw wildly.
-> The two sides clash. Coloured ribbon erupts as steel and claw strike true. As the ribbon fills the small stage much is obscured until only the ribbon and the occasional glint of steel flash through. 
-> The ribbons eventually fall, the crowd is quiet and all the actors are upon the ground. One of the black cloaks slowly begins to stir. A murmur and barely audible whispers of encouragement spread through the crowd. The black cloak continues to slowly move. In a sudden burst of energy, the performer springs to his feet in an acrobatic manoeuvre as cheers rise from the crowd.  The black cloak waves their arms and puts a finger to their lips. 
-> They make a great show of looking around the apparent battlefield until they see their fallen comrade. They step towards them picking up the fallen one's arm and watch it fall again and again limply to their side. From the crowd a sharp intake of breath and muttering as the performer shakes their head then shuddering as if weeping. 
-> A moment later, they slowly begin to rise from the floor but before they are fully standing kneel back down and lift the hand once more. The hand catches in the air shaking slightly. A cheer goes up as the black cloak jumps into the air. The cheering becomes louder and the black cloak runs off stage returning with a wheelbarrow and hurls the "injured" person in. 
-> The black cloak grabs the handles of the wheelbarrow and charges off stage. As they do the black cloak pushing falls into the wheelbarrow on top of their friend and carries on rolling. The wheelbarrows handles floating in the air until it and the black cloaks disappear behind the curtain. The crowd claps and laughs. 
+> The sound of merrymaking fills the air as a small troupe of performers takes to a stage. The crowd parts just enough to allow you to see the show in full.
+> 
+> As the crowd parts, you see six performers dressed in various costumes. Four appear to be monstrous beasts, their cloth and leather outfits conjuring images of the formless creatures that inhabit the Great Sky Highway. The remaining two stand opposite them, cloaked in black and carrying weapons at their backs and hips. All six wear identical, featureless white masks that obscure their faces.
+> 
+> The crowd holds its breath as the black-cloaked performers draw their blades. The sound of metal leaving its sheath is unnaturally audible. One raises their blade towards the sky. A moment later, they lower it to point at the monsters, and the two groups charge at each other, swinging blades and claws wildly.
+> 
+> The two sides clash. Coloured ribbon erupts as steel and claw strike true. As the ribbon fills the small stage, the action becomes obscured until only the fluttering streamers and occasional glints of steel remain visible.
+> 
+> Eventually, the ribbons fall. The crowd falls silent, and all six performers lie motionless upon the stage.
+> 
+> One of the black cloaks slowly begins to stir. A murmur passes through the audience, followed by barely audible whispers of encouragement. The performer continues to move, slowly at first, before suddenly springing to their feet in an acrobatic manoeuvre. Cheers rise from the crowd. The performer waves their arms and presses a finger to their lips.
+> 
+> They make a great show of surveying the apparent battlefield before spotting their fallen comrade. Stepping towards them, they lift the fallen performer's arm and let it drop limply to their side. They try again, with the same result.
+> 
+> A sharp intake of breath rises from the crowd, followed by anxious muttering. The performer shakes their head and shudders as if weeping.
+> 
+> A moment later, they begin to rise, only to drop back to their knees before fully standing. They lift their comrade's hand once more. This time, the hand catches the air, trembling slightly.
+> 
+> A cheer erupts as the black cloak leaps into the air. The cheering grows louder. The performer rushes offstage and returns with a wheelbarrow, into which they promptly hurl their "injured" comrade.
+> 
+> Gripping the handles, the performer charges offstage. As they do, they tumble into the wheelbarrow on top of their friend. The wheelbarrow continues rolling, its handles suspended in the air, until it and both black-cloaked performers disappear behind the curtain.
+> 
+> The crowd erupts into applause and laughter.
 
 ---
 
 ## GM Notes
 
-- **Purpose:** To introduce or otherwise highlight the Blind Players
-- **Starting distance / positions:**
-- **What is happening:** The Blind players are putting on a show a deadly one where one person is being killed right in front of everyone else.
+- **Purpose:** Introduce the Blind Players and foreshadow their methods and ideology.
+    
+- **Starting distance / positions:** The party is passing a street performance and must look through the crowd to see the stage.
+    
+- **What is happening:** The Blind Players are using a theatrical performance as cover for a real, premeditated murder.
+    
 
-The Blind players are killing a person here, one of the men cloaked as a monster has been placed to die here. Right in front of everyone. When the performance is done the players will scoop the body up and leave. 
+### The Truth Behind the Performance
 
-The person being killed is a lower ranked member of one of the Omaris family. They are little more than a gofer but the players have used the pretence of his matriarchs villainy to associate him with her and decide he is worthy of death. The players may decide to save him, if they notice in the first place. 
+The Blind Players are staging a mock battle between Seekers and the formless creatures of the Great Sky Highway. However, one of the performers dressed as a monster has been marked for death. The killing takes place in full view of the crowd, concealed by the theatrical violence and coloured ribbon.
 
-Otherwise it is simply a play a moment of levity along a path bereft of much.
+The target is a low-ranking member of House Omaris, little more than a gofer for the family. The Blind Players have judged him deserving of death because of his association with the crimes of his matriarch and family.
 
-A character with a **Passive Perception** higher than 25 will notice that one of the "Monsters" appears far more sluggish and non-responsive than the others. 
+The party may notice the deception and attempt to save him. If they do not, the performance ends, the Blind Players collect the body, and they disappear into the crowd.
 
-If the players realise what is going on before the fighting begins and decides to interfere the performers will scatter bursting smoke bombs while at the same time causing a banner to appear that says apologies but interruptions and interference in the Blind players performances are strictly prohibited. 
+If the party never realises what happened, the encounter serves as a moment of levity along an otherwise grim journey, while quietly establishing the Blind Players' methods.
 
-If they continue or manage to disperse the smoke they will initiate a [[chase]] with the players much to the dismay of the crowd.
+### Spotting the Deception
 
-If the players simply wait for the show to be over they will see many of the crowd have bemused looks upon their faces however a character with a **Passive Perception** higher than 25 will notice that while the streamers are all gone there are a few drops of very real blood on the stage. Though at this point everyone is gone.
+- **Before the fight:** A character with a Passive Perception of 26 or higher notices that one of the performers dressed as a monster is unusually sluggish and unresponsive compared with the others.
+    
+- **After the performance:** A character with a Passive Perception of 26 or higher notices several drops of real blood on the stage after the coloured streamers have been cleared away. By this point, the Blind Players and their victim are gone.
+    
+
+### If the Party Intervenes
+
+If the party recognises the impending murder and intervenes before the fighting begins, the performers scatter smoke bombs. At the same time, a banner unfurls bearing an apology and declaring that interruptions and interference in the Blind Players' performances are strictly prohibited.
+
+If the party persists or manages to disperse the smoke, the Blind Players flee, initiating a chase. The crowd is dismayed by the interruption and may obstruct the party or hinder their pursuit.
 
 ---
+
 ## Chase
 
 ### Opening Move
 
-- Flee!
+- **Flee:** The Blind Players immediately attempt to escape.
+    
 
 ### Priorities
 
-1. Escape
-	1. The blind players do not want to be caught
-2. Kill their target
-	1. The blind players are attempting to end this person for crimes they and their family have done that have gone unpunished.
-3. Leave no evidence.
-	1. The blind players will end their own lives and their masks will disintegrate them and then the masks if they fall unconscious. They are fanatics treat them as such. 
+1. **Escape.** The Blind Players do not want to be captured.
+    
+2. **Kill their target.** They believe the target and his family have committed crimes that have gone unpunished. If the target is still alive, they will attempt to finish the job.
+    
+3. **Leave no evidence.** The Blind Players are fanatics who will sacrifice themselves rather than betray their cause. If they fall unconscious, their masks disintegrate them, leaving no body or identifying evidence.
+    
 
 ### Settings
-Refer to the [[chase]] rules for a full read through here is the relevant variables
-- Successes: 3
-- Failures: 3
-- Skill DC start: 15
-- Ramp up: 5
-- Ceiling: 25
+
+Refer to the chase rules for the full procedure. Use the following variables:
+
+|Variable|Value|
+|---|---|
+|Successes required|3|
+|Failures allowed|3|
+|Starting skill DC|15|
+|DC increase per check|5|
+|Maximum skill DC|25|
 
 ### Events
-After every check roll a d10 and describe what happens based on the random roll then the players need to deal with the event. Unless otherwise noted a failure always results in the failure count going up by 1. Players are encouraged to be creative.
 
-| d10 | Encounter                                                                                 | Fail                                                                          |
-| --- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 1   | Silver Cloak Patrol is about to cross your path                                           | Alert +1                                                                      |
-| 2   | A Merchant is crossing the road in front of you.                                          | -                                                                             |
-| 3   | A water pipe has burst making the ground slick in front of you.                           | -                                                                             |
-| 4   | The performer ducks into an open door hoping to lose you by moving through a house        | Alert +1                                                                      |
-| 5   | A member of the Collegiate Arcanum is in the middle of a heated debate right in the path. | Wisdom saving throw (DC 20) / seperated party                                 |
-| 6   | An exotic pet has broken loose from it's owner and is behaving violently.                 | Random combat encounter or Alert +1                                           |
-| 7   | Two movers are carrying a heavy pane of glass across the street                           | Smash into the glass at full speed, taking 2d6 piercing damage                |
-| 8   | The performer takes to the roofs                                                          | -                                                                             |
-| 9   | A busy street filled with cars bars your path                                             | You get struck by a car as you attempt to cross take 2d10 bludgeoning damage. |
-| 10  | A blast of steam erupts from a nearby pipe obscuring your vision.                         | -                                                                             |
+After each chase check, roll a d10 and describe the corresponding event. The players must then deal with the obstacle or opportunity presented.
 
+Unless otherwise noted, a failed check increases the party's failure count by 1. Encourage creative solutions rather than restricting players to a narrow list of skills.
+
+|d10|Encounter|Consequence on Failure|
+|---|---|---|
+|1|A Silver Cloak patrol is about to cross the party's path.|Alert +1|
+|2|A merchant crosses the street directly in front of the party.|No additional consequence|
+|3|A water pipe has burst, leaving the ground slick.|No additional consequence|
+|4|The fleeing performer ducks through an open doorway, hoping to lose pursuers by cutting through a house.|Alert +1|
+|5|A member of the Collegiate Arcanum is engaged in a heated debate directly in the party's path.|DC 20 Wisdom saving throw or become separated from the party|
+|6|An exotic pet has escaped its owner and is behaving violently.|Random combat encounter or Alert +1|
+|7|Two movers are carrying a heavy pane of glass across the street.|The character crashes into the glass, taking 2d6 piercing damage|
+|8|The fleeing performer scrambles onto the rooftops.|No additional consequence|
+|9|A busy street filled with cars blocks the party's path.|A character attempting to cross is struck by a car and takes 2d10 bludgeoning damage|
+|10|A nearby pipe erupts in a blast of steam, obscuring the party's vision.|No additional consequence|
 
 ---
 
 ## Characters
 
-| Character / Creature | Role | Goal | Notable detail | Reference |
+|Character / Creature|Role|Goal|Notable Detail|Reference|
 |---|---|---|---|---|
-| | | | | |
+|Blind Players|Performers and assassins|Kill their target and escape|Fanatical, masked, and willing to die for their cause||
+|House Omaris operative|Intended victim|Survive|A low-ranking member of the family, targeted for his association with its crimes||
 
 ---
 
 ## Social
 
-The blind players are fanatics they reveal nothing to the point that they have removed their tongues in order to avoid divulging secrets. 
+The Blind Players are fanatics who reveal nothing about their organisation. They have removed their own tongues to ensure they cannot divulge its secrets.
 
-Mind reading is possible but the results of which unless delved deep are a strong co
+Mind reading is possible, but a surface-level reading reveals only their fierce convictions and deep hatred of the rich and powerful.
 
----
-
-## Complications
-
-- Roll or choose one if the encounter needs a turn:
-  - 
-  - 
-  - 
-
----
-
-## Outcomes
-
-### Success
-
-- 
-
-### Failure or Escape
-
-- 
-
-### Consequences
-
-- **Immediate:**
-- **Later:**
-- **Faction / clock change:**
-
----
-
-## Loot
-
-| Item | Quantity | Found on / where | Value or use | Notes |
-|---|---:|---|---|---|
-| | | | | |
-
----
-
-## Props
-
-- **Map / battle map:**
-- **Creature or NPC stat blocks:**
-- **Tokens / miniatures:**
-- **Handouts / images / audio:**
-- **Rules to have ready:**
-
----
-
-## Clues and Hooks
-
-- **Clue revealed:**
-- **Leads to:**
-- **Recurring element:**
+A deeper examination reveals that they know they are likely to die soon. They accept this fate willingly, believing their deaths are preferable to compromising the cause. Their only hope is that House Omaris will eventually face the consequences of its actions.
 
 ---
 
 ## GM Running Tips
 
-- **Pacing note:**
-- **Sensory detail to reuse:**
-- **One memorable beat:**
-- **End on:**
+- **Pacing note:** Let the theatrical battle unfold at a measured pace. Give the crowd's silence and the apparent death time to register before allowing the comedy to break the tension.
+    
+- **Sensory detail to reuse:** The unnaturally loud ring of steel leaving its sheath, the flutter of coloured ribbon, and the crowd's shifting reactions.
+    
+- **One memorable beat:** The wheelbarrow rolls away with its handles floating in the air, carrying both performers behind the curtain.
+    
+- **End on:** The crowd's applause and laughter, followed by the possibility that something far more sinister has just happened in plain sight
