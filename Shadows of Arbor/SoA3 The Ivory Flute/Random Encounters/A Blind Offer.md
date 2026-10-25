@@ -70,9 +70,7 @@ A character with a **Passive Perception** higher than 25 will notice that one of
 
 If the players realise what is going on before the fighting begins and decides to interfere the performers will scatter bursting smoke bombs while at the same time causing a banner to appear that says apologies but interruptions and interference in the Blind players performances are strictly prohibited. 
 
-If they continue or manage to disperse the smoke they will initiate a chase with the players much to the dismay of the crowd.
-
-
+If they continue or manage to disperse the smoke they will initiate a [[chase]] with the players much to the dismay of the crowd.
 
 If the players simply wait for the show to be over they will see many of the crowd have bemused looks upon their faces however a character with a **Passive Perception** higher than 25 will notice that while the streamers are all gone there are a few drops of very real blood on the stage. Though at this point everyone is gone.
 
@@ -82,6 +80,7 @@ If the players simply wait for the show to be over they will see many of the cro
 ### Opening Move
 
 - Flee!
+- 
 
 ### Priorities
 
@@ -92,10 +91,16 @@ If the players simply wait for the show to be over they will see many of the cro
 3. Leave no evidence.
 	1. The blind players will end their own lives and their masks will disintegrate them and then the masks if they fall unconscious. They are fanatics treat them as such. 
 
-### Random Events
-Refer to the [[chase]] rules for a full read through here is the relvant variables
+### Settings
+Refer to the [[chase]] rules for a full read through here is the relevant variables
 - Successes: 3
 - Failures: 3
+- Skill DC
+
+### Events
+After every skill  a d10 and describe what happens based on the random roll
+
+### Complications
 
 
 ---
