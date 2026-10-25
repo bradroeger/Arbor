@@ -80,7 +80,6 @@ If the players simply wait for the show to be over they will see many of the cro
 ### Opening Move
 
 - Flee!
-- 
 
 ### Priorities
 
@@ -102,21 +101,18 @@ Refer to the [[chase]] rules for a full read through here is the relevant variab
 ### Events
 After every check roll a d10 and describe what happens based on the random roll then the players need to deal with the event. Unless otherwise noted a failure always results in the failure count going up by 1. Players are encouraged to be creative.
 
-| d10 | Encounter                                                                                 | Fail                                          |
-| --- | ----------------------------------------------------------------------------------------- | --------------------------------------------- |
-|     | Silver Cloak Patrol is about to cross your path                                           | Alert +1                                      |
-|     | A Merchant is crossing the road in front of you.                                          | -                                             |
-|     | A water pipe has burst making the ground slick in front of you.                           | -                                             |
-|     | The performer ducks into an open door hoping to lose you by moving through a house        | Alert +1                                      |
-|     | A member of the Collegiate Arcanum is in the middle of a heated debate right in the path. | Wisdom saving throw (DC 20) / seperated party |
-|     | An exotic pet has broken loose from it's owner and is behaving violently.                 | Random combat encounter or                    |
-|     |                                                                                           |                                               |
-|     |                                                                                           |                                               |
-|     |                                                                                           |                                               |
-|     |                                                                                           |                                               |
-
-
-### Complications
+| d10 | Encounter                                                                                 | Fail                                                                          |
+| --- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 1   | Silver Cloak Patrol is about to cross your path                                           | Alert +1                                                                      |
+| 2   | A Merchant is crossing the road in front of you.                                          | -                                                                             |
+| 3   | A water pipe has burst making the ground slick in front of you.                           | -                                                                             |
+| 4   | The performer ducks into an open door hoping to lose you by moving through a house        | Alert +1                                                                      |
+| 5   | A member of the Collegiate Arcanum is in the middle of a heated debate right in the path. | Wisdom saving throw (DC 20) / seperated party                                 |
+| 6   | An exotic pet has broken loose from it's owner and is behaving violently.                 | Random combat encounter or Alert +1                                           |
+| 7   | Two movers are carrying a heavy pane of glass across the street                           | Smash into the glass at full speed, taking 2d6 piercing damage                |
+| 8   | The performer takes to the roofs                                                          | -                                                                             |
+| 9   | A busy street filled with cars bars your path                                             | You get struck by a car as you attempt to cross take 2d10 bludgeoning damage. |
+| 10  | A blast of steam erupts from a nearby pipe obscuring your vision.                         | -                                                                             |
 
 
 ---
@@ -131,10 +127,9 @@ After every check roll a d10 and describe what happens based on the random roll 
 
 ## Social
 
-- **Approach:**
-- **Leverage / offer:**
-- **Useful checks:**
-- **Information gained:**
+The blind players are fanatics they reveal nothing to the point that they have removed their tongues in order to avoid divulging secrets. 
+
+Mind reading is possible but the results of which unless delved deep are a strong co
 
 ---
 
