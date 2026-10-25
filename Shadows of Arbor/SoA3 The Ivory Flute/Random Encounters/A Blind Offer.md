@@ -60,28 +60,15 @@ _The sound of merry making and mirth fills the air, as in front of you a small t
 - **Starting distance / positions:**
 - **What is happening:** The Blind players are putting on a show a deadly one where one person is being killed right in front of everyone else.
 
-The Blind players are killing a person here, one of the men cloaked as a monster has been placed to die here. Right in front of everyone. When the performance is done the players will scoop the bod
+The Blind players are killing a person here, one of the men cloaked as a monster has been placed to die here. Right in front of everyone. When the performance is done the players will scoop the body up and leave. 
 
----
+The person being killed is a lower ranked member of one of the Omaris family. They are little more than a gofer but the players have used the pretense of his matriarchs villiany to associate him with her and deicde he is worthy of death. The players may decide to save him, if they notice in the first place. 
 
-## Trigger and Setup
+Otherwise it is simply a play a moment of levity along a path bereft of much.
 
-### Trigger
+A character with a **Passive Perception** higher than 25 will notice that one of the "Monsters" appears far more sluggish and non-responsive than the others. 
 
-- Roll or choose this encounter when:
-
-### Initial State
-
-- **Awareness:** Who notices whom first?
-- **Disposition:** Hostile, wary, neutral, or friendly.
-- **Starting action:** What is happening as the party arrives?
-
-### Terrain and Conditions
-
-- **Features:**
-- **Cover / elevation / exits:**
-- **Hazards:**
-- **Light / weather / visibility:**
+If the players realise what is going on before the fighting begins and decides to interfere the players will scatter bursting smoke bombs while at the same time 
 
 ---
 ## Battle Tactics
