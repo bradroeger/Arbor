@@ -100,20 +100,20 @@ Refer to the [[chase]] rules for a full read through here is the relevant variab
 - Ceiling: 25
 
 ### Events
-After every check roll a d10 and describe what happens based on the random roll then the players need to deal with the event.
+After every check roll a d10 and describe what happens based on the random roll then the players need to deal with the event. Unless otherwise noted a failure always results in the failure count going up by 1. Players are encouraged to be creative.
 
-| d10 | Encounter                                       | Fail                         |
-| --- | ----------------------------------------------- | ---------------------------- |
-|     | Silver Cloak Patrol is about to cross your path | The alert level goes up by 1 |
-|     | Merchant caravan                                |                              |
-|     | Empty road                                      |                              |
-|     | Bandit scouts                                   |                              |
-|     | Travelling mage                                 |                              |
-|     | Wild animal                                     |                              |
-|     |                                                 |                              |
-|     |                                                 |                              |
-|     |                                                 |                              |
-|     |                                                 |                              |
+| d10 | Encounter                                                                                 | Fail                                          |
+| --- | ----------------------------------------------------------------------------------------- | --------------------------------------------- |
+|     | Silver Cloak Patrol is about to cross your path                                           | Alert +1                                      |
+|     | A Merchant is crossing the road in front of you.                                          | -                                             |
+|     | A water pipe has burst making the ground slick in front of you.                           | -                                             |
+|     | The performer ducks into an open door hoping to lose you by moving through a house        | Alert +1                                      |
+|     | A member of the Collegiate Arcanum is in the middle of a heated debate right in the path. | Wisdom saving throw (DC 20) / seperated party |
+|     | An exotic pet has broken loose from it's owner and is behaving violently.                 | Random combat encounter or                    |
+|     |                                                                                           |                                               |
+|     |                                                                                           |                                               |
+|     |                                                                                           |                                               |
+|     |                                                                                           |                                               |
 
 
 ### Complications
