@@ -70,7 +70,11 @@ A character with a **Passive Perception** higher than 25 will notice that one of
 
 If the players realise what is going on before the fighting begins and decides to interfere the performers will scatter bursting smoke bombs while at the same time causing a banner to appear that says apologies but interruptions and interference in the Blind players performances are strictly prohibited. 
 
-If the players simply wait for the show to be over they will see many of the crowd have bemused looks upon their faces however a character with a **Passive Perception** higher than 25 will notice that while the streamers are all gone there is a small pool of very real blood on the stage. Though at this point everyone is gone.
+If they continue or manage to disperse the smoke they will initiate a chase with the players much to the dismay of the crowd.
+
+
+
+If the players simply wait for the show to be over they will see many of the crowd have bemused looks upon their faces however a character with a **Passive Perception** higher than 25 will notice that while the streamers are all gone there are a few drops of very real blood on the stage. Though at this point everyone is gone.
 
 ---
 ## Battle Tactics
